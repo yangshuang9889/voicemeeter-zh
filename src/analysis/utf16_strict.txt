@@ -1,0 +1,659 @@
+14a5c0	(null)
+14a67c	祟n祟1祟0牦硥p
+14a6d0	慴n潣s楳n煳瑲
+14a748	mscoree.dll
+14b190	Microsoft Visual C++ Runtime Library
+14b1f0	<program name unknown>
+14b258	HH:mm:ss
+14b270	dddd, MMMM dd, yyyy
+14b2c0	December
+14b2d8	November
+14b2f0	October
+14b318	August
+14b328	July
+14b338	June
+14b348	April
+14b358	March
+14b368	February
+14b380	January
+14b3f0	Saturday
+14b408	Friday
+14b418	Thursday
+14b430	Wednesday
+14b448	Tuesday
+14b468	Sunday
+14b4ec	敄c潎v捏t敓p畁g畊l畊n灁r慍r敆b慊n慓t牆i桔u敗d畔e潍n畓n
+14b778	USER32.DLL
+14c000	.wav
+14c010	.bwf
+14c020	.aif
+14c030	.aiff
+14c040	.iff
+14c050	wave
+14c060	aiff
+14c078	unknown
+14c260	敤捳楲瑰潩n
+14c2f8	edit
+14c3d0	桓汥彬潎楴祦捉湯A
+14c430	敇噴牥楳湯硅A
+14c630	Duration
+14c648	Bitrate
+14c670	Stridable
+14c688	Broadcast
+14c6a0	Is_Protected
+14c6c0	Is_Trusted
+14c6d8	Signature_Name
+14c6f8	HasAudio
+14c710	HasImage
+14c728	HasScript
+14c740	HasVideo
+14c758	CurrentBitrate
+14c778	OptimalBitrate
+14c798	HasAttachedImages
+14c7c0	Can_Skip_Backward
+14c7e8	Can_Skip_Forward
+14c810	NumberOfFrames
+14c830	FileSize
+14c848	HasArbitraryDataStream
+14c878	HasFileTransferStream
+14c8a8	WM/ContainerFormat
+14c8d0	Title
+14c8e0	Author
+14c8f0	Description
+14c918	Copyright
+14c930	Use_DRM
+14c958	DRM_Level
+14c970	Use_Advanced_DRM
+14c998	DRM_KeySeed
+14c9c8	DRM_ContentID
+14c9e8	DRM_SourceID
+14ca08	DRM_IndividualizedVersion
+14ca40	DRM_LicenseAcqURL
+14ca68	DRM_V1LicenseAcqURL
+14cac0	DRM_LASignaturePrivKey
+14caf0	DRM_LASignatureCert
+14cb50	DRM_LASignatureRootCert
+14cba0	WM/Track
+14cbb8	WM/PromotionURL
+14cc00	WM/Genre
+14cc18	WM/Year
+14cc40	WM/MCDI
+14cc68	WM/Lyrics
+14cc80	WM/TrackNumber
+14cca0	WM/ToolName
+14ccd8	IsVBR
+14cce8	WM/AlbumArtist
+14cd08	BannerImageType
+14cd48	BannerImageURL
+14cd68	CopyrightURL
+14cd88	AspectRatioX
+14cda8	AspectRatioY
+14cdc8	ASFLeakyBucketPairs
+14ce08	NSC_Address
+14ce38	NSC_Email
+14ce50	NSC_Description
+14ce88	WM/Conductor
+14cea8	WM/Producer
+14ced8	WM/ContentGroupDescription
+14cf10	WM/SubTitle
+14cf48	WM/ProtectionType
+14cf70	WM/VideoHeight
+14cf90	WM/VideoWidth
+14cfb0	WM/VideoFrameRate
+14cfd8	WM/MediaClassPrimaryID
+14d008	WM/MediaClassSecondaryID
+14d040	WM/Period
+14d058	WM/Category
+14d088	WM/Lyrics_Synchronised
+14d0b8	WM/OriginalLyricist
+14d108	WM/OriginalAlbumTitle
+14d138	WM/OriginalReleaseYear
+14d168	WM/OriginalFilename
+14d1b0	WM/EncodedBy
+14d1d0	WM/EncodingSettings
+14d218	WM/AuthorURL
+14d238	WM/UserWebURL
+14d258	WM/AudioFileURL
+14d2a0	WM/Language
+14d2e0	WM/BeatsPerMinute
+14d308	WM/InitialKey
+14d328	WM/Mood
+14d348	WM/DVDID
+14d360	WM/WMContentID
+14d380	WM/WMCollectionID
+14d3a8	WM/WMCollectionGroupID
+14d3d8	WM/UniqueFileIdentifier
+14d428	WM/RadioStationName
+14d480	WM/PlaylistDelay
+14d4a8	WM/Codec
+14d4c0	WM/DRM
+14d4d0	WM/ISRC
+14d4f8	WM/ProviderRating
+14d520	WM/ProviderStyle
+14d548	WM/ContentDistributor
+14d578	WM/SubscriptionContentID
+14d5b0	WM/WMADRCPeakReference
+14d5e0	WM/WMADRCPeakTarget
+14d640	WM/WMADRCAverageTarget
+14d670	WM/StreamTypeInfo
+14d698	WM/PeakBitrate
+14d6b8	WM/ASFPacketCount
+14d6e0	WM/ASFSecurityObjectsSize
+14d718	WM/SharedUserRating
+14d770	WM/MediaCredits
+14d7c0	WM/OriginalReleaseTime
+14d7f0	WM/MediaStationCallSign
+14d848	WM/MediaNetworkAffiliation
+14d880	WM/MediaOriginalChannel
+14d8f8	WM/MediaIsStereo
+14d920	WM/VideoClosedCaptioning
+14d958	WM/MediaIsRepeat
+14d980	WM/MediaIsLive
+14d9a0	WM/MediaIsTape
+14d9c0	WM/MediaIsDelay
+14da08	WM/MediaIsPremiere
+14da30	WM/MediaIsFinale
+14da58	WM/MediaIsSAP
+14da78	WM/ProviderCopyright
+14daa8	WM/ISAN
+14dac8	WM/WMShadowFileSourceFileType
+14db08	WM/WMShadowFileSourceDRMType
+14db48	WM/WMCPDistributor
+14db70	WM/WMCPDistributorID
+14dba0	WM/SeasonNumber
+14dbe8	EarlyDataDelivery
+14dc10	JustInTimeDecode
+14dc38	SingleOutputBuffer
+14dc60	SoftwareScaling
+14dca8	ScrambledAudio
+14dcc8	DedicatedDeliveryThread
+14dd28	SpeakerConfig
+14dd48	DynamicRangeControl
+14dda0	VideoSampleDurations
+14ddd0	StreamLanguage
+14ddf0	EnableWMAProSPDIFOutput
+14de40	InitialPatternForInverseTelecine
+14de88	JPEGCompressionQuality
+14deb8	WatermarkCLSID
+14ded8	WatermarkConfig
+14df20	FixedFrameRate
+14df40	_SOURCEFORMATTAG
+14df68	_ORIGINALWAVEFORMAT
+14dfa0	_COMPLEXITYEX
+14dfc0	_DECODERCOMPLEXITYPROFILE
+14dff8	ReloadIndexOnSeek
+14e020	StreamNumIndexObjects
+14e050	FailSeekOnError
+14e0b0	UsePacketAtSeekPoint
+14e0e0	SourceBufferTime
+14e108	SourceMaxBytesAtOnce
+14e138	_VBRENABLED
+14e168	_RMAX
+14e178	_BMAX
+14e188	VBR Peak
+14e1a0	Buffer Average
+14e1c0	_COMPLEXITYEXMAX
+14e1e8	_COMPLEXITYEXOFFLINE
+14e218	_COMPLEXITYEXLIVE
+14e240	_ISVBRSUPPORTED
+14e278	MusicSpeechClassMode
+14e2a8	MusicClassMode
+14e2c8	SpeechClassMode
+14e308	SpeechFormatCap
+14e340	AverageLevel
+14e360	Fold6To2Channels3
+14e388	Fold%luTo%luChannels%lu
+14e3f0	EnableFrameInterpolation
+14e428	NeedsPreviousSample
+14e478	ASIO Multimedia Driver
+14e6f8	楄灳慬乹浡e
+14e708	湕湩瑳污卬牴湩gDAT
+14e730	VB-Audio_PCFootprint.dat
+14e768	VBAudio
+14e7a0	Export Computer Footprint
+14e7d8	.dat
+14e8e0	*.dat
+14e8f0	Import Computer Footprint
+14eb38	BaseBoardManufacturer
+14eb68	BaseBoardProduct
+14eb90	BaseBoardVersion
+14ebb8	BIOSVendor
+14ebd0	BIOSVersion
+14edc8	湏楬敮猠牥楶散渠瑯愠慶汩扡敬
+14ee38	捁楴慶整
+14ee48	祍眠扥桳灯愠捣畯瑮
+14efb8	敒楧瑳祲映楡畬敲
+14f0a8	塘塘塘塘塘
+14f4b0	捁楴慶楴湯匠捵散獳
+14f608	灩汨慰楰搮汬
+14f990	洨)猨灭)
+14fa20	楔敭匠杩慮畴敲
+14fa78	敓畱湥楴污洠癯獥
+14fad8	摁番瑳嘠污敵
+14fd48	楄敲瑣洠畯敳瀠獯瑩潩n
+14fdd8	image/png
+14fdf0	image/jpeg
+14fe08	image/tiff
+14fe20	image/gif
+14fe48	摇灩畬即慴瑲灵
+14fef8	摇灩牃慥整楂浴灡牆浯瑓敲浡
+14ff18	摇灩牃慥整楂浴灡牆浯楆敬
+14ffb0	摇灩慓敶浉条呥卯牴慥m
+150020	慓畴摲祡
+150038	桔牵摳祡
+150048	敗湤獥慤y
+150058	畔獥慤y潍摮祡
+1500a8	潎敶扭牥
+1500b8	捏潴敢r敓瑰浥敢r
+1500e4	慍y灁楲l
+1500f8	敆牢慵祲
+150210	瑎畑牥呹浩牥敒潳畬楴湯
+150240	software\asio
+150660	敄楶散丠瑯匠慴瑲摥:
+150678	牄癩牥渠瑯映畯摮
+150730	Duration
+150748	\\.\%s
+150760	.mp2
+150770	.son
+150780	.mp3
+150790	.m4a
+1507a0	.wma
+1507b0	.wmv
+1507c0	.mp4
+1507d0	.avi
+1507e0	.mov
+1507f0	.cda
+150850	晍汰瑡搮汬
+150c08	硥汰牯牥攮數
+150e20	Properties
+150e38	Render
+150e48	Capture
+150e68	慍捴楨杮敄楶散摉
+150e80	牄癩牥敄捳
+150f70	FriendlyName
+150f90	SYSTEM\CurrentControlSet\Control\Class\
+1514f8	\VarFileInfo\Translation
+151530	\StringFileInfo\%04x%04x\ProductName
+151580	獕牥畄正湩偧敲敦敲据e
+1515d8	獫獵牥搮汬
+1515e8	獋牃慥整楐n
+151660	癁瑲搮汬
+1516b0	Inputs
+1516c0	Outputs
+151890	楍楤慍买浡e
+1518d0	潣敤瑲灹e
+1518f8	楤慳汢摥
+151928	敒潭敶匠汥捥楴湯
+151958	灏湥圠湩潤獷匠畯摮
+151b20	瑓敲浡椥
+151c58	敧慴摤楲普o
+151c68	牦敥摡牤湩潦
+151c78	潈瑳慎敭:
+151c88	獕牥慎敭:
+151c98	<nudge>
+151d00	AJQtpu
+151e40	敢湉瑩瑓敲浡
+151e50	敢湅潣敤桃湵k
+151e70	敢汃獯卥牴慥m
+151e90	敢牗瑩噥剂效摡牥
+151ec0	C:\VoicemeeterRecord
+151ef0	Voicemeeter
+151fa0	Record %04i-%02i-%02i at %02ih%02im%02is
+152000	%s %04i-%02i-%02i at %02ih%02im%02is
+1520c0	_Track%i
+152148	%02i - Empty Preset
+152188	%02i - Scene
+1521f0	摅瑩丠浡e
+152210	潃祰倠敲敳t
+152258	敄敬整倠敲敳t
+1526c0	*.XML
+1526f0	*.xml
+152700	Save Current EQ Settings...
+152744	畂s湩敤x
+152780	扤敬敶l牦煥
+1527e8	Load EQ Settings...
+152848	EQPro-G6 BUS A2 (Physical)
+152880	EQPro-G6 BUS A3 (Physical)
+1528b8	EQPro-G6 BUS A4 (Physical)
+1528f0	EQPro-G6 BUS A5 (Physical)
+152928	EQPro-G6 BUS B1 (Virtual)
+152960	EQPro-G6 BUS B2 (Virtual)
+152998	EQPro-G6 BUS B3 (Virtual)
+1529d0	EQPro-G6 Stereo Input #1
+152a08	EQPro-G6 Stereo Input #2
+152a40	EQPro-G6 Stereo Input #3
+152a78	EQPro-G6 Stereo Input #4
+152ab0	EQPro-G6 Stereo Input #5
+152ae8	EQPro-G6 Virtual Input #1
+152b20	EQPro-G6 Virtual Input #2
+152b58	EQPro-G6 Virtual Input #3
+152e20	啁X湉異t
+152e80	桐獹捩污
+152f98	汐祡慢正
+153008	Select Target Folder
+153038	敒潣摲牥传瑰潩獮
+1531e0	Save Current C5-Limiter Settings...
+153320	敲敬獡e湫敥
+153338	桴敲桳汯d
+153348	慧湩畏t楬佭n
+153360	楤瑳牯楳湯
+153380	畡潴慭敫灵
+153390	慍瑳牥慇湩
+1533e0	Load C5-Limiter Settings...
+153640	Save Current Reverb Settings...
+153728	敒敶扲充
+15373c	煥f煥q煥g敒敶扲敇敮慲l
+153764	牤y敷t
+153770	敒敶扲慐慲m
+153780	牰摥汥祡
+153798	慅汲剹晥流畯瑮
+1537b0	Load Reverb Settings...
+153a40	Save Current MultiTap Settings...
+153b38	畍瑬呩灡慐慲m
+153b50	楦瑬牥慧湩
+153b80	慢慬据彥楲桧t
+153ba0	畍瑬呩灡敄慬y
+153bd0	敦摥慢正
+153be0	敦摥慢正祴数
+153bf0	Load MultiTap Settings...
+153ec0	畆据楴湯
+153ed0	潃浭湥t效灬瑉浥
+153f08	慬杮慵敧
+153fd0	潖捩浥敥整r
+153fe0	潖捩浥敥整偲瑯瑡彯慌瑳敓瑴湩獧砮汭
+154078	VoiceModeler_Preset
+1541e8	挨摯牥猠)
+154248	潃瑮潲汬牥
+154318	Save Current M.I.D.I. Map...
+154400	Load M.I.D.I. Map...
+154538	獵牥慮敭
+154600	灦s畣獲牯
+154910	敖祲匠潬w
+154930	敒潭楴杮
+154958	椥洠灢s潃普杩
+154988	慍湩匠牴慥m
+1549d8	湉潣業杮匠牴慥獭:
+154a58	畏杴楯杮匠牴慥獭:
+154b50	Save Current VBAN Configuration...
+154c40	Load VBAN Configuration...
+1550c0	*.TXT
+1550f0	Save Current Log...
+155148	VBANLog_IncomingStream%i.txt
+155188	VBANLog_OutgoingStream%i.txt
+1553a0	敒慬楴敶
+1553b0	扁潳畬整
+1555c0	- none -
+1555d8	MME: %s
+1555f8	KS: %s
+155650	Failed to Open Input Device: %s
+1556a8	ASIO: %s
+1556c0	ASIO: Device Not Started
+1556f8	PATCH ASIO Inputs to Strips:
+155738	IN %i
+155750	SYNC: Internal Master CLOCK (8 channels virtual out)
+1557c0	Failed to Open Output Device: %s
+155808	PATCH BUS TO A1 ASIO Outputs:
+155848	Monitoring Synchro Delay:
+155880	OUT A%i:
+155898	%0.2f ms
+1558b0	OUT Limiter:
+1558e0	VAIO sync:
+1558f8	STRICT
+155908	SOFT
+155918	External FX PATCH:
+155940	Send 1:
+155968	Send 2:
+155990	Internal FX Selection:
+1559c0	Buffering MME:
+1559e0	(default: 1024)
+155a20	(default: 512)
+155a40	Buffering KS:
+155a60	Buffering Clock:
+155a88	Buffering ASIO:
+155ab8	ASIO SR:
+155ad0	%i Hz
+155ae0	Virtual ASIO Type:
+155b08	Float32LSB
+155b20	Int32LSB
+155b38	Preferred Main SampleRate:
+155b70	WDM Input Exclusive Mode:
+155bb8	Engine Mode:
+155bd8	Normal
+155be8	Swift
+155bf8	MONITOR ON SEL:
+155c38	Slider Mode
+155c70	PATCH INSERT
+155c90	Activate Insert per PRE-Fader Inputs (%i channels virtual ASIO Driver)
+156380	\PresetPitch_%02i.xml
+1563b0	牐獥瑥慎敭
+1563c0	瑓楲偰瑩档
+1563d0	楰捴潨n牤睹瑥
+1563f0	潦浲湡汴o
+156400	潦浲湡浴摥
+156410	潦浲湡桴杩h
+156420	Save Preset Pitch %02i As...
+156460	Load Preset Pitch %02i
+156490	敒慮敭倠敲敳t
+156568	汃捯偫敲敦牲摥慌整据y
+1565b8	牰晥牥敲卤R
+1565d8	牰晥牥敲剤獥汯瑵潩n
+1565f0	敄慬敹卤慴瑲S
+157900	灏楴湯敄v
+157950	硅整湲污塆敳摮
+157970	硅整湲污塆敲畴湲
+1579a8	畏灴瑵敄v
+157a08	扡敳敬瑣摥
+157a78	潣灭慲整
+157aa0	桴敲楳n慤灭湩g灢楳敤档楡n潨摬
+157ad4	畭c慫慲歯e瑳楲浰摯e
+157b48	牧敥浮摯e
+157b88	敳摮硆1潰瑳硆1敳摮硆2潰瑳硆2慰敮瑬灹e
+157c08	潃潬偲湡汥x
+157c18	潃潬偲湡汥y
+157c28	潍偤湡汥x
+157c38	潍偤湡汥y
+157c48	畡楤楢楬祴损
+157c58	畡楤楢楬祴束
+157c68	敤潮獩牥束
+157c78	湤扟灹獡s
+157c88	湤江慥湲
+157c98	畡楤楢楬祴
+157d10	汓摩牥敒慬楴敶
+157d60	慌敢卬牴灩椥
+157e50	塆敓瑣潩n
+157e60	牦癥牥b摦汥祡
+157e80	敒潣摲潍敤
+157e98	潄瑮汐祡
+157eb0	畍瑬呩慲正
+157ec0	楔敭卲潴p
+157ed0	敒潣摲牁m
+157f78	敒潣摲楄敲瑣牯y敒潣摲牐晥硩
+157f98	敒潣摲慐慲m
+157fa8	楆敬祔数
+157fc0	慔杲瑥剓
+157fd0	扮桃湡敮l
+157fe8	牰剥捥楔敭
+158098	\PresetScene_%02i.xml
+1580c8	牐獥瑥潃浭湥t
+158100	Save Preset Scene %02i As...
+158140	Load Preset in Scene %02i
+1581b0	畂晦牥潍敤潃灭瑵湩g
+1581c8	湅楧敮潍敤
+1581d8	no file loaded !!!
+158230	桓睯嘠楯散敭瑥牥
+158270	楈敤嘠楯散敭瑥牥
+1583b0	祓瑳浥吠慲y
+158970	-noname-
+158ba8	剌慐噮湉1
+158bd8	剌慐噮湉2
+158c08	剌慐噮湉3
+1590f0	敄潮獩牥湉1
+159118	敄潮獩牥湉2
+159140	敄潮獩牥湉3
+159168	敄潮獩牥湉4
+159190	敄潮獩牥湉5
+1591b8	湄祂慰獳湉1
+1591e0	湄祂慰獳湉2
+159208	湄祂慰獳湉3
+159230	湄祂慰獳湉4
+159258	湄祂慰獳湉5
+1594d8	楐捴器污敵湉1
+159500	楐捴器污敵湉2
+159528	楐捴器污敵湉3
+159550	楐捴器污敵湉4
+159578	楐捴器污敵湉5
+15a1f8	佖瑵畍整1
+15a218	佖瑵畍整2
+15a238	佖瑵畍整3
+15a350	佖瑵煅湏1
+15a378	佖瑵煅湏2
+15a3a0	佖瑵煅湏3
+15a4c8	慔数汐祡
+15a500	慔数瑓灯
+15a510	呓偏吠偁E
+15a568	慔数慇湩
+15a630	桔敲摡桃牡捡整楲瑳捩s
+15a668	十佉桔敲摡桃牡捡整楲瑳捩s
+15a688	潖捩浥敥整偲瑯瑡彯效灬砮汭
+15a6b0	Click to Select Audio file for Playback
+15a808	Fader Gain
+15a958	潃祰倠湡倠瑯
+15a9f8	慓敶倠湡倠瑯
+15ada8	Save Strip Settings...
+15add8	Load Strip Settings...
+15ae18	Strip[%i].A1 = %i;
+15ae50	Strip[%i].A2 = %i;
+15ae88	Strip[%i].A3 = %i;
+15aec0	Strip[%i].A4 = %i;
+15aef8	Strip[%i].A5 = %i;
+15af30	Strip[%i].B1 = %i;
+15af68	Strip[%i].B2 = %i;
+15afa0	Strip[%i].B3 = %i;
+15afd8	Strip[%i].Mono = %i;
+15b018	Strip[%i].Solo = %i;
+15b058	Strip[%i].Mute = %i;
+15b098	Strip[%i].Karaoke = %i;
+15b0d8	Strip[%i].MC = %i;
+15b110	Strip[%i].PostReverb = %i;
+15b158	Strip[%i].PostDelay = %i;
+15b1a0	Strip[%i].PostFx1 = %i;
+15b1e0	Strip[%i].PostFx2 = %i;
+15b228	Recorder.rew = 1;
+15b250	Recorder.ff = 1;
+15b290	Recorder.play = 1; / Recorder.replay = 1; (to restart playback)
+15b320	Recorder.stop = 1;
+15b360	Recorder.record = 1; / Recorder.pause = 1;
+15b3c0	Recorder.load = "%s";
+15b3f0	Recorder.A1 = %i;
+15b418	Recorder.A2 = %i;
+15b440	Recorder.A3 = %i;
+15b468	Recorder.B1 = %i;
+15b490	Recorder.B2 = %i;
+15b4b8	Recorder.A4 = %i;
+15b4e0	Recorder.A5 = %i;
+15b508	Recorder.B3 = %i;
+15b540	Bus[%i].Sel = %i;
+15b578	Bus[%i].Mute = %i;
+15b5b0	Bus[%i].mode.Amix = %i;
+15b5f0	Bus[%i].mode.Bmix = %i;
+15b630	Bus[%i].mode.Repeat = %i;
+15b668	啂当佃偍协呉E
+15b6c8	Bus[%i].mode.TVMix = %i;
+15b710	Bus[%i].mode.UpMix21 = %i;
+15b758	Bus[%i].mode.UpMix41 = %i;
+15b7a0	Bus[%i].mode.UpMix61 = %i;
+15b7e8	Bus[%i].mode.LeftOnly = %i;
+15b830	Bus[%i].mode.RightOnly = %i;
+15b880	Bus[%i].mode.CenterOnly = %i;
+15b8d0	Bus[%i].mode.LFEOnly = %i;
+15b918	Bus[%i].mode.RearOnly = %i;
+15b960	Bus[%i].mode.normal = %i;
+15b998	啂当位低
+15b9a8	Bus[%i].Mono = %i;
+15b9d8	Bus[%i].EQ = %i;
+15ba00	Strip[%i].VAIO = %i;
+15ba30	Bus[%i].VAIO = %i;
+15ba68	Strip[%i].Gain = %0.2f;
+15baa8	Bus[%i].Gain = %0.2f;
+15bae8	Strip[%i].EQ.on = %i;
+15bb28	Strip[%i].Comp = %0.2f;
+15bb68	Strip[%i].Gate = %0.2f;
+15bba8	Strip[%i].Denoiser = %0.2f;
+15bbf0	Strip[%i].EQGain1 = %0.2f;
+15bc38	Strip[%i].EQGain2 = %0.2f;
+15bc80	Strip[%i].EQGain3 = %0.2f;
+15bce0	Strip[%i].Color_x = %0.2f; Strip[%i].Color_y = %0.2f;
+15bd60	Strip[%i].Fx_x = %0.2f; Strip[%i].Fx_y = %0.2f;
+15bdd0	Strip[%i].Pan_x = %0.2f; Strip[%i].Pan_y = %0.2f;
+15be58	Strip[%i].Mode = %i;
+15bea0	Patch.insert[%i] = %i; Patch.insert[%i] = %i;
+15bf10	Strip[%i].Limit = %0.2f;
+15bf58	Strip[%i].Reverb = %0.2f;
+15bfa0	Strip[%i].Delay = %0.2f;
+15bfe8	Strip[%i].Fx1 = %0.2f;
+15c028	Strip[%i].Fx2 = %0.2f;
+15c068	Bus[%i].ReturnReverb = %0.2f;
+15c0b8	Bus[%i].ReturnDelay = %0.2f;
+15c108	Fx.Reverb.On = %i;
+15c140	Fx.Delay.On = %i;
+15c178	Bus[%i].ReturnFx1 = %0.2f;
+15c1c0	Bus[%i].ReturnFx2 = %0.2f;
+15c210	asio
+15c220	Strip[%i].Device.%s = "%s";
+15c388	Bus[%i].Limit = %0.2f;
+15c3b8	Strip[%i].Comp.GainIn = %0.2f;
+15c3f8	Strip[%i].Comp.Ratio = %0.2f;
+15c440	Strip[%i].Comp.Threshold = %0.2f;
+15c488	Strip[%i].Comp.Attack = %0.2f;
+15c4d0	Strip[%i].Comp.Release = %0.2f;
+15c550	Strip[%i].Comp.GainOut = %0.2f;
+15c5d0	Strip[%i].Gate.Threshold = %0.2f;
+15c620	Strip[%i].Gate.Damping = %0.2f;
+15c6a8	Strip[%i].Gate.Attack = %0.2f;
+15c6e8	Strip[%i].Gate.Hold = %0.2f;
+15c730	Strip[%i].Gate.Release = %0.2f;
+15c7c0	Strip[%i].Denoiser.Bypass = %0.2f;
+15c810	Strip[%i].Denoiser.Learn = %0.2f;
+15c858	Strip[%i].Pitch.On = %i;
+15c890	Strip[%i].Pitch.DryWet = %0.2f;
+15c920	Strip[%i].Pitch.LoFormant = %0.2f;
+15c970	Strip[%i].Pitch.MedFormant = %0.2f;
+15c9c0	Strip[%i].Pitch.HiFormant = %0.2f;
+15ca10	Strip[%i].Pitch.RecallPreset = %i;
+15ca58	API: 
+15ca68	Internal Master CLOCK
+15ca98	ASIO Device not found
+15cad8	A1 ASIO 
+15cb38	A1 ASIO input
+15cb58	Select Input Device
+15cba0	%s (Left: %i)
+15cbc0	%s (Right: %i)
+15cbe0	Voicemeeter In 6
+15cc08	Voicemeeter VAIO
+15cc30	Voicemeeter In 7
+15cc58	Voicemeeter AUX
+15cca0	Voicemeeter VAIO3
+15ccc8	%i Hz / %i
+15cce0	%0.1f kHz - %i
+15cd00	%i Hz - %i
+15cd20	no driver present
+15cd48	Stereo Input
+15cd68	Stereo Input %i
+15cda0	Audio (wav, mp3, bwf, aif, m4a)
+15ce1c	Video (avi, mp4, mov, wma, wmv)
+15ce98	All (*.*)
+15ceb8	Select Audio File
+15d180	Save Current Settings...
+15d1b8	Load Settings...
+15d1e0	Load Settings and set as startup settings...
+15d510	LBUTTONDOWN
+15d540	MOUSEMOVE
+15d558	LBUTTONUP
+15d570	RBUTTONUP
+15d5e8	湕敲楧瑳牥摥
+16ff76	Q業楤畏啴灮敲慰敲效摡牥
+16ffc0	N業楤畏剴獥瑥
+170000	:業楤湉灏湥
+170ca4	f牃慥整捉湯牆浯敒潳牵散硅
+171406	p潃湕湩瑩慩楬敺
+1714c4	&捡卭牴慥偭敲慰敲效摡牥

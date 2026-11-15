@@ -1,0 +1,49 @@
+0x14ec00  VB-AUDIO Software - 
+0x14ec18  License Activation Start
+0x14ec38  VB-AUDIO PID:%i
+0x14ec50  Internet Connection Start
+0x14ec6c  ?cmd=
+0x14ec78  Sending Authentication Request...
+0x14eca0  Processing reply...
+0x14ecb8  Failed to Store certificate in registry...
+0x14ece4  ERROR
+0x14ecf0  Server Bad Reply
+0x14ed08  Check your e-mail and response code or
+0x14ed58  Windows Internet Error: %i
+0x14edc8  Online service not available
+0x14ede8  VB-Audio License Authentication Service
+0x14ee10  open
+0x14ee18  License Activation
+0x14ee2c  edit
+0x14ee38  Activate
+0x14ee48  My webshop account
+0x14ee60  Activation Unexpected Error
+0x14ee80  Authentication Error
+0x14eed0  Certificate not found
+0x14ef40  Certificate bad format
+0x14efb8  Registry failure
+0x14f018  To activate your license manually,
+0x14f040  go in your webshop account "My License" page...
+0x14f070  And get your Certificate as a string to paste it below
+0x14f0a8  XXXXXXXXXX
+0x14f0b8  wait %i seconds
+0x14f0c8  will register later
+0x14f0e0  Still Evaluating
+0x14f0f8  Registered e-mail:
+0x14f110  Challenge code:
+0x14f120  Response code:
+0x14f130  ACTIVATED
+0x14f140  Copy Challenge Code (ClipBoard)
+0x14f160  Import Computer Footprint
+0x14f180  Export Computer Footprint
+0x14f1a0  Check if you have a REGEN (in your webshop account license page)
+0x14f1e8  Show Response Code
+0x14f200  Hide e-mail address
+0x14f218  License Activated
+0x14f278  Registration / Activation
+0x14f390  Activation attempts exceeded
+0x14f400  Activation Failed
+0x14f4b0  Activation Success
+0x14f500  Import Done
+0x14f5c0  Version: %s
+0x14f5d0  About / Registration info...

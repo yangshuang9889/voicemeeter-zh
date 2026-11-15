@@ -1,0 +1,531 @@
+﻿偏移,原文,译文,可用字节
+"0x158200","Show Control Panel...","显示控制面板...",21
+"0x158218","Restart Audio Engine","重启音频引擎",20
+"0x158230","Show Voicemeeter","显示 Voicemeeter",16
+"0x158248","Show Voicemeeter (default position)","显示 Voicemeeter (默认位置)",35
+"0x158270","Hide Voicemeeter","隐藏 Voicemeeter",16
+"0x158288","Shut Down Voicemeeter","关闭 Voicemeeter",21
+"0x1582a0","Restart Audio Engine	[CTL+R]","重启音频引擎	[CTL+R]",28
+"0x1582c0","Auto Restart Audio Engine (A1 Device)","自动重启音频引擎 (A1 设备)",37
+"0x1582e8","Auto Restart Audio Engine (All Device)","自动重启音频引擎 (所有设备)",38
+"0x158310","Eject Cassette (release audio file)","弹出磁带 (释放音频文件)",35
+"0x158338","Load Settings...","加载设置...",16
+"0x158350","Load Settings on Startup:","启动时加载设置:",25
+"0x158370","Save Settings...","保存设置...",16
+"0x158388","Reset Settings (Re-Initialization)","重置设置 (重新初始化)",34
+"0x1583b0","System Tray","系统托盘",11
+"0x1583c0","Run on Windows Startup","开机自动运行",22
+"0x1583d8","Show App On Startup","开机时显示程序",19
+"0x1583f0","Set as Always Visible","设为始终可见",21
+"0x158408","Lock Graphic User Interface","锁定图形界面",27
+"0x158428","Run MacroButtons on Voicemeeter start","启动时运行 MacroButtons",37
+"0x158450","Run Streamer View on Voicemeeter start","启动时运行 Streamer View",38
+"0x158478","Run 8x8 Gain Matrix A.P.A...","运行 8x8 增益矩阵 A.P.A...",28
+"0x158498","Run 15 Bands Graphic EQ A.P.A...","运行 15 段图示均衡器 A.P.A...",32
+"0x1584c0","Run MIDI-VBAN Converter...","运行 MIDI-VBAN 转换器...",26
+"0x1584e0","Run other Voicemeeter tools...","运行其他 Voicemeeter 工具...",30
+"0x158500","Hook Volume Keys (For Level Output A1)","挂接音量键 (A1 输出电平)",38
+"0x158528","Hook Volume Keys (For Level Output A2)","挂接音量键 (A2 输出电平)",38
+"0x158550","Hook Volume Keys (For Level Input #1)","挂接音量键 (#1 输入电平)",37
+"0x158578","Hook Ctrl+F10,F11,F12 (For Level Output A1)","挂接 Ctrl+F10,F11,F12 (A1 输出电平)",43
+"0x1585a8","Hook Ctrl+F10,F11,F12 (For Level Output A2)","挂接 Ctrl+F10,F11,F12 (A2 输出电平)",43
+"0x1585d8","Hook Ctrl+F10,F11,F12 (For Level Input #1)","挂接 Ctrl+F10,F11,F12 (#1 输入电平)",42
+"0x158608","Hook F5,F6 and F8 (For PLAY, STOP and REC)","挂接 F5,F6,F8 (播放/停止/录音)",42
+"0x158638","Shortcut Key (Hook)...","快捷键 (挂接)...",22
+"0x158650","Limit Remote Gain to 0 dBfs","限制远程增益 0 dBfs",27
+"0x158670","Show Contextual Help In Caption","在标题栏显示帮助提示",31
+"0x158690","Show Preset Scene On Startup","启动时显示预设场景",28
+"0x1587b8","Windows Audio Settings...","Windows 音频设置...",25
+"0x1587d8","About Box / License...","关于 / 许可证...",22
+"0x1587f0","VAIO Extension License...","VAIO 扩展许可证...",25
+"0x158810","Online Help / Support...","在线帮助 / 技术支持...",24
+"0x158830","Check Driver Installation...","检查驱动安装...",28
+"0x1588e0","Windows Audio Map (around %s)","Windows 音频映射 (范围 %s)",29
+"0x158900","Audio Engine is Starting...","音频引擎启动中...",27
+"0x158920","Please Wait for audio engine start.","请等待音频引擎启动。",35
+"0x14f018","To activate your license manually,","如需手动激活许可证，",34
+"0x14f040","go in your webshop account ""My License"" page...","请登录网店账户的"我的许可证"页面...",47
+"0x14f070","And get your Certificate as a string to paste it below","获取您的证书字符串并粘贴到下方",54
+"0x14f0b8","wait %i seconds","等待 %i 秒",15
+"0x14f0c8","will register later","稍后注册",19
+"0x14f0e0","Still Evaluating","试用中",16
+"0x14f0f8","Registered e-mail:","注册邮箱:",18
+"0x14f110","Challenge code:","挑战码:",15
+"0x14f120","Response code:","响应码:",14
+"0x14f130","ACTIVATED","已激活",9
+"0x14f140","Copy Challenge Code (ClipBoard)","复制挑战码 (剪贴板)",31
+"0x14f160","Import Computer Footprint","导入计算机指纹",25
+"0x14f180","Export Computer Footprint","导出计算机指纹",25
+"0x14f1a0","Check if you have a REGEN (in your webshop account license page)","请检查您的网店账户许可证页面中是否有 REGEN",64
+"0x14f1e8","Show Response Code","显示响应码",18
+"0x14f200","Hide e-mail address","隐藏邮箱地址",19
+"0x14f218","License Activated","许可证已激活",17
+"0x14f253","Thanks for your participation!","感谢您的参与!",30
+"0x14f278","Registration / Activation","注册 / 激活",25
+"0x14f2bd","The one used on Web-Shop to purchase license.","购买许可证时在网店使用的邮箱。",45
+"0x14f30c","Given by the web-shop after purchase.","购买后由网店提供。",37
+"0x14f369","Example 0123456789 or 0123ABCDEF.","示例 0123456789 或 0123ABCDEF。",33
+"0x14f390","Activation attempts exceeded","激活尝试次数已超限",28
+"0x14f3cf","Please close this dialog box and retry again...","请关闭此对话框后重试...",47
+"0x14f400","Activation Failed","激活失败",17
+"0x14f47b","Go to your web-shop to check your license code...","请前往网店查看您的许可证代码...",49
+"0x14f4b0","Activation Success","激活成功",18
+"0x14f4d8","Your License is now activated...","您的许可证已激活...",32
+"0x14f500","Import Done","导入完成",11
+"0x14f538","Your license should now be reactivated.","您的许可证现在应已重新激活。",39
+"0x14f588","You should have retrieved your previous challenge code.","您应已获取之前的挑战码。",55
+"0x14f5c0","Version: %s","版本: %s",11
+"0x14f5d0","About / Registration info...","关于 / 注册信息...",28
+"0x14f908","Virtual","虚拟",7
+"0x14f958","Cancel","取消",6
+"0x14f960","Apply","应用",5
+"0x14f968","Enter Time","输入时间",10
+"0x14f9a0","Freq. Sample : %iHz","采样率: %iHz",19
+"0x14f9b8","Enter Musical Time","输入音乐时间",18
+"0x14f9cc","Tempo","速度",5
+"0x14f9d8","Replace mode","替换模式",12
+"0x14f9e8","Musical duration.","音乐时长。",17
+"0x14fa00","Enter Musical Position","输入音乐位置",22
+"0x14fa20","Time Signature","拍号",14
+"0x14fa30","Enter Video Frame","输入视频帧",17
+"0x14fa48","Frame per second","每秒帧数",16
+"0x14fa60","Mouse Control mode","鼠标控制模式",18
+"0x14fa78","Sequential moves","顺序移动",16
+"0x14fa90","Set By Position","按位置设定",15
+"0x14faa0","Grap and Move","抓取并移动",13
+"0x14fab0","Exit Menu","退出菜单",9
+"0x14fac0","Precision Tri Slider","精密三段滑杆",20
+"0x14fad8","Adjust Value","调整数值",12
+"0x14fae8","Inverse mousemove mode","反向鼠标移动模式",22
+"0x14fb08","Mouse Move Behavior","鼠标移动方式",19
+"0x14fb20","Turn by right Mode","右键旋转模式",18
+"0x14fb38","Up and Down Mode","上下模式",16
+"0x14fb50","Angular Mode","角度模式",12
+"0x14fb60","Display Extra Info","显示附加信息",18
+"0x14fb78","Display Knob Moves","显示旋钮动作",18
+"0x14fb90","Enable Info Value Box","启用信息数值框",21
+"0x14fba8","Value Editing","数值编辑",13
+"0x14fbb8","Current : ","当前: ",10
+"0x14fbc8","Max :","最大:",5
+"0x14fbd0","Default :","默认值:",9
+"0x14fbec","Min : ","最小: ",6
+"0x14fc08","Adjust [SHIFT+CLK]","调节 [SHIFT+CLK]",18
+"0x14fc20","Mouse Reaction Rate","鼠标响应速率",19
+"0x14fc38","Latency 0 ms","延迟 0 ms",12
+"0x14fc48","Latency 100 ms","延迟 100 ms",14
+"0x14fc58","Latency 200 ms","延迟 200 ms",14
+"0x14fc68","Latency 300 ms","延迟 300 ms",14
+"0x14fc78","Latency 400 ms","延迟 400 ms",14
+"0x14fc88","Latency 500 ms","延迟 500 ms",14
+"0x14fc98","Display Value in Info Box","在信息框中显示数值",25
+"0x14fcb8","Display on Left Top","显示在左上",19
+"0x14fcd0","Display on Right Top","显示在右上",20
+"0x14fce8","Display on Right Bottom","显示在右下",23
+"0x14fd00","Display on Left Bottom","显示在左下",22
+"0x14fd18","Predefined value(s)","预定义数值",19
+"0x14fd38","Mouse Captured","鼠标已捕获",14
+"0x14fd48","Direct mouse position","直接定位鼠标",21
+"0x14fd60","Default Panel Position	[BACKSPACE]","默认面板位置	[BACKSPACE]",34
+"0x14fd88","First line	[HOME]","第一行	[HOME]",17
+"0x14fda0","Last line	[End]","最后一行	[End]",15
+"0x15a898","Reset Strip","重置声道条",11
+"0x15a8a8","Reset EQUALIZER","重置均衡器",15
+"0x15a8b8","Reset Pan Pot","重置声像",13
+"0x15a8c8","Reset Parametric EQ","重置参量均衡",19
+"0x15a8e0","Reset INTELLIPAN","重置智能声像",16
+"0x15a8f8","Reset Compressor","重置压缩器",16
+"0x15a910","Reset Gate","重置门限器",10
+"0x15a920","Reset Denoiser/Pitch","重置降噪/变调",20
+"0x15a938","Reset FX Send","重置效果发送",13
+"0x15a948","Copy EQUALIZER","复制均衡器",14
+"0x15a958","Copy Pan Pot","复制声像",12
+"0x15a968","Copy Parametric EQ","复制参量均衡",18
+"0x15a980","Copy INTELLIPAN","复制智能声像",15
+"0x15a990","Copy Compressor","复制压缩器",15
+"0x15a9a0","Copy Gate","复制门限",9
+"0x15a9b0","Copy Denoiser/Pitch","复制降噪/变调",19
+"0x15a9c8","Copy FX Send","复制效果发送",12
+"0x15a9d8","Save All","全部保存",8
+"0x15a9e8","Save EQUALIZER","保存均衡器",14
+"0x15a9f8","Save Pan Pot","保存声像",12
+"0x15aa08","Save Parametric EQ","保存参量均衡",18
+"0x15aa20","Save INTELLIPAN","保存智能声像",15
+"0x15aa30","Save Compressor","保存压缩器",15
+"0x15aa40","Save Gate","保存门限",9
+"0x15aa50","Save Denoiser/Pitch","保存降噪/变调",19
+"0x15aa68","Save FX Send","保存效果发送",12
+"0x15aa78","Load...","加载...",7
+"0x15a510","STOP TAPE","停止磁带",9
+"0x15a528","REW TAPE","磁带倒带",8
+"0x15a540","FF TAPE","快进",7
+"0x15a558","REPLAY TAPE","重播磁带",11
+"0x15a578","TAPE Playback Gain","磁带播放增益",18
+"0x15a760","Error: Cannot open File","错误: 无法打开文件",23
+"0x15a778","Remain: %02i:%02i:%02i","剩余: %02i:%02i:%02i",22
+"0x15a790","Remain: %02i:%02i","剩余: %02i:%02i",17
+"0x15a7a8","Recording... Remain: %02i:%02i:%02i","录音中... 剩余: %02i:%02i:%02i",35
+"0x15a7d0","Recording... Remain: %02i:%02i","录音中... 剩余: %02i:%02i",30
+"0x15a7f0","Recording...","录音中...",12
+"0x15a800","Pause","暂停",5
+"0x15a820","MONO","单",4
+"0x15a830","Mono","单",4
+"0x15a838","Stereo","立体声",6
+"0x15a840","MIX-DOWN","缩混",8
+"0x15a84c","UP-MIX","上混",6
+"0x15a858","LEFT","左",4
+"0x15a868","RIGHT","右",5
+"0x15a870","CENTER","中",6
+"0x15a878","REAR LEFT","后左",9
+"0x15a888","REAR RIGHT","后右",10
+"0x15a608","Refresh on Layer change","图层切换时刷新",23
+"0x15a590","App#%i Volume Virtual #%i","应用#%i 音量 虚拟 #%i",25
+"0x15a5c8","App#%i Mute Virtual #%i","应用#%i 静音 虚拟 #%i",23
+"0x155128","VB-Audio Network Configuration","VB-Audio 网络配置",30
+"0x154cd8","Stream Identification Conflict","流标识冲突",30
+"0x154ce0","dentification Conflict","重置 VBAN",22
+"0x154e5a","Do you want to continue?","是否继续?",24
+"0x155050","Send VBAN-Ping...","发送 VBAN-Ping...",17
+"0x155078","... Searching IP Address...","正在搜索 IP 地址...",27
+"0x155098","Retry to resolve IP Address...","重试解析 IP 地址...",30
+"0x154b08","Log Packet Timing","记录数据包时序",17
+"0x154b20","Save Current Log","保存当前日志",16
+"0x154b38","Stop Log","停止记录",8
+"0x154a80","Capture Mouse Curcor","捕获鼠标光标",20
+"0x154a98","%i channels","%i 声道",11
+"0x154a28","SamplerRate:","采样率:",12
+"0x1549d8","Incoming Streams:","输入流:",17
+"0x154a58","Outgoing Streams:","输出流:",17
+"0x1549f0","Stream Name:","流名称:",12
+"0x154a00","IP Address From:","来源 IP 地址:",16
+"0x154a70","IP Address To:","目标 IP 地址:",14
+"0x154978","UDP Port:","UDP 端口:",9
+"0x154988","Main Stream","主流",11
+"0x154998","%i Stream Detected","检测到 %i 个流",18
+"0x1549b0","%i Streams Detected","检测到 %i 个流",19
+"0x1549cc","Host","主机",4
+"0x154a14","Info:","信息:",5
+"0x154a1c","Port:","端口:",5
+"0x154a48","Destination:","目标:",12
+"0x154a38","Net Quality:","网络质量:",12
+"0x1551c8","System Timer Resolution: %0.3f ms","系统定时器精度: %0.3f ms",33
+"0x1551f0","Audio Points:","音频通道点:",13
+"0x155200","Hardware Input #%i:","硬件输入 #%i:",19
+"0x155218","Hardware Output A%i:","硬件输出 A%i:",20
+"0x155230","Virtual I/O:","虚拟 I/O:",12
+"0x155240","Virtual AUX I/O:","虚拟 AUX I/O:",16
+"0x155268","VBAN Input Streams:","VBAN 输入流:",19
+"0x155280","Stream #%i:","流 #%i:",11
+"0x1552d0","AUDIO QOS Statistics...","音频 QOS 统计...",23
+"0x1553a0","Relative","相对",8
+"0x1553b0","Absolute","绝对",8
+"0x1553c4","Reverb","混响",6
+"0x1553d0","Important Warning","重要警告",17
+"0x1554c2","we recommend to go back to default settings.","建议恢复默认设置。",44
+"0x1554f0","WDM Expert Options","WDM 专家选项",18
+"0x155578","Status: OFF","状态: 关",11
+"0x155588","Status: ON","状态: 开",10
+"0x155608","Voicemeeter Version: %s (64 bits)","Voicemeeter 版本: %s (64 位)",33
+"0x155d20","System settings / Options...","系统设置 / 选项...",28
+"0x155d40","ASIO Data Type Change","ASIO 数据类型变更",21
+"0x155d86","Voicemeeter application needs to be restarted...","Voicemeeter 需要重新启动...",48
+"0x155f00","Please configure your ASIO driver with standard SampleRate","请将 ASIO 驱动配置为标准采样率",58
+"0x155f98","Failed to prepare audio devices","音频设备准备失败",31
+"0x155fb8","Pro Audio","专业音频",9
+"0x155fc8","Failed to prepare all audio devices","所有音频设备准备失败",35
+"0x156192","Close the other application.","请关闭其他应用程序。",28
+"0x1561d0","Compressor Details","压缩器详情",18
+"0x1561e8","Gate Details","门限器详情",12
+"0x156490","Rename Preset","重命名预设",13
+"0x1564a0","Store current values","保存当前数值",20
+"0x1564b8","Reset Preset","重置预设",12
+"0x1564c8","Load Pitch Preset...","加载变调预设...",20
+"0x1564e0","Save Pitch Preset As...","变调预设另存为...",23
+"0x1564f8","Denoiser","降噪器",8
+"0x156508","Voice Modeler","声音塑形",13
+"0x156518","Preset","预设",6
+"0x153038","Recorder Options","录音机选项",16
+"0x15304c","System","系统",6
+"0x15306c","Reset","重置",5
+"0x153430","C5-Limiter (MultiBand Compressor)","C5 限幅器 (多段压缩)",33
+"0x153458","Load C5-Limiter Settings","加载 C5 限幅器设置",24
+"0x153478","Save C5-Limiter Settings","保存 C5 限幅器设置",24
+"0x1537f8","JustVerb III (Reverb)","JustVerb III (混响)",21
+"0x153810","Load Reverb Settings","加载混响设置",20
+"0x153828","Save Reverb Settings","保存混响设置",20
+"0x153840","Set Note For This Tap","为此节拍设置音符",21
+"0x153858","Set Note For Every Tap","为所有节拍设置音符",22
+"0x153c40","MultiTap (Delay)","MultiTap (延迟)",16
+"0x153c58","Load MultiTap Settings","加载 MultiTap 设置",22
+"0x153c70","Save MultiTap Settings","保存 MultiTap 设置",22
+"0x150c80","Refresh Display	[F5]","刷新显示	[F5]",20
+"0x150c98","Reset Position	[Home]","重置位置	[Home]",21
+"0x150cb0","Open VAIO Control Panel...","打开 VAIO 控制面板...",26
+"0x150cd0","Zoom 100%","缩放 100%",9
+"0x150ce0","Zoom 90%","缩放 90%",8
+"0x150cf0","Zoom 75%","缩放 75%",8
+"0x150d00","Zoom 60%","缩放 60%",8
+"0x150d10","Zoom 50%","缩放 50%",8
+"0x150d20","Windows Sound Settings...","Windows 声音设置...",25
+"0x150d40","Windows Apps Volume and Device Preferences...","Windows 应用音量与设备偏好...",45
+"0x150d70","Windows Privacy for Microphone...","Windows 麦克风隐私设置...",33
+"0x150d98","Windows Sounds Playback Devices...","Windows 声音播放设备...",34
+"0x150dc0","Windows Sounds Recording Devices...","Windows 声音录音设备...",35
+"0x150014","Sunday","星期日",6
+"0x150020","Saturday","星期六",8
+"0x15002c","Friday","星期五",6
+"0x150038","Thursday","星期四",8
+"0x150048","Wednesday","星期三",9
+"0x150058","Tuesday","星期二",7
+"0x150060","Monday","星期一",6
+"0x150098","December","十二月",8
+"0x1500a8","November","十一月",8
+"0x1500b8","October","十月",7
+"0x1500c0","September","九月",9
+"0x1500cc","August","八月",6
+"0x1500d4","July","七月",4
+"0x1500dc","June","六月",4
+"0x1500e8","April","四月",5
+"0x1500f0","March","三月",5
+"0x1500f8","February","二月",8
+"0x150108","January","一月",7
+"0x15027f","Unexpected error...","意外错误...",19
+"0x15033f","Please Re-Start the Audio Device...","请重新启动音频设备...",35
+"0x1503af","Please Re-Start the Audio Device...","请重新启动音频设备...",35
+"0x150432","Please Re-Start the Audio Device...","请重新启动音频设备...",35
+"0x150458","Failed to Get Channels information: ","获取声道信息失败: ",36
+"0x150480","No Channel found / Device possibly not connected...","未找到声道 / 设备可能未连接...",51
+"0x1504b8","Failed to Get Buffer information: ","获取缓冲区信息失败: ",34
+"0x1504e0","Device is not opened...","设备未打开...",23
+"0x1504f8","Device is Already prepared...","设备已准备就绪...",29
+"0x150518","Failed to Get Current SampleRate information: ","获取当前采样率信息失败: ",46
+"0x150548","Unsupported Samplerate: %i Hz","不支持的采样率: %i Hz",29
+"0x150568","Undefined Buffer Size...","未定义的缓冲区大小...",24
+"0x150588","Failed to Get Channel information: ","获取声道信息失败: ",35
+"0x1505b0","Failed to prepare buffers: ","准备缓冲区失败: ",27
+"0x1505d0","Device is Already unprepared...","设备尚未准备...",31
+"0x1505f0","ASIO Device Already Playing...","ASIO 设备已在播放...",30
+"0x150648","Device Is Started.","设备已启动。",18
+"0x150660","Device Not Started:","设备未启动:",19
+"0x150678","Driver not found","未找到驱动",16
+"0x150690","Failed to init ASIO Driver","初始化 ASIO 驱动失败",26
+"0x1506b0","Failed to Get Current SampleRate:","获取当前采样率失败:",33
+"0x1506d8","SampleRate < 1000: set it to %i Hz","采样率 < 1000: 设为 %i Hz",34
+"0x150700","No Callback Available","无可用回调",21
+"0x150718","Device Is Openned.","设备已打开。",18
+"0x151338","Failed to allocate Wave Buffers","分配波形缓冲区失败",31
+"0x151358","Failed to allocate KS Wave Buffers","分配 KS 波形缓冲区失败",34
+"0x151380","Failed to allocate Audio Buffers","分配音频缓冲区失败",32
+"0x15cf60","Select Input Device #%i","选择输入设备 #%i",23
+"0x15cf78","Select A%i Output Device","选择 A%i 输出设备",24
+"0x15d130","other Voicemeter audio points than output A1.","除输出 A1 之外的其他 Voicemeeter 音频通道点。",45
+"0x15d160","Important information...","重要信息...",24
+"0x15d240","Load Error","加载错误",10
+"0x15d250","Cannot Load settings from this file","无法从此文件加载设置",35
+"0x15d278","Output Device not Working...","输出设备无法工作...",28
+"0x15d298","VBAN Warning...","VBAN 警告...",15
+"0x15d398","See also the Help and Support link given in Menu.","另请参阅菜单中的帮助与支持链接。",49
+"0x15d3d0","Installation Warning...","安装警告...",23
+"0x15d468","Re-Initialization","重新初始化",17
+"0x15d4dd","Do you want to continue ?","是否继续?",25
+"0x15d4f8","Voicemeeter Scene","Voicemeeter 场景",17
+"0x15d588","Engine Start in %0.0f s","%0.0f 秒后启动引擎",23
+"0x15d5a0","Starting...","正在启动...",11
+"0x15d5e8","Unregistered","未注册",12
+"0x15d7b0","Startup Error","启动错误",13
+"0x15d7c0","Failed to register window class...","注册窗口类失败...",34
+"0x15d7e8","Failed to create window...","创建窗口失败...",26
+"0x15cd88","Treble","高音",6
+"0x15cd90","Bass","低音",4
+"0x15cf48","VB-Audio Callback","VB-Audio 回调",17
+"0x15caf8","44.1kHz | %i","44.1kHz | %i",12
+"0x15cb08","88.2kHz | %i","88.2kHz | %i",12
+"0x15cb18","176.4kHz | %i","176.4kHz | %i",13
+"0x15cb28","%ikHz | %i","%ikHz | %i",10
+"0x158998","Gain Fader Strip #1","增益推子 声道条#1",19
+"0x1589c0","Gain Fader Strip #2","增益推子 声道条#2",19
+"0x1589e8","Gain Fader Strip #3","增益推子 声道条#3",19
+"0x158a10","Gain Fader Strip #4","增益推子 声道条#4",19
+"0x158a38","Gain Fader Strip #5","增益推子 声道条#5",19
+"0x158a60","Gain of Virtual Strip #6","虚拟声道条#6 增益",24
+"0x158a90","Gain of Virtual Strip #7","虚拟声道条#7 增益",24
+"0x158ac0","Gain of Virtual Strip #8","虚拟声道条#8 增益",24
+"0x158af0","L/R PAN Strip #1","L/R声像 声道条#1",16
+"0x158b18","L/R PAN Strip #2","L/R声像 声道条#2",16
+"0x158b40","L/R PAN Strip #3","L/R声像 声道条#3",16
+"0x158b68","L/R PAN Strip #4","L/R声像 声道条#4",16
+"0x158b90","L/R PAN Strip #5","L/R声像 声道条#5",16
+"0x158bb8","L/R PAN Virtual Strip #6","L/R声像 虚拟条#6",24
+"0x158be8","L/R PAN Virtual Strip #7","L/R声像 虚拟条#7",24
+"0x158c18","L/R PAN Virtual Strip #8","L/R声像 虚拟条#8",24
+"0x158c48","Reset L/R PAN Strip #1","重置 L/R声像 声道条#1",22
+"0x158c70","Reset L/R PAN Strip #2","重置 L/R声像 声道条#2",22
+"0x158c98","Reset L/R PAN Strip #3","重置 L/R声像 声道条#3",22
+"0x158cc0","Reset L/R PAN Strip #4","重置 L/R声像 声道条#4",22
+"0x158ce8","Reset L/R PAN Strip #5","重置 L/R声像 声道条#5",22
+"0x158d10","Reset L/R PAN VStrip #6","重置 L/R声像 虚拟条#6",23
+"0x158d38","Reset L/R PAN VStrip #7","重置 L/R声像 虚拟条#7",23
+"0x158d60","Reset L/R PAN VStrip #8","重置 L/R声像 虚拟条#8",23
+"0x158d80"," Mute Strip #1"," 静音 声道条#1",14
+"0x158d98","Mute Strip #2","静音 声道条#2",13
+"0x158db0","Mute Strip #3","静音 声道条#3",13
+"0x158dc8","Mute Strip #4","静音 声道条#4",13
+"0x158de0","Mute Strip #5","静音 声道条#5",13
+"0x158e00","Mute Virtual Strip #6","静音 虚拟条#6",21
+"0x158e28","Mute Virtual Strip #7","静音 虚拟条#7",21
+"0x158e50","Mute Virtual Strip #8","静音 虚拟条#8",21
+"0x158e70","Solo Strip #1","独奏 声道条#1",13
+"0x158e88","Solo Strip #2","独奏 声道条#2",13
+"0x158ea0","Solo Strip #3","独奏 声道条#3",13
+"0x158eb8","Solo Strip #4","独奏 声道条#4",13
+"0x158ed0","Solo Strip #5","独奏 声道条#5",13
+"0x158ef0","Solo Virtual Strip #6","独奏 虚拟条#6",21
+"0x158f18","Solo Virtual Strip #7","独奏 虚拟条#7",21
+"0x158f40","Solo Virtual Strip #8","独奏 虚拟条#8",21
+"0x158f68","M.C. Virtual Strip #6","M.C. 虚拟条#6",21
+"0x158f90","K Button Virtual Strip #7","K 按键 虚拟条#7",25
+"0x158fc0","M.C. Virtual Strip #8","M.C. 虚拟条#8",21
+"0x158fe0","Compression Strip #1","压缩 声道条#1",20
+"0x159000","Compression Strip #2","压缩 声道条#2",20
+"0x159020","Compression Strip #3","压缩 声道条#3",20
+"0x159040","Compression Strip #4","压缩 声道条#4",20
+"0x159060","Compression Strip #5","压缩 声道条#5",20
+"0x159080","Gate Strip #1","门限 声道条#1",13
+"0x159098","Gate Strip #2","门限 声道条#2",13
+"0x1590b0","Gate Strip #3","门限 声道条#3",13
+"0x1590c8","Gate Strip #4","门限 声道条#4",13
+"0x1590e0","Gate Strip #5","门限 声道条#5",13
+"0x159100","Denoiser Strip #1","降噪 声道条#1",17
+"0x159128","Denoiser Strip #2","降噪 声道条#2",17
+"0x159150","Denoiser Strip #3","降噪 声道条#3",17
+"0x159178","Denoiser Strip #4","降噪 声道条#4",17
+"0x1591a0","Denoiser Strip #5","降噪 声道条#5",17
+"0x1591c8","Denoiser Byp. Strip #1","降噪旁通 声道条#1",22
+"0x1591f0","Denoiser Byp. Strip #2","降噪旁通 声道条#2",22
+"0x159218","Denoiser Byp. Strip #3","降噪旁通 声道条#3",22
+"0x159240","Denoiser Byp. Strip #4","降噪旁通 声道条#4",22
+"0x159268","Denoiser Byp. Strip #5","降噪旁通 声道条#5",22
+"0x159290","Denoiser Learn Strip #1","降噪学习 声道条#1",23
+"0x1592b8","Denoiser Learn Strip #2","降噪学习 声道条#2",23
+"0x1592e0","Denoiser Learn Strip #3","降噪学习 声道条#3",23
+"0x159308","Denoiser Learn Strip #4","降噪学习 声道条#4",23
+"0x159330","Denoiser Learn Strip #5","降噪学习 声道条#5",23
+"0x159358","Pitch On Strip #1","变调开关 声道条#1",17
+"0x159380","Pitch On Strip #2","变调开关 声道条#2",17
+"0x1593a8","Pitch On Strip #3","变调开关 声道条#3",17
+"0x1593d0","Pitch On Strip #4","变调开关 声道条#4",17
+"0x1593f8","Pitch On Strip #5","变调开关 声道条#5",17
+"0x159420","Pitch Dry/Wet Strip #1","变调干湿 声道条#1",22
+"0x159448","Pitch Dry/Wet Strip #2","变调干湿 声道条#2",22
+"0x159470","Pitch Dry/Wet Strip #3","变调干湿 声道条#3",22
+"0x159498","Pitch Dry/Wet Strip #4","变调干湿 声道条#4",22
+"0x1594c0","Pitch Dry/Wet Strip #5","变调干湿 声道条#5",22
+"0x1594e8","Pitch Value Strip #1","变调值 声道条#1",20
+"0x159510","Pitch Value Strip #2","变调值 声道条#2",20
+"0x159538","Pitch Value Strip #3","变调值 声道条#3",20
+"0x159560","Pitch Value Strip #4","变调值 声道条#4",20
+"0x159588","Pitch Value Strip #5","变调值 声道条#5",20
+"0x1595b0","Lo Formant Strip #1","低共振峰 声道条#1",19
+"0x1595d8","Lo Formant Strip #2","低共振峰 声道条#2",19
+"0x159600","Lo Formant Strip #3","低共振峰 声道条#3",19
+"0x159628","Lo Formant Strip #4","低共振峰 声道条#4",19
+"0x159650","Lo Formant Strip #5","低共振峰 声道条#5",19
+"0x159678","Med Formant Strip #1","中共振峰 声道条#1",20
+"0x1596a0","Med Formant Strip #2","中共振峰 声道条#2",20
+"0x1596c8","Med Formant Strip #3","中共振峰 声道条#3",20
+"0x1596f0","Med Formant Strip #4","中共振峰 声道条#4",20
+"0x159718","Med Formant Strip #5","中共振峰 声道条#5",20
+"0x159740","Hi Formant Strip #1","高共振峰 声道条#1",19
+"0x159768","Hi Formant Strip #2","高共振峰 声道条#2",19
+"0x159790","Hi Formant Strip #3","高共振峰 声道条#3",19
+"0x1597b8","Hi Formant Strip #4","高共振峰 声道条#4",19
+"0x1597e0","Hi Formant Strip #5","高共振峰 声道条#5",19
+"0x159808","Formant Group Strip #1","共振峰组 声道条#1",22
+"0x159830","Formant Group Strip #2","共振峰组 声道条#2",22
+"0x159858","Formant Group Strip #3","共振峰组 声道条#3",22
+"0x159880","Formant Group Strip #4","共振峰组 声道条#4",22
+"0x1598a8","Formant Group Strip #5","共振峰组 声道条#5",22
+"0x1598d0","Limit Strip #1","限幅 声道条#1",14
+"0x1598f0","Limit Strip #2","限幅 声道条#2",14
+"0x159910","Limit Strip #3","限幅 声道条#3",14
+"0x159930","Limit Strip #4","限幅 声道条#4",14
+"0x159950","Limit Strip #5","限幅 声道条#5",14
+"0x159970","Limit Virtual Strip #6","限幅 虚拟条#6",22
+"0x159998","Limit Virtual Strip #7","限幅 虚拟条#7",22
+"0x1599c0","Limit Virtual Strip #8","限幅 虚拟条#8",22
+"0x1599d8","A1 Strip #%i","A1声道#%i",12
+"0x1599f8","A2 Strip #%i","A2声道#%i",12
+"0x159a18","A3 Strip #%i","A3声道#%i",12
+"0x159a38","A4 Strip #%i","A4声道#%i",12
+"0x159a58","A5 Strip #%i","A5声道#%i",12
+"0x159a78","B1 Strip #%i","B1声道#%i",12
+"0x159a98","B2 Strip #%i","B2声道#%i",12
+"0x159ab8","B3 Strip #%i","B3声道#%i",12
+"0x159ae8","EQ High Virtual Strip #6","EQ 高 虚拟条#6",24
+"0x159b18","EQ Med Virtual Strip #6","EQ 中 虚拟条#6",23
+"0x159b40","EQ Bass Virtual Strip #6","EQ 低 虚拟条#6",24
+"0x159b70","EQ High Virtual Strip #7","EQ 高 虚拟条#7",24
+"0x159ba0","EQ Med Virtual Strip #7","EQ 中 虚拟条#7",23
+"0x159bc8","EQ Bass Virtual Strip #7","EQ 低 虚拟条#7",24
+"0x159bf8","EQ High Virtual Strip #8","EQ 高 虚拟条#8",24
+"0x159c28","EQ Med Virtual Strip #8","EQ 中 虚拟条#8",23
+"0x159c50","EQ Bass Virtual Strip #8","EQ 低 虚拟条#8",24
+"0x159c80","Reverb Strip #1","混响 声道条#1",15
+"0x159ca0","Reverb Strip #2","混响 声道条#2",15
+"0x159cc0","Reverb Strip #3","混响 声道条#3",15
+"0x159ce0","Reverb Strip #4","混响 声道条#4",15
+"0x159d00","Reverb Strip #5","混响 声道条#5",15
+"0x159d20","Delay Strip #1","延迟 声道条#1",14
+"0x159d40","Delay Strip #2","延迟 声道条#2",14
+"0x159d60","Delay Strip #3","延迟 声道条#3",14
+"0x159d80","Delay Strip #4","延迟 声道条#4",14
+"0x159da0","Delay Strip #5","延迟 声道条#5",14
+"0x159dc0","External FX1 Strip #1","外部效果1 声道条#1",21
+"0x159de8","External FX1 Strip #2","外部效果1 声道条#2",21
+"0x159e10","External FX1 Strip #3","外部效果1 声道条#3",21
+"0x159e38","External FX1 Strip #4","外部效果1 声道条#4",21
+"0x159e60","External FX1 Strip #5","外部效果1 声道条#5",21
+"0x159e88","External FX2 Strip #1","外部效果2 声道条#1",21
+"0x159eb0","External FX2 Strip #2","外部效果2 声道条#2",21
+"0x159ed8","External FX2 Strip #3","外部效果2 声道条#3",21
+"0x159f00","External FX2 Strip #4","外部效果2 声道条#4",21
+"0x159f28","External FX2 Strip #5","外部效果2 声道条#5",21
+"0x159f48","SELECT BUS A1 Mix","选择 BUS A1 混音",17
+"0x159f68","SELECT BUS A2 Mix","选择 BUS A2 混音",17
+"0x159f88","SELECT BUS A3 Mix","选择 BUS A3 混音",17
+"0x159fa8","SELECT BUS A4 Mix","选择 BUS A4 混音",17
+"0x159fc8","SELECT BUS A5 Mix","选择 BUS A5 混音",17
+"0x159ff0","SELECT BUS B1 Mix","选择 BUS B1 混音",17
+"0x15a018","SELECT BUS B2 Mix","选择 BUS B2 混音",17
+"0x15a040","SELECT BUS B3 Mix","选择 BUS B3 混音",17
+"0x15a068","Gain of BUS A1","BUS A1 增益",14
+"0x15a088","Gain of BUS A2","BUS A2 增益",14
+"0x15a0a8","Gain of BUS A3","BUS A3 增益",14
+"0x15a0c8","Gain of BUS A4","BUS A4 增益",14
+"0x15a0e8","Gain of BUS A5","BUS A5 增益",14
+"0x15a108","Gain of BUS B1","BUS B1 增益",14
+"0x15a128","Gain of BUS B2","BUS B2 增益",14
+"0x15a148","Gain of BUS B3","BUS B3 增益",14
+"0x15a168","Mute BUS A1","静音 BUS A1",11
+"0x15a188","Mute BUS A2","静音 BUS A2",11
+"0x15a1a8","Mute BUS A3","静音 BUS A3",11
+"0x15a1c8","Mute BUS A4","静音 BUS A4",11
+"0x15a1e8","Mute BUS A5","静音 BUS A5",11
+"0x15a208","Mute BUS B1","静音 BUS B1",11
+"0x15a228","Mute BUS B2","静音 BUS B2",11
+"0x15a248","Mute BUS B3","静音 BUS B3",11
+"0x15a268","Toggle B1/B2 on Strip #1","声道条#1 的 B1/B2 切换",24
+"0x15a298","Master EQ BUS A1","BUS A1 主均衡",16
+"0x15a2c0","Master EQ BUS A2","BUS A2 主均衡",16
+"0x15a2e8","Master EQ BUS A3","BUS A3 主均衡",16
+"0x15a310","Master EQ BUS A4","BUS A4 主均衡",16
+"0x15a338","Master EQ BUS A5","BUS A5 主均衡",16
+"0x15a360","Master EQ BUS B1","BUS B1 主均衡",16
+"0x15a388","Master EQ BUS B2","BUS B2 主均衡",16
+"0x15a3b0","Master EQ BUS B3","BUS B3 主均衡",16
+"0x15a3d8","Limit Bus A1","限幅 Bus A1",12
+"0x15a3f8","Limit Bus A2","限幅 Bus A2",12
+"0x15a418","Limit Bus A3","限幅 Bus A3",12
+"0x15a438","Limit Bus A4","限幅 Bus A4",12
+"0x15a458","Limit Bus A5","限幅 Bus A5",12
+"0x15a4d8","PLAY TAPE","播放磁带",9
+"0x15a4f0","REC TAPE","录制磁带",8

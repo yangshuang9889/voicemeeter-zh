@@ -1,0 +1,43 @@
+爽哥 Voicemeeter Potato 汉化版 —— 说明
+========================================
+
+【成品】
+voicemeeter8x64.exe   汉化版主程序（13548576 字节，与原文件完全等长）
+汉化对照表.csv        全部 530 条词条的 偏移/原文/中文 对照
+
+【汉化方式】
+对原版 3.1.3.0（x64）做"原地等长替换"：
+  · 界面文本为裸 ANSI zstring 常量池，按原占用长度用 GBK 中文覆盖，NUL 补齐；
+  · 未新增/删除任何字节，文件大小不变，PE 节表与资源目录完全不变；
+  · PE 校验和已重算。
+共汉化 530 条：主菜单、右键菜单（重置/复制/保存系列）、系统设置/选项、
+许可证与激活对话框、VBAN 网络配置面板、设备与 ASIO 错误提示、录音机面板、
+效果器面板（混响/MultiTap/C5 限幅器）、缩放与显示菜单、各类警告与确认框、
+全部鼠标悬停提示（推子/静音/独奏/压缩/门限/降噪/变调/共振峰/限幅/发送等）、
+星期与月份、高/低音等。
+
+【未汉化的部分（刻意保留英文）】
+  · 内部控件标识符、Voicemeeter API 参数名（InGainFader1、Strip[0].Gain 之类）
+  · XML 配置键名、注册表路径、GUID、驱动设备名、.sys 驱动文件
+  · ASIO/WDM/KS/MME 等驱动类型名（需与系统里显示的一致，便于辨认）
+  · 程序日志与命令行调试串
+这些一旦改动会导致 API 调用、配置文件读写或驱动匹配失败，故一律不动。
+
+【安装方法】
+1. 完全退出 Voicemeeter（托盘图标右键 → 退出），确认任务管理器里没有 voicemeeter8x64.exe；
+2. 以管理员身份打开命令提示符，执行：
+     copy "C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe" "C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe.bak"
+     copy /Y "<成品路径>\voicemeeter8x64.exe" "C:\Program Files (x86)\VB\Voicemeeter\voicemeeter8x64.exe"
+3. 重新启动 Voicemeeter。
+
+【还原方法】
+删除汉化版，把 voicemeeter8x64.exe.bak 改回 voicemeeter8x64.exe；
+或直接运行原厂 Voicemeeter8Setup.exe 覆盖安装。
+
+【风险提示（务必阅读）】
+· 本次为静态字节替换，未做实机运行验证。可能出现：个别菜单或提示仍为英文、
+  个别界面文字换行位置不佳、极个别与字符串比较相关的开关行为异常。
+· 文件数字签名因内容改动而失效，Windows 可能提示"未知发布者"，
+  这不是病毒，属修改后签名不再匹配的正常现象。
+· 若出现任何异常，按上面"还原方法"恢复即可，原文件未被改动过。
+（内容由AI生成，仅供参考）

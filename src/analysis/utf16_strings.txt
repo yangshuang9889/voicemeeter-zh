@@ -1,0 +1,1285 @@
+14a5c0	(null)
+14a666	E湟硥慴瑦牥
+14a67c	祟n祟1祟0牦硥p
+14a697	开票潰t开慣獢
+14a6cf	琀湡挀獯猀湩猀牱t
+14a73c	楸側潲散獳
+14a748	mscoree.dll
+14a760	runtime error 
+14b190	Microsoft Visual C++ Runtime Library
+14b1f0	<program name unknown>
+14b240	Program: 
+14b258	HH:mm:ss
+14b270	dddd, MMMM dd, yyyy
+14b298	MM/dd/yy
+14b2c0	December
+14b2d7	一漀瘀攀洀戀攀爀
+14b2ef	伀挀琀漀戀攀爀
+14b2ff	匀攀瀀琀攀洀戀攀爀
+14b318	August
+14b328	July
+14b338	June
+14b348	April
+14b358	March
+14b368	February
+14b380	January
+14b3ef	匀愀琀甀爀搀愀礀
+14b408	Friday
+14b417	吀栀甀爀猀搀愀礀
+14b42f	圀攀搀渀攀猀搀愀礀
+14b447	吀甀攀猀搀愀礀
+14b458	Monday
+14b467	匀甀渀搀愀礀
+14b4ec	敄c潎v捏t敓p畁g畊l畊n灁r慍r敆b慊n慓t牆i桔u敗d畔e潍n畓n
+14b721	瑥獕牥扏敪瑣湉潦浲瑡潩坮
+14b741	瑥慌瑳捁楴敶潐異p
+14b769	獥慳敧潂坸
+14b778	USER32.DLL
+14bfa0	CONOUT$
+14bfee	牬慥祤传数湮摥
+14c000	.wav
+14c010	.bwf
+14c020	.aif
+14c030	.aiff
+14c040	.iff
+14c04f	眀愀瘀攀
+14c05f	愀椀昀昀
+14c077	甀渀欀渀漀眀渀
+14c242	映汩e汣楳d
+14c25d	2搀獥牣灩楴湯
+14c2e9	畯楲牥丠睥
+14c2f7	攀搀椀琀
+14c303	戀瑵潴n愀
+14c35b	瑥潆摬牥慐桴A
+14c384	畁楤屯潃浭湯偁P
+14c3b3	瑥潆摬牥慐桴W
+14c3d0	桓汥彬潎楴祦捉湯A
+14c3e7	呁A开摟瑡a开呟塅T
+14c3ff	一摴汬搮汬
+14c40f	刀汴敇噴牥楳湯
+14c430	敇噴牥楳湯硅A
+14c460	嚩畂敲l
+14c5a4	慍湩楗摮睯0
+14c630	Duration
+14c648	Bitrate
+14c658	Seekable
+14c66f	匀琀爀椀搀愀戀氀攀
+14c688	Broadcast
+14c6a0	Is_Protected
+14c6c0	Is_Trusted
+14c6d7	匀椀最渀愀琀甀爀攀开一愀洀攀
+14c6f8	HasAudio
+14c710	HasImage
+14c728	HasScript
+14c740	HasVideo
+14c758	CurrentBitrate
+14c778	OptimalBitrate
+14c798	HasAttachedImages
+14c7c0	Can_Skip_Backward
+14c7e8	Can_Skip_Forward
+14c810	NumberOfFrames
+14c830	FileSize
+14c848	HasArbitraryDataStream
+14c878	HasFileTransferStream
+14c8a8	WM/ContainerFormat
+14c8cf	吀椀琀氀攀
+14c8e0	Author
+14c8f0	Description
+14c908	Rating
+14c918	Copyright
+14c930	Use_DRM
+14c940	DRM_Flags
+14c958	DRM_Level
+14c970	Use_Advanced_DRM
+14c998	DRM_KeySeed
+14c9b0	DRM_KeyID
+14c9c8	DRM_ContentID
+14c9e8	DRM_SourceID
+14ca08	DRM_IndividualizedVersion
+14ca40	DRM_LicenseAcqURL
+14ca68	DRM_V1LicenseAcqURL
+14ca90	DRM_HeaderSignPrivKey
+14cac0	DRM_LASignaturePrivKey
+14caf0	DRM_LASignatureCert
+14cb18	DRM_LASignatureLicSrvCert
+14cb50	DRM_LASignatureRootCert
+14cb80	WM/AlbumTitle
+14cba0	WM/Track
+14cbb8	WM/PromotionURL
+14cbd8	WM/AlbumCoverURL
+14cc00	WM/Genre
+14cc18	WM/Year
+14cc28	WM/GenreID
+14cc40	WM/MCDI
+14cc50	WM/Composer
+14cc68	WM/Lyrics
+14cc80	WM/TrackNumber
+14cca0	WM/ToolName
+14ccb8	WM/ToolVersion
+14ccd8	IsVBR
+14cce8	WM/AlbumArtist
+14cd08	BannerImageType
+14cd28	BannerImageData
+14cd48	BannerImageURL
+14cd68	CopyrightURL
+14cd88	AspectRatioX
+14cda8	AspectRatioY
+14cdc8	ASFLeakyBucketPairs
+14cdf0	NSC_Name
+14ce08	NSC_Address
+14ce20	NSC_Phone
+14ce38	NSC_Email
+14ce50	NSC_Description
+14ce70	WM/Writer
+14ce88	WM/Conductor
+14cea8	WM/Producer
+14cec0	WM/Director
+14ced8	WM/ContentGroupDescription
+14cf10	WM/SubTitle
+14cf28	WM/PartOfSet
+14cf48	WM/ProtectionType
+14cf70	WM/VideoHeight
+14cf90	WM/VideoWidth
+14cfb0	WM/VideoFrameRate
+14cfd8	WM/MediaClassPrimaryID
+14d008	WM/MediaClassSecondaryID
+14d040	WM/Period
+14d058	WM/Category
+14d070	WM/Picture
+14d088	WM/Lyrics_Synchronised
+14d0b8	WM/OriginalLyricist
+14d0e0	WM/OriginalArtist
+14d108	WM/OriginalAlbumTitle
+14d138	WM/OriginalReleaseYear
+14d168	WM/OriginalFilename
+14d190	WM/Publisher
+14d1b0	WM/EncodedBy
+14d1d0	WM/EncodingSettings
+14d1f8	WM/EncodingTime
+14d218	WM/AuthorURL
+14d238	WM/UserWebURL
+14d258	WM/AudioFileURL
+14d278	WM/AudioSourceURL
+14d2a0	WM/Language
+14d2b8	WM/ParentalRating
+14d2e0	WM/BeatsPerMinute
+14d308	WM/InitialKey
+14d328	WM/Mood
+14d338	WM/Text
+14d348	WM/DVDID
+14d360	WM/WMContentID
+14d380	WM/WMCollectionID
+14d3a8	WM/WMCollectionGroupID
+14d3d8	WM/UniqueFileIdentifier
+14d408	WM/ModifiedBy
+14d428	WM/RadioStationName
+14d450	WM/RadioStationOwner
+14d480	WM/PlaylistDelay
+14d4a8	WM/Codec
+14d4c0	WM/DRM
+14d4d0	WM/ISRC
+14d4e0	WM/Provider
+14d4f8	WM/ProviderRating
+14d520	WM/ProviderStyle
+14d548	WM/ContentDistributor
+14d578	WM/SubscriptionContentID
+14d5b0	WM/WMADRCPeakReference
+14d5e0	WM/WMADRCPeakTarget
+14d608	WM/WMADRCAverageReference
+14d640	WM/WMADRCAverageTarget
+14d670	WM/StreamTypeInfo
+14d698	WM/PeakBitrate
+14d6b8	WM/ASFPacketCount
+14d6e0	WM/ASFSecurityObjectsSize
+14d718	WM/SharedUserRating
+14d740	WM/SubTitleDescription
+14d770	WM/MediaCredits
+14d790	WM/ParentalRatingReason
+14d7c0	WM/OriginalReleaseTime
+14d7f0	WM/MediaStationCallSign
+14d820	WM/MediaStationName
+14d848	WM/MediaNetworkAffiliation
+14d880	WM/MediaOriginalChannel
+14d8b0	WM/MediaOriginalBroadcastDateTime
+14d8f8	WM/MediaIsStereo
+14d920	WM/VideoClosedCaptioning
+14d958	WM/MediaIsRepeat
+14d980	WM/MediaIsLive
+14d9a0	WM/MediaIsTape
+14d9c0	WM/MediaIsDelay
+14d9e0	WM/MediaIsSubtitled
+14da08	WM/MediaIsPremiere
+14da30	WM/MediaIsFinale
+14da58	WM/MediaIsSAP
+14da78	WM/ProviderCopyright
+14daa8	WM/ISAN
+14dab8	WM/ADID
+14dac8	WM/WMShadowFileSourceFileType
+14db08	WM/WMShadowFileSourceDRMType
+14db48	WM/WMCPDistributor
+14db70	WM/WMCPDistributorID
+14dba0	WM/SeasonNumber
+14dbc0	WM/EpisodeNumber
+14dbe8	EarlyDataDelivery
+14dc10	JustInTimeDecode
+14dc38	SingleOutputBuffer
+14dc5f	匀漀昀琀眀愀爀攀匀挀愀氀椀渀最
+14dc80	DeliverOnReceive
+14dca8	ScrambledAudio
+14dcc8	DedicatedDeliveryThread
+14dcf8	EnableDiscreteOutput
+14dd28	SpeakerConfig
+14dd48	DynamicRangeControl
+14dd70	AllowInterlacedOutput
+14dda0	VideoSampleDurations
+14ddd0	StreamLanguage
+14ddf0	EnableWMAProSPDIFOutput
+14de20	DeinterlaceMode
+14de40	InitialPatternForInverseTelecine
+14de88	JPEGCompressionQuality
+14deb8	WatermarkCLSID
+14ded8	WatermarkConfig
+14def8	InterlacedCoding
+14df20	FixedFrameRate
+14df40	_SOURCEFORMATTAG
+14df68	_ORIGINALWAVEFORMAT
+14df90	_EDL
+14dfa0	_COMPLEXITYEX
+14dfc0	_DECODERCOMPLEXITYPROFILE
+14dff8	ReloadIndexOnSeek
+14e020	StreamNumIndexObjects
+14e050	FailSeekOnError
+14e070	PermitSeeksBeyondEndOfStream
+14e0b0	UsePacketAtSeekPoint
+14e0e0	SourceBufferTime
+14e108	SourceMaxBytesAtOnce
+14e138	_VBRENABLED
+14e150	_VBRQUALITY
+14e168	_RMAX
+14e178	_BMAX
+14e188	VBR Peak
+14e1a0	Buffer Average
+14e1c0	_COMPLEXITYEXMAX
+14e1e8	_COMPLEXITYEXOFFLINE
+14e218	_COMPLEXITYEXLIVE
+14e240	_ISVBRSUPPORTED
+14e260	_PASSESUSED
+14e278	MusicSpeechClassMode
+14e2a8	MusicClassMode
+14e2c8	SpeechClassMode
+14e2e8	MixedClassMode
+14e308	SpeechFormatCap
+14e328	PeakValue
+14e340	AverageLevel
+14e360	Fold6To2Channels3
+14e388	Fold%luTo%luChannels%lu
+14e3b8	DeviceConformanceTemplate
+14e3f0	EnableFrameInterpolation
+14e427	一攀攀搀猀倀爀攀瘀椀漀甀猀匀愀洀瀀氀攀
+14e450	WM/IsCompilation
+14e478	ASIO Multimedia Driver
+14e4c2	楲敶rASIO Multimedia Preferences
+14e67b	硸硸砮硸
+14e6f8	楄灳慬乹浡e
+14e708	湕湩瑳污卬牴湩gDAT
+14e720	*.dat
+14e730	VB-Audio_PCFootprint.dat
+14e768	VBAudio
+14e778	_PCFootprint.dat
+14e7a0	Export Computer Footprint
+14e7d8	.dat
+14e880	敲畱物摥.
+14e8c9	潯灴楲瑮渠瑯猠癡摥.
+14e8e0	*.dat
+14e8f0	Import Computer Footprint
+14ea45	桴獩愠灰楬慣楴湯
+14ea7f	敲楧瑳牥摥攠洭楡l
+14eaee	.HARDWARE\DESCRIPTION\System\BIOS
+14eb38	BaseBoardManufacturer
+14eb68	BaseBoardProduct
+14eb90	BaseBoardVersion
+14ebb8	BIOSVendor
+14ebd0	BIOSVersion
+14ec20	捁楴慶楴湯匠慴瑲
+14ec59	潃湮捥楴湯匠慴瑲
+14ecf8	摡删灥祬
+14edb2	湩整湲瑥漠瑰潩獮
+14edc8	湏楬敮猠牥楶散渠瑯愠慶汩扡敬
+14edf9	畁桴湥楴慣楴湯匠牥楶散漀数n
+14ee20	捁楴慶楴湯
+14ee38	捁楴慶整
+14ee48	祍眠扥桳灯愠捣畯瑮
+14eed1	牥楴楦慣整渠瑯映畯摮
+14ef41	牥楴楦慣整戠摡映牯慭t
+14efb8	敒楧瑳祲映楡畬敲
+14f031	慭畮污祬,
+14f09e	瑩戠汥睯
+14f0a8	塘塘塘塘塘
+14f0d6	慬整r歏
+14f0e6	癅污慵楴杮
+14f170	潆瑯牰湩t
+14f190	潆瑯牰湩t
+14f207	慭汩愠摤敲獳
+14f220	捁楴慶整d
+14f25e	潹牵瀠牡楴楣慰楴湯!
+14f287	捁楴慶楴湯
+14f2d9	異捲慨敳氠捩湥敳.
+14f328	異捲慨敳.
+14f39b	瑡整灭獴攠捸敥敤d
+14f4b0	捁楴慶楴湯匠捵散獳
+14f608	灩汨慰楰搮汬
+14f629	瑥慎楴敶祓瑳浥湉潦
+14f68a	嚩畂敲l
+14f6a9	嚩畂敲l
+14f6ca	嚩畂敲l
+14f6e9	嚩畂敲l
+14f708	睟扤嚩畂敲l
+14f75b	嚩畂敲l
+14f7b6	牧摩挠慬獳
+14f80e	楬瑳挠慬獳
+14f88d	倲挠慬獳
+14f8ab	敲楧瑳牥爠瑯瑡晩挠慬獳
+14f8f9	潎攠牲牯
+14f990	洨)猨灭)
+14f9bf	獵捩污吠浩e吀浥潰
+14f9d7	刀灥慬散洠摯e
+14f9f0	畤慲楴湯.
+14fa07	獵捩污倠獯瑩潩n琀捩
+14fa20	楔敭匠杩慮畴敲
+14fa49	慲敭瀠牥猠捥湯d
+14fa67	湯牴汯洠摯e
+14fa78	敓畱湥楴污洠癯獥
+14fabf	倀敲楣楳湯吠楲匠楬敤r
+14fad8	摁番瑳嘠污敵
+14fb13	敂慨楶牯
+14fbae	摅瑩湩g
+14fc26	敒捡楴湯删瑡e
+14fcc3	敌瑦吠灯
+14fcd8	湯删杩瑨吠灯
+14fd3e	慃瑰牵摥
+14fd48	楄敲瑣洠畯敳瀠獯瑩潩n
+14fdbe	瑸慲瑣捉湯W
+14fdd8	image/png
+14fdf0	image/jpeg
+14fe08	image/tiff
+14fe20	image/gif
+14fe39	楤汰獵搮汬
+14fe48	摇灩畬即慴瑲灵
+14fe70	慭敧敄潣敤獲楓敺
+14fe90	慭敧敄潣敤獲
+14fea8	慭敧湅潣敤獲楓敺
+14fec8	慭敧湅潣敤獲
+14fef8	摇灩牃慥整楂浴灡牆浯瑓敲浡
+14ff18	摇灩牃慥整楂浴灡牆浯楆敬
+14ff87	偁牆浯楂浴灡
+14ff9d	獩潰敳浉条e
+14ffb0	摇灩慓敶浉条呥卯牴慥m
+14ffda	牯慭tD
+15000a	D啔E位N畓摮祡
+15001f	匀瑡牵慤y
+150037	吀畨獲慤y
+150047	圀摥敮摳祡
+150058	畔獥慤y潍摮祡
+150096	N敄散扭牥
+1500a7	一癯浥敢r
+1500b7	伀瑣扯牥匀灥整扭牥
+1500e4	慍y灁楲l
+1500f8	敆牢慵祲
+150119	瑥祓瑳浥敍牴捩s
+150131	湯瑩牯牆浯楗摮睯
+150159	湯瑩牯牆浯潐湩t
+150175	獩汰祡潍楮潴獲
+1501a4	癥捩獥A
+1501fd	椵渀摴汬搮汬
+15020f	一兴敵祲楔敭割獥汯瑵潩n一却瑥楔敭割獥汯瑵潩n
+15023f	猀漀昀琀眀愀爀攀尀愀猀椀漀
+150637	挠污扬捡k
+15064f	獉匠慴瑲摥.
+150660	敄楶散丠瑯匠慴瑲摥:
+150678	牄癩牥渠瑯映畯摮
+1506c6	慓灭敬慒整:
+15070c	癁楡慬汢e
+15071f	獉传数湮摥.
+150730	Duration
+150748	\\.\%s
+150760	.mp2
+150770	.son
+150780	.mp3
+150790	.m4a
+1507a0	.wma
+1507b0	.wmv
+1507c0	.mp4
+1507d0	.avi
+1507e0	.mov
+1507f0	.cda
+1507ff	匀汨慷楰搮汬
+150812	牃慥整瑓敲浡湏楆敬硅
+150829	癭潣敲搮汬
+15083a	牃慥整祓据敒摡牥
+150850	晍汰瑡搮汬
+150861	卆慴瑲灵
+150871	卆畨摴睯n
+150882	牃慥整敍楤呡灹e
+1508b2	敍楤呡灹e
+1508d2	牃慥整潓牵散敒摡牥牆浯剕L
+15093d	弳灯湥晟敥d
+150955	弳汣獯e
+150975	弳敤敬整
+150985	弳敧晴牯慭t
+15099d	弳潦浲瑡湟湯e
+1509b5	弳潦浲瑡
+1509e5	弳敤潣敤
+150a05	弳敬杮桴
+150af0	灡楗摮睯汃獡s
+150b4f	刀捥牯楤杮嘠佁
+150bf3	敳瑴湩獧猺畯摮
+150c08	硥汰牯牥攮數
+150c44	業牣灯潨敮
+150c5f	挀湯牴汯攮數
+150c9e	潐楳楴湯嬉潈敭]
+150e16	伭橢捥t
+150e20	Properties
+150e37	刀攀渀搀攀爀
+150e48	Capture
+150e68	慍捴楨杮敄楶散摉
+150e80	牄癩牥敄捳
+150f10	牣慥整映汩整r
+150f35	潴攠畮敭慲整瀠湩
+150f60	楦摮瘠污摩瀠湩
+150f70	FriendlyName
+150f90	SYSTEM\CurrentControlSet\Control\Class\
+150fe0	DriverDesc
+151155	敶瑮映楡敬d
+15118e	敶瑮映楡敬d
+151373	畂晦牥s
+151399	畂晦牥s
+1513b2	桔敲摡渠瑯氠畡据敨d
+151461	桔敲摡渠瑯氠畡据敨d
+1514f8	\VarFileInfo\Translation
+151530	\StringFileInfo\%04x%04x\ProductName
+151580	獕牥畄正湩偧敲敦敲据e
+151598	Windows Wave Mapper
+1515d8	獫獵牥搮汬
+1515e8	獋牃慥整楐n
+1515f9	畮偭潲散獳潍畤敬s
+151611	瑥潍畤敬慂敳慎敭W
+151629	瑥潍畤敬楆敬慎敭硅W
+15163f	瀀慳楰搮汬
+151660	癁瑲搮汬
+15169e	慨慲瑣牥獩楴獣A
+1516b0	Inputs
+1516bf	伀甀琀瀀甀琀猀
+151890	楍楤慍买浡e
+1518a5	灡瑉浥椀d戀1戀2戀3戀4戀5戀6挀摯牥
+1518cf	挀摯牥祴数
+1518dc	瑰t敦摥1
+1518f7	搀獩扡敬d
+151903	昀敥佤n
+151928	敒潭敶匠汥捥楴湯
+151946	湯牴汯倠湡汥
+151958	灏湥圠湩潤獷匠畯摮
+151994	敋湲汥匠牴慥業杮)
+1519ad	畍瑬浩摥慩)
+1519c5	匨整湩敢杲)
+151a6b	楢獴映潬瑡
+151a7b	楢獴映潬瑡
+151ad3	匀牥慩l
+151b12	乁匠牥楶散
+151b20	瑓敲浡椥
+151b39	浯慭摮椥
+151b69	桔敲摡.
+151c05	桔敲摡.
+151c11	瑥潃灭瑵牥慎敭硅A
+151c3c	潥湉潦A
+151c57	最瑥摡牤湩潦
+151c67	昀敲慥摤楲普o
+151c78	潈瑳慎敭:
+151c88	獕牥慎敭:
+151c98	<nudge>
+151ca8	<alert>
+151cec	摉湥楴楦慣楴湯
+151d00	AJQtpu
+151d69	獩汰祡洠獥慳敧琠浩獥慴灭
+151d97	湯洠獥慳敧
+151dca	洠摥畩m
+151dfa	戠杩敧瑳
+151e40	敢湉瑩瑓敲浡
+151e50	敢湅潣敤桃湵k
+151e60	敢敄湩瑩瑓敲浡
+151e70	敢汃獯卥牴慥m
+151e80	敢敖獲潩n
+151e90	敢牗瑩噥剂效摡牥
+151ec0	C:\VoicemeeterRecord
+151eef	嘀漀椀挀攀洀攀攀琀攀爀
+151f79	=洀湯o
+151f83	猀整敲o
+151f93	牯杩湩污,
+151fa0	Record %04i-%02i-%02i at %02ih%02im%02is
+152000	%s %04i-%02i-%02i at %02ih%02im%02is
+15206b	畢晦牥.
+1520c0	_Track%i
+1520e4	楳敺琠潯戠杩
+1520fe	眠楲整映楡畬敲
+152117	楤歳映汵l
+15213a	湯牴汯汃獡s
+152148	%02i - Empty Preset
+152170	%02i - %s
+152188	%02i - Scene
+1521c7	匀潴敲倠敲敳t
+1521d7	伀敶睲楲整倠敲敳t
+1521f0	摅瑩丠浡e
+152205	潃浭湥t
+152210	潃祰倠敲敳t
+15221f	倀獡整倠敲敳t
+152258	敄敬整倠敲敳t
+152321	慨湮汥:
+1526c0	*.XML
+1526cc	All (*.*)
+1526f0	*.xml
+152700	Save Current EQ Settings...
+152738	.xml
+152744	畂s湩敤x
+152750	档湡敮l牴浩
+152779	瑑灹e搀汢癥汥昀敲q
+152797	匀牴灩充敭m
+1527a9	獵充敭m
+1527d6	敥整卲牴灩充
+1527e8	Load EQ Settings...
+152810	EQPro-G6 BUS A1 (Physical)
+152848	EQPro-G6 BUS A2 (Physical)
+152880	EQPro-G6 BUS A3 (Physical)
+1528b8	EQPro-G6 BUS A4 (Physical)
+1528f0	EQPro-G6 BUS A5 (Physical)
+152928	EQPro-G6 BUS B1 (Virtual)
+152960	EQPro-G6 BUS B2 (Virtual)
+152998	EQPro-G6 BUS B3 (Virtual)
+1529d0	EQPro-G6 Stereo Input #1
+152a08	EQPro-G6 Stereo Input #2
+152a40	EQPro-G6 Stereo Input #3
+152a78	EQPro-G6 Stereo Input #4
+152ab0	EQPro-G6 Stereo Input #5
+152ae8	EQPro-G6 Virtual Input #1
+152b20	EQPro-G6 Virtual Input #2
+152b58	EQPro-G6 Virtual Input #3
+152b95	充匠瑥楴杮s
+152bad	充匠瑥楴杮s
+152c26	求捡k潮琠灡
+152cb4	摵潩噜楯散敍瑥牥潐慴潴湉s
+152d0c	摵潩噜楯散敍瑥牥慃汬慢正
+152dbc	摵潩噜楯散敍瑥牥慃汬慢正佟瑵
+152e20	啁X湉異t
+152e7f	倀票楳慣l
+152e98	物捥潴祲:
+152f1c	瑩s桃湡敮獬:
+152f6e	猥映汩獥:潎
+152f97	倀慬批捡k
+152fb5	敒潣摲:
+152ff6	s椥猠捥湯獤
+153008	Select Target Folder
+153038	敒潣摲牥传瑰潩獮
+15304b	匀獹整m
+1531e0	Save Current C5-Limiter Settings...
+15330b	挀浯佰n愀瑴捡k
+15331f	爀汥慥敳欀敮e
+153337	琀牨獥潨摬
+153347	最楡佮瑵氀浩湏
+15335f	搀獩潴獲潩n
+153373	浩敇敮慲l
+15337f	愀瑵浯歡略p
+153390	慍瑳牥慇湩
+15339f	昀敲剱歮1
+1533af	昀敲剱歮2
+1533bf	昀敲剱歮3
+1533cf	昀敲剱歮4
+1533e0	Load C5-Limiter Settings...
+153425	楌業整r
+153446	潃灭敲獳牯)
+153461	浩瑩牥匠瑥楴杮s
+153481	浩瑩牥匠瑥楴杮s
+153521	洠瑥牥s
+153640	Save Current Reverb Settings...
+153728	敒敶扲充
+15373c	煥f煥q煥g敒敶扲敇敮慲l
+153758	畮牐獥瑥
+153763	搀祲眀瑥
+15376f	刀癥牥偢牡浡
+15377f	瀀敲敤慬y
+153798	慅汲剹晥流畯瑮
+1537b0	Load Reverb Settings...
+1537e1	楯散敍瑥牥敒敶扲
+153806	敒敶扲)
+153815	敒敶扲匠瑥楴杮s
+15382d	敒敶扲匠瑥楴杮s
+15384d	桔獩吠灡
+153866	敶祲吠灡
+15388b	搀瑥捥t
+153a40	Save Current MultiTap Settings...
+153b38	畍瑬呩灡慐慲m
+153b50	楦瑬牥慧湩
+153b5c	慰n畍瑬呩灡敇敮慲l慢慬据彥敬瑦
+153b7f	戀污湡散牟杩瑨
+153b8f	愀瑵景瑩瀀慨敳
+153ba0	畍瑬呩灡敄慬y
+153bb0	楴敭慲楴o
+153bbf	挀牵敲瑮偂M
+153bcf	昀敥扤捡k
+153bdf	昀敥扤捡瑫灹e
+153bf0	Load MultiTap Settings...
+153c27	嘀楯散敍瑥牥畍瑬呩灡
+153c66	敓瑴湩獧
+153c7e	敓瑴湩獧
+153ec0	畆据楴湯
+153ed0	潃浭湥t效灬瑉浥
+153ef4	灡楴湯效灬
+153f07	氀湡畧条e
+153f29	尺整灭\
+153f4b	杯楆敬琮瑸
+153fc2	晥畡瑬砮汭
+153fcf	嘀楯散敭瑥牥
+153fe0	潖捩浥敥整偲瑯瑡彯慌瑳敓瑴湩獧砮汭
+154007	嘀楯散敭瑥牥潐慴潴呟摯祡敓瑴湩獧砮汭
+15402f	嘀楯散敭瑥牥潐慴潴奟獥整摲祡敓瑴湩獧砮汭匀挀攀渀攀开倀漀琀愀琀漀
+154078	VoiceModeler_Preset
+1540a9	敨正攮數
+1540c5	佉硅整獮潩n
+1540fb	楌散獮e
+154107	嘀楯散敭瑥牥倠瑯瑡o
+1541e8	挨摯牥猠)
+154248	潃瑮潲汬牥
+154267	敄楶散:一瑯匠汥捥整d
+1542d5	敄楶散:
+154318	Save Current M.I.D.I. Map...
+154400	Load M.I.D.I. Map...
+15442f	嘀楯散敍瑥牥楍楤慍p
+154498	潣瑮湩敵?
+1544d7	摯牥漠晦敳t
+154506	慍正敩)
+154519	慍灰湩g
+15452b	猀慴畴s
+154537	甀敳湲浡e
+154552	乁瑓敲浡湉
+15455f	椀n渀浡e
+15456b	椀p瀀牯t
+154582	乁慄慴湉
+154595	浯慭摮湉
+1545aa	乁瑓敲浡畏t
+1545b9	獵匀R挀h昀牯慭t
+1545d2	乁慄慴畏t潳牵散
+1545ea	乁牆浡佥瑵
+1545ff	昀獰挀牵潳r
+154901	摥畩m匀潬w
+154910	敖祲匠潬w
+154921	祮愠摤敲獳
+15492f	刀浥瑯湩g
+154958	椥洠灢s潃普杩
+154988	慍湩匠牴慥m
+1549a2	敄整瑣摥
+1549d8	湉潣業杮匠牴慥獭:
+154a27	匀浡汰牥慒整:
+154a37	一瑥儠慵楬祴:
+154a49	獥楴慮楴湯:
+154a58	畏杴楯杮匠牴慥獭:
+154abc	档湡敮獬)
+154af8	渠瑯映畯摮.
+154b0c	慐正瑥吠浩湩g
+154b50	Save Current VBAN Configuration...
+154c40	Load VBAN Configuration...
+154c7a	乁潃普杩牵瑡潩n
+154c8d	N圀湩潤獷倠C
+154ca4	摵潩匠景睴牡e
+154cc1	浯慭摮1
+154cee	潃普楬瑣
+154e69	潣瑮湩敵?
+1550b5	.琀砀琀
+1550c0	*.TXT
+1550cc	All (*.*)
+1550f0	Save Current Log...
+155118	.txt
+15513a	湯楦畧慲楴湯
+155148	VBANLog_IncomingStream%i.txt
+155188	VBANLog_OutgoingStream%i.txt
+1551f6	潐湩獴:
+15526e	灮瑵匠牴慥獭:
+15539b	伀N刀汥瑡癩e
+1553b0	扁潳畬整
+1553d1	灭牯慴瑮圠牡楮杮
+1554f4	硅数瑲传瑰潩獮
+1555c0	- none -
+1555d8	MME: %s
+1555e8	WDM: %s
+1555f8	KS: %s
+155650	Failed to Open Input Device: %s
+1556a8	ASIO: %s
+1556c0	ASIO: Device Not Started
+1556f8	PATCH ASIO Inputs to Strips:
+155738	IN %i
+155750	SYNC: Internal Master CLOCK (8 channels virtual out)
+1557c0	Failed to Open Output Device: %s
+155808	PATCH BUS TO A1 ASIO Outputs:
+155848	Monitoring Synchro Delay:
+155880	OUT A%i:
+155898	%0.2f ms
+1558b0	OUT Limiter:
+1558e0	VAIO sync:
+1558f8	STRICT
+155908	SOFT
+155918	External FX PATCH:
+155940	Send 1:
+155950	Return 1:
+155968	Send 2:
+155978	Return 2:
+155990	Internal FX Selection:
+1559c0	Buffering MME:
+1559e0	(default: 1024)
+155a00	Buffering WDM:
+155a20	(default: 512)
+155a40	Buffering KS:
+155a60	Buffering Clock:
+155a88	Buffering ASIO:
+155aa8	Default
+155ab8	ASIO SR:
+155ad0	%i Hz
+155ae0	Virtual ASIO Type:
+155b08	Float32LSB
+155b20	Int32LSB
+155b38	Preferred Main SampleRate:
+155b70	WDM Input Exclusive Mode:
+155bb8	Engine Mode:
+155bd7	一漀爀洀愀氀
+155be7	匀眀椀昀琀
+155bf8	MONITOR ON SEL:
+155c18	Monitoring BUS:
+155c38	Slider Mode
+155c50	PATCH COMPOSITE
+155c70	PATCH INSERT
+155c90	Activate Insert per PRE-Fader Inputs (%i channels virtual ASIO Driver)
+155f27	瑳湡慤摲匠浡汰剥瑡e
+155fcf	潴瀠敲慰敲愠汬愠摵潩搠癥捩獥
+1561db	敄慴汩s
+1561ed	敄慴汩s
+156380	\PresetPitch_%02i.xml
+1563af	倀敲敳乴浡e
+1563bf	匀牴灩楐捴h
+1563cf	瀀瑩档湯搀祲敷t瀀瑩档慶畬e
+1563ef	昀牯慭瑮潬
+1563ff	昀牯慭瑮敭d
+15640f	昀牯慭瑮楨桧
+156420	Save Preset Pitch %02i As...
+156460	Load Preset Pitch %02i
+156490	敒慮敭倠敲敳t
+1564a1	潴敲挠牵敲瑮瘠污敵s
+1564b7	刀獥瑥倠敲敳t
+1564f6	.敄潮獩牥
+15650e	潍敤敬r
+156541	晵敦楲杮卋
+156551	晵敦楲杮十佉
+156568	汃捯偫敲敦牲摥慌整据y
+156584	獵楌業整r
+156592	佉祓据牨湯穩摥
+1565ad	瑡湥祣椥
+1565b7	瀀敲敦牲摥剓
+1565d7	瀀敲敦牲摥敒潳畬楴湯
+1565f0	敄慬敹卤慴瑲S
+157900	灏楴湯敄v
+15790c	浭e摷m獫
+157950	硅整湲污塆敳摮
+157960	敳摮椥档椥
+157970	硅整湲污塆敲畴湲
+157987	爀瑥椥档椥
+157999	灮瑵敄v
+1579a8	畏灴瑵敄v
+1579be	i佰瑵椥
+1579e7	嘀楯散敍瑥牥敒敶扲敍m
+157a07	愀獢汥捥整d
+157a17	嘀楯散敍瑥牥敄慬y
+157a3c	汥祡敍m
+157a5d	浥匀牴灩潃灭
+157a6b	最楡楮n
+157a77	挀浯牰瑡e
+157a87	最楡潮瑵匀牴灩慇整
+157a9f	琀牨獥湩搀浡楰杮戀獰摩捥慨湩栀汯d
+157ac3	氀祡畯t瘀楡o
+157ad3	洀捵欀牡潡敫猀牴灩潭敤
+157b47	最敲湥潭敤
+157b57	搀汢浩瑩氀祡牥椥猀湥剤
+157b88	敳摮硆1潰瑳硆1敳摮硆2潰瑳硆2慰敮瑬灹e
+157bb5	湡汥x瀀湡汥y
+157bc9	偄湡汥x
+157bd9	偄湡汥y
+157c08	潃潬偲湡汥x
+157c18	潃潬偲湡汥y
+157c28	潍偤湡汥x
+157c38	潍偤湡汥y
+157c47	愀摵扩汩瑩役c
+157c57	愀摵扩汩瑩役g
+157c67	搀湥楯敳彲g
+157c77	搀彮祢慰獳
+157c87	搀彮敬牡n
+157c97	愀摵扩汩瑩y
+157ccc	单充敍m
+157cde	敥整卲牴灩充敍m
+157cf1	位瑰潩獮
+157d10	汓摩牥敒慬楴敶
+157d22	啂剓畯整
+157d2f	倀瑡档潃灭獯瑩e挀椥洀摯e
+157d4f	倀瑡档湉敳瑲
+157d60	慌敢卬牴灩椥
+157d71	扡汥楖瑲慵卬牴灩1
+157d89	扡汥楖瑲慵卬牴灩2
+157da1	扡汥楖瑲慵卬牴灩3
+157e3b	爀瑥硆1爀瑥硆2
+157e50	塆敓瑣潩n
+157e60	牦癥牥b摦汥祡
+157e80	敒潣摲潍敤
+157e98	潄瑮汐祡
+157eb0	畍瑬呩慲正
+157ebf	吀浩牥瑓灯
+157ed0	敒潣摲牁m
+157f5c	獵8敒潣摲慌瑳楆敬慎敭
+157f78	敒潣摲楄敲瑣牯y敒潣摲牐晥硩
+157f97	刀捥牯偤牡浡
+157fa8	楆敬祔数
+157fbf	吀牡敧却R
+157fd0	扮桃湡敮l
+157fe7	瀀敲敒呣浩e
+158098	\PresetScene_%02i.xml
+1580c8	牐獥瑥潃浭湥t
+1580d9	敲敳呴浩卥慴灭嘀楯散敍瑥牥慐慲敭整獲
+158100	Save Preset Scene %02i As...
+158140	Load Preset in Scene %02i
+158177	嘀楯散敍瑥牥敄楶散潃普杩牵瑡潩n嘀楯散敍瑥牥敒潣摲牥
+1581b0	畂晦牥潍敤潃灭瑵湩g
+1581c8	湅楧敮潍敤
+1581d8	no file loaded !!!
+158230	桓睯嘠楯散敭瑥牥
+158262	潰楳楴湯)
+158270	楈敤嘠楯散敭瑥牥
+15828d	潄湷嘠楯散敭瑥牥
+1582de	敄楶散)
+15835e	湯匠慴瑲灵:
+15839b	湉瑩慩楬慺楴湯)
+1583b0	祓瑳浥吠慲y
+1583c4	湯圠湩潤獷匠慴瑲灵
+1583e1	湏匠慴瑲灵
+1583f7	汁慷獹嘠獩扩敬
+15841a	湉整晲捡e
+158439	湯嘠楯散敭瑥牥猠慴瑲
+158462	湯嘠楯散敭瑥牥猠慴瑲
+1586a2	湏匠慴瑲灵
+158856	彅潃瑮潲偬湡汥攮數
+158874	啁彘潃瑮潲偬湡汥攮數
+158896	佉弳潃瑮潲偬湡汥攮數
+1588c8	彏潃瑮潲偬湡汥攮數
+158936	湥楧敮猠慴瑲.
+158970	-noname-
+158ae1	偒湡湉1
+158b09	偒湡湉2
+158b31	偒湡湉3
+158b59	偒湡湉4
+158b81	偒湡湉5
+158ba8	剌慐噮湉1
+158bd8	剌慐噮湉2
+158c08	剌慐噮湉3
+158c3e	偒湡湉1
+158c66	偒湡湉2
+158c8e	偒湡湉3
+158cb6	偒湡湉4
+158cde	偒湡湉5
+158def	嘀湉畍整1
+158e17	嘀湉畍整2
+158e3f	嘀湉畍整3
+158edf	嘀湉潓潬1
+158f07	嘀湉潓潬2
+158f2f	嘀湉潓潬3
+1590f0	敄潮獩牥湉1
+159118	敄潮獩牥湉2
+159140	敄潮獩牥湉3
+159168	敄潮獩牥湉4
+159190	敄潮獩牥湉5
+1591b8	湄祂慰獳湉1
+1591e0	湄祂慰獳湉2
+159208	湄祂慰獳湉3
+159230	湄祂慰獳湉4
+159258	湄祂慰獳湉5
+159283	慥湲湉1
+1592ab	慥湲湉2
+1592d3	慥湲湉3
+1592fb	慥湲湉4
+159323	慥湲湉5
+159347	倀瑩档湏湉1
+15936f	倀瑩档湏湉2
+159397	倀瑩档湏湉3
+1593bf	倀瑩档湏湉4
+1593e7	倀瑩档湏湉5
+1594d8	楐捴器污敵湉1
+159500	楐捴器污敵湉2
+159528	楐捴器污敵湉3
+159550	楐捴器污敵湉4
+159578	楐捴器污敵湉5
+1595a3	牯慭瑮湉1
+1595cb	牯慭瑮湉2
+1595f3	牯慭瑮湉3
+15961b	牯慭瑮湉4
+159643	牯慭瑮湉5
+15966c	牯慭瑮湉1
+159694	牯慭瑮湉2
+1596bc	牯慭瑮湉3
+1596e4	牯慭瑮湉4
+15970c	牯慭瑮湉5
+159733	牯慭瑮湉1
+15975b	牯慭瑮湉2
+159783	牯慭瑮湉3
+1597ab	牯慭瑮湉4
+1597d3	牯慭瑮湉5
+159c6f	刀癥敓摮1
+159c8f	刀癥敓摮2
+159caf	刀癥敓摮3
+159ccf	刀癥敓摮4
+159cef	刀癥敓摮5
+159d11	汥祡敓摮1
+159d31	汥祡敓摮2
+159d51	汥祡敓摮3
+159d71	汥祡敓摮4
+159d91	汥祡敓摮5
+15a155	3伀瑵畍整1
+15a177	伀瑵畍整2
+15a197	伀瑵畍整3
+15a1b7	伀瑵畍整4
+15a1d7	伀瑵畍整5
+15a1f8	佖瑵畍整1
+15a218	佖瑵畍整2
+15a238	佖瑵畍整3
+15a287	伀瑵煅湏1
+15a2af	伀瑵煅湏2
+15a2d7	伀瑵煅湏3
+15a2ff	伀瑵煅湏4
+15a327	伀瑵煅湏5
+15a350	佖瑵煅湏1
+15a378	佖瑵煅湏2
+15a3a0	佖瑵煅湏3
+15a4c7	吀灡健慬y
+15a4da	奁吠偁E
+15a4ff	吀灡卥潴p
+15a510	呓偏吠偁E
+15a51f	吀灡剥坅刀坅吠偁E
+15a542	吠偁E慔数敒汐祡
+15a55c	奁吠偁E
+15a568	慔数慇湩
+15a5f7	刀晥敲桳1
+15a619	档湡敧刀晥敲桳2
+15a630	桔敲摡桃牡捡整楲瑳捩s
+15a64a	乁桔敲摡桃牡捡整楲瑳捩s
+15a668	十佉桔敲摡桃牡捡整楲瑳捩s
+15a688	潖捩浥敥整偲瑯瑡彯效灬砮汭
+15a6b0	Click to Select Audio file for Playback
+15a700	Or click on Record Button below
+15a808	Fader Gain
+15a897	刀獥瑥匠牴灩
+15a8b3	婉剅刀獥瑥倠湡倠瑯
+15a8fe	潃灭敲獳牯
+15a926	敄潮獩牥倯瑩档
+15a93e	塆匠湥d
+15a958	潃祰倠湡倠瑯
+15a9b5	敄潮獩牥倯瑩档
+15a9cd	塆匠湥d
+15a9f8	慓敶倠湡倠瑯
+15aa55	敄潮獩牥倯瑩档
+15aa6d	塆匠湥d
+15ada8	Save Strip Settings...
+15add8	Load Strip Settings...
+15ae18	Strip[%i].A1 = %i;
+15ae50	Strip[%i].A2 = %i;
+15ae88	Strip[%i].A3 = %i;
+15aec0	Strip[%i].A4 = %i;
+15aef8	Strip[%i].A5 = %i;
+15af30	Strip[%i].B1 = %i;
+15af68	Strip[%i].B2 = %i;
+15afa0	Strip[%i].B3 = %i;
+15afd8	Strip[%i].Mono = %i;
+15b018	Strip[%i].Solo = %i;
+15b058	Strip[%i].Mute = %i;
+15b098	Strip[%i].Karaoke = %i;
+15b0d8	Strip[%i].MC = %i;
+15b104	彐佐呓塆R
+15b110	Strip[%i].PostReverb = %i;
+15b14c	彐佐呓塆D
+15b158	Strip[%i].PostDelay = %i;
+15b194	彐佐呓塆1
+15b1a0	Strip[%i].PostFx1 = %i;
+15b1d4	彐佐呓塆2
+15b1e0	Strip[%i].PostFx2 = %i;
+15b228	Recorder.rew = 1;
+15b250	Recorder.ff = 1;
+15b290	Recorder.play = 1; / Recorder.replay = 1; (to restart playback)
+15b311	偁彅呓偏
+15b320	Recorder.stop = 1;
+15b360	Recorder.record = 1; / Recorder.pause = 1;
+15b3c0	Recorder.load = "%s";
+15b3f0	Recorder.A1 = %i;
+15b418	Recorder.A2 = %i;
+15b440	Recorder.A3 = %i;
+15b468	Recorder.B1 = %i;
+15b490	Recorder.B2 = %i;
+15b4b8	Recorder.A4 = %i;
+15b4e0	Recorder.A5 = %i;
+15b508	Recorder.B3 = %i;
+15b540	Bus[%i].Sel = %i;
+15b578	Bus[%i].Mute = %i;
+15b5a5	塉佄乗A
+15b5b0	Bus[%i].mode.Amix = %i;
+15b5e5	塉佄乗B
+15b5f0	Bus[%i].mode.Bmix = %i;
+15b630	Bus[%i].mode.Repeat = %i;
+15b668	啂当佃偍协呉E
+15b678	Bus[%i].mode.Composite = %i;
+15b6c8	Bus[%i].mode.TVMix = %i;
+15b710	Bus[%i].mode.UpMix21 = %i;
+15b758	Bus[%i].mode.UpMix41 = %i;
+15b7a0	Bus[%i].mode.UpMix61 = %i;
+15b7e8	Bus[%i].mode.LeftOnly = %i;
+15b830	Bus[%i].mode.RightOnly = %i;
+15b876	呎剅乏奌
+15b880	Bus[%i].mode.CenterOnly = %i;
+15b8d0	Bus[%i].mode.LFEOnly = %i;
+15b918	Bus[%i].mode.RearOnly = %i;
+15b960	Bus[%i].mode.normal = %i;
+15b998	啂当位低
+15b9a8	Bus[%i].Mono = %i;
+15b9d8	Bus[%i].EQ = %i;
+15ba00	Strip[%i].VAIO = %i;
+15ba30	Bus[%i].VAIO = %i;
+15ba68	Strip[%i].Gain = %0.2f;
+15baa8	Bus[%i].Gain = %0.2f;
+15bae8	Strip[%i].EQ.on = %i;
+15bb28	Strip[%i].Comp = %0.2f;
+15bb68	Strip[%i].Gate = %0.2f;
+15bba8	Strip[%i].Denoiser = %0.2f;
+15bbf0	Strip[%i].EQGain1 = %0.2f;
+15bc38	Strip[%i].EQGain2 = %0.2f;
+15bc80	Strip[%i].EQGain3 = %0.2f;
+15bcbc	彐剔則偁H
+15bce0	Strip[%i].Color_x = %0.2f; Strip[%i].Color_y = %0.2f;
+15bd60	Strip[%i].Fx_x = %0.2f; Strip[%i].Fx_y = %0.2f;
+15bdd0	Strip[%i].Pan_x = %0.2f; Strip[%i].Pan_y = %0.2f;
+15be37	匀剔偉偟乁佐T
+15be58	Strip[%i].Mode = %i;
+15bea0	Patch.insert[%i] = %i; Patch.insert[%i] = %i;
+15bf10	Strip[%i].Limit = %0.2f;
+15bf47	匀剔偉卟久剄
+15bf58	Strip[%i].Reverb = %0.2f;
+15bfa0	Strip[%i].Delay = %0.2f;
+15bfe8	Strip[%i].Fx1 = %0.2f;
+15c028	Strip[%i].Fx2 = %0.2f;
+15c059	单剟呅R
+15c068	Bus[%i].ReturnReverb = %0.2f;
+15c0a9	单剟呅D
+15c0b8	Bus[%i].ReturnDelay = %0.2f;
+15c0f9	呕剟噅剅B
+15c108	Fx.Reverb.On = %i;
+15c140	Fx.Delay.On = %i;
+15c169	单剟呅塆1
+15c178	Bus[%i].ReturnFx1 = %0.2f;
+15c1b1	单剟呅塆2
+15c1c0	Bus[%i].ReturnFx2 = %0.2f;
+15c20f	愀猀椀漀
+15c220	Strip[%i].Device.%s = "%s";
+15c258	Bus[%i].Device.%s = "%s";
+15c388	Bus[%i].Limit = %0.2f;
+15c3b8	Strip[%i].Comp.GainIn = %0.2f;
+15c3f8	Strip[%i].Comp.Ratio = %0.2f;
+15c440	Strip[%i].Comp.Threshold = %0.2f;
+15c488	Strip[%i].Comp.Attack = %0.2f;
+15c4d0	Strip[%i].Comp.Release = %0.2f;
+15c510	Strip[%i].Comp.Knee = %0.2f;
+15c550	Strip[%i].Comp.GainOut = %0.2f;
+15c590	Strip[%i].Comp.MakeUp = %i;
+15c5d0	Strip[%i].Gate.Threshold = %0.2f;
+15c620	Strip[%i].Gate.Damping = %0.2f;
+15c660	Strip[%i].Gate.BPSidechain = %0.2f;
+15c6a8	Strip[%i].Gate.Attack = %0.2f;
+15c6e8	Strip[%i].Gate.Hold = %0.2f;
+15c730	Strip[%i].Gate.Release = %0.2f;
+15c770	Strip[%i].Denoiser.Threshold = %0.2f;
+15c7c0	Strip[%i].Denoiser.Bypass = %0.2f;
+15c810	Strip[%i].Denoiser.Learn = %0.2f;
+15c858	Strip[%i].Pitch.On = %i;
+15c890	Strip[%i].Pitch.DryWet = %0.2f;
+15c8d0	Strip[%i].Pitch.PitchValue = %0.2f;
+15c920	Strip[%i].Pitch.LoFormant = %0.2f;
+15c970	Strip[%i].Pitch.MedFormant = %0.2f;
+15c9c0	Strip[%i].Pitch.HiFormant = %0.2f;
+15ca10	Strip[%i].Pitch.RecallPreset = %i;
+15ca58	API: 
+15ca68	Internal Master CLOCK
+15ca98	ASIO Device not found
+15cad8	A1 ASIO 
+15cb38	A1 ASIO input
+15cb58	Select Input Device
+15cb80	%s (%i + %i)
+15cba0	%s (Left: %i)
+15cbc0	%s (Right: %i)
+15cbe0	Voicemeeter In 6
+15cc08	Voicemeeter VAIO
+15cc30	Voicemeeter In 7
+15cc58	Voicemeeter AUX
+15cc78	Voicemeeter In 8
+15cca0	Voicemeeter VAIO3
+15ccc8	%i Hz / %i
+15cce0	%0.1f kHz - %i
+15cd00	%i Hz - %i
+15cd20	no driver present
+15cd48	Stereo Input
+15cd68	Stereo Input %i
+15cda0	Audio (wav, mp3, bwf, aif, m4a)
+15cde0	*.wav;*.mp3;*.bwf;*.aif;*.m4a
+15ce1c	Video (avi, mp4, mov, wma, wmv)
+15ce5c	*.avi;*.mp4;*.mov;*.wma;*.wmv
+15ce98	All (*.*)
+15ceb8	Select Audio File
+15cf51	慃汬慢正
+15d180	Save Current Settings...
+15d1b8	Load Settings...
+15d1e0	Load Settings and set as startup settings...
+15d26a	桴獩映汩e
+15d3f9	瑵潴獮攮數
+15d40a	瑓敲浡牥楖睥攮數
+15d46b	湉瑩慩楬慺楴湯
+15d4f5	?嘀楯散敭瑥牥匠散敮
+15d510	LBUTTONDOWN
+15d528	RBUTTONDOWN
+15d540	MOUSEMOVE
+15d558	LBUTTONUP
+15d570	RBUTTONUP
+15d5c2	愠瑦牥搠汥祡摥瀠潲散獳
+15d5e7	唀牮来獩整敲d
+15d604	灰楬慣楴湯猠慴瑲)
+15d6a2	啓偓久D
+15d847	嘀楯散敍瑥牥
+15d894	摵潩噜楯散敍瑥牥
+15d9af	漾茒爺翹?
+15de0d	葺?耀H
+15df7b	襇聁?稀C
+160636	F瀈怇倆
+16072e	瀈怇倆!
+1612fa	瀈怇倆!
+1629ee	0頦1蠑2砈3鑢
+162a1e	m琈n鑒
+16319a	*瀈怇倆
+16368a	B瀈怇倆
+163c8a	瀍怌個!
+166952	w搈v萐
+16830e	瀄怃倂!
+1689e4	爌瀈怇倆!
+1697da	0瀈怇倆
+169f82	瀎怍倌!
+16c6fa	瀈怇倆!
+16fdc2	慷敶湉瑓灯
+16fde8	慷敶畏側敲慰敲效摡牥
+16fe50	慷敶畏啴灮敲慰敲效摡牥
+16fe6a	慷敶湉敇乴浵敄獶
+16fe9e	慷敶湉灏湥
+16fec2	慷敶畏剴獥瑥
+16fed2	慷敶畏剴獥慴瑲
+16fee4	慷敶畏側畡敳
+16ff08	慷敶畏坴楲整
+16ff5c	慥敤r8業楤湉敇乴浵敄獶
+16ff76	Q業楤畏啴灮敲慰敲效摡牥
+16ff90	M業楤畏側敲慰敲效摡牥
+16ffc0	N業楤畏剴獥瑥
+170000	:業楤湉灏湥
+1700f2	獥牴祯敄楶散湉潦楌瑳
+17022e	敖兲敵祲慖畬坥
+17027a	湉整湲瑥敒摡楆敬
+1702ec	摮晏楆敬
+17030c	灏湥楆敬
+170344	汇扯污潌正
+170360	汇扯污湕潬正
+170370	汇扯污牆敥
+1703ca	汩健楯瑮牥
+1703d8	牃慥整楄敲瑣牯坹
+1703f8	敒摡楆敬
+17048e	捯污楔敭
+170548	楲楴慣卬捥楴湯
+170560	楲楴慣卬捥楴湯
+1705c0	牵敲瑮桔敲摡
+1705e4	牃慥整桔敲摡
+170656	敇側潲散獳晁楦楮祴慍歳
+170680	牆敥敒潳牵散
+170690	潌摡敒潳牵散
+1706a0	楓敺景敒潳牵散
+1706b2	潌正敒潳牵散
+170724	楆敬楔敭潔祓瑳浥楔敭
+17075c	獉慂剤慥偤牴
+1707aa	汵楴汰佥橢捥獴
+170832	摯健潲散獳
+1708d6	敓坴湩潤呷硥坴
+17091c	敓坴湩潤偷獯
+17095c	敂楧偮楡瑮
+1709a6	敓呴浩牥
+1709c2	湅偤楡瑮
+1709da	牂湩坧湩潤呷呯灯
+170a1a	潣nS潃祰捉湯
+170a4a	牄睡捉湯硅
+170a72	敇坴湩潤剷捥tG汃敩瑮潔捓敲湥
+170ab4	灕慤整楗摮睯
+170ad6	桓睯楗摮睯
+170af6	捓潲汬楗摮睯
+170b06	敓却牣汯偬獯
+170b3c	湉慶楬慤整敒瑣
+170b4e	敓却牣汯剬湡敧
+170bd2	湅扡敬敍畮瑉浥
+170c04	牔捡偫灯灵敍畮
+170c74	敇坴湩潤偷慬散敭瑮
+170c9a	瑐湉敒瑣
+170ca4	f牃慥整捉湯牆浯敒潳牵散硅
+170d2c	敓坴湩潤剷湧
+170d3c	湉敶瑲敒瑣
+170d4e	楬扰慯摲慄慴
+170db2	楬扰慯摲
+170dec	楬扰慯摲
+170dfc	祳据敋卹慴整
+170e18	潌摡浉条坥
+170e26	捓敲湥潔汃敩瑮
+170e38	敇坴湩潤呷牨慥偤潲散獳摉
+170e7a	敓坴湩潤偷慬散敭瑮
+170ede	牵潳偲獯
+170f98	敇却潴正扏敪瑣
+170faa	敄敬整扏敪瑣
+171000	敓敬瑣扏敪瑣
+171036	潍敶潔硅
+171050	敇側硩汥
+17106a	摯e/牃慥整潃灭瑡扩敬楂浴灡
+1710f6	敓噴敩灷牯佴杲硅
+17110a	敓坴湩潤佷杲硅
+17118e	摮物捥t"潃扭湩剥湧
+171200	潐祬敂楺牥
+17120e	敓側硩汥
+171222	卂捥楴湯
+171240	汩乥浡坥
+17124d	瑥慓敶楆敬慎敭W
+1713f4	潃牃慥整湉瑳湡散
+171406	p潃湕湩瑩慩楬敺
+171418	B潃湉瑩慩楬敺
+171446	汇扯污牆浯瑓敲浡
+171482	汤l)捡卭牴慥啭灮敲慰敲效摡牥
+1714c4	&捡卭牴慥偭敲慰敲效摡牥
+171510	效灡牆敥
+17155a	敔浲湩瑡健潲散獳
+171578	捸灥楴湯楆瑬牥
+1715bc	瑒噬物畴污湕楷摮
+171666	敇却摴慈摮敬
+17168a	捸灥楴湯
+17169e	普牯慭楴湯
+1716ac	敇噴牥楳湯
+1716ba	效灡牃慥整
+1716f4	汩乥浡坥
+17176e	牵敲瑮桔敲摡摉
+1717aa	癮物湯敭瑮瑓楲杮坳
+1717de	湯潳敬偃
+1717ee	湯潳敬潍敤
+1717fc	敓却摴慈摮敬
+17180c	潌摡楌牢牡坹
+17181e	慍印牴湩坧
+17182c	敇却牴湩呧灹坥
+17184e	敇側潲散獳效灡
+171860	效灡楓敺

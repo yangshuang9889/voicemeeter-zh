@@ -1,0 +1,497 @@
+0x0002c7	 data
+0x14b4c0	dddd, MMMM dd, yyyy
+0x14bfd0	File Already Closed
+0x14bfe8	File Already Openned
+0x14c098	Unknown WAVE Audio Format
+0x14c0b8	Unknonw WAVE PCM Format
+0x14c0d0	Cannot Create WAV file
+0x14c0e8	Cannot Write WAVE RIFF Chunck
+0x14c108	Cannot Write WAVE DATA Chunck
+0x14c128	Error Creating WAV file
+0x14c140	Unknown AIFF Audio Format
+0x14c160	Unknonw AIFF PCM Format
+0x14c178	Cannot Create AIF file
+0x14c190	Cannot Write AIF FORM Chunck
+0x14c1b0	Cannot Write AIF DATA Chunck
+0x14c1d0	Error Creating AIF file
+0x14c1e8	Unknown Audio Format
+0x14c200	Unknonw PCM Format
+0x14c218	Cannot Create MP3 file
+0x14c230	Error Creating MP3 file
+0x14c270	No ASIO Driver
+0x14c280	No ASIO Driver Error
+0x14c2a0	****** Not Enough Memory in TXT Buffer (%i char / %i max)*******
+0x14c2e8	Courier New
+0x14c370	\Program Files\
+0x14e4a8	ASIO DirectX Full Duplex Driver
+0x14e630	VB-Audio Activation Log T20
+0x14e650	VB-Audio Activation Log T19
+0x14e7e8	File Exists
+0x14e830	Export Error
+0x14e890	Export Done
+0x14e8a0	Footprint has been saved successfully!
+0x14e8c8	Footprint not saved.
+0x14e928	Import Error
+0x14e990	Cannot Load File
+0x14ea30	FootPrint is not for this application
+0x14ea58	FootPrint is not for this user - wrong registered e-mail
+0x14ec00	VB-AUDIO Software - 
+0x14ec18	License Activation Start
+0x14ec50	Internet Connection Start
+0x14ec78	Sending Authentication Request...
+0x14eca0	Processing reply...
+0x14ecf0	Server Bad Reply
+0x14ed08	Check your e-mail and response code or
+0x14ed58	Windows Internet Error: %i
+0x14edc8	Online service not available
+0x14ede8	VB-Audio License Authentication Service
+0x14ee18	License Activation
+0x14ee48	My webshop account
+0x14ee60	Activation Unexpected Error
+0x14ee80	Authentication Error
+0x14eed0	Certificate not found
+0x14ef40	Certificate bad format
+0x14efb8	Registry failure
+0x14f8c8	[VB2CTL] Module not initialized !
+0x14f8f0	[VB2CTL] No error
+0x14fbf8	Edit [CTRL+CLK]
+0x14fd2c	- inf
+0x150610	Failure on ASIOMAN_ORDER_PREPAREDDEVICE callback
+0x150b00	%i Hz, %i bits, %i Ch
+0x150b20	Playback VAI
+0x150b30	Playback Device
+0x150b50	Recording VAO
+0x150b60	Recording Device
+0x150b80	WARNING: Windows Communication Option is not set to 'Do Nothing'!
+0x150bd0	Out A%i
+0x150e08	KSWA Device VB-Object
+0x1515c0	Windows Wave Mapper
+0x151708	#%i Note On %s
+0x151718	#%i Note Off %s
+0x151728	#%i Ctrl Ch. %i
+0x151738	#%i Prg Ch. %i
+0x151748	#%i P.Bend %i
+0x151928	Remove Selection
+0x151940	Open Control Panel
+0x151958	Open Windows Sound
+0x151970	Exit / Cancel
+0x151990	KS (Kernel Streaming)
+0x1519a8	MME (Multimedia)
+0x1519c0	ASIO (Steinberg)
+0x151a38	10 Bbits
+0x151a48	12 Bbits
+0x151a58	10 bits
+0x151a60	12 bits
+0x151a68	64 bits float
+0x151a78	32 bits float
+0x151a88	32 bits
+0x151a90	24 bits
+0x151a98	16 bits
+0x151aa0	8 bits
+0x151b10	VBAN Service
+0x151b90	Base Time, %s
+0x151ce0	Waiting For Identification
+0x151d40	From: %i.%i.%i.%i
+0x151d68	Display message timestamp
+0x151d88	Show VBAN-CHAT on message
+0x151da8	Font Size: small
+0x151dc0	Font Size: medium
+0x151dd8	Font Size: large
+0x151df0	Font Size: biggest
+0x151e08	Send a 'Nudge'
+0x151e18	Send an 'Alert'
+0x151f28	Record on Voicemeeter Banana (Version : 
+0x152050	No enough memory for stack buffer.
+0x152078	No enough memory for temporary buffer.
+0x1520d8	Error: file size too big
+0x1520f8	Error: write failure
+0x152110	Error: disk full
+0x1521c8	Store Preset
+0x1521d8	Overwrite Preset
+0x1521f0	Edit Name
+0x152200	Edit Comment
+0x152210	Copy Preset
+0x152220	Paste Preset
+0x152230	Load Preset...
+0x152240	Save Preset As...
+0x152258	Delete Preset
+0x152268	EQ is OFF
+0x1522c0	Copy All
+0x152310	Gain / Delay
+0x152b90	Load EQ Settings
+0x152ba8	Save EQ Settings
+0x152bc0	Scale: -18 to +18 dB
+0x152bd8	Scale: -36 to +18 dB
+0x152bf0	Scale: -54 to +24 dB
+0x152c08	Scale: -72 to +30 dB
+0x152c20	Arial Black
+0x152c2c	no tap
+0x152c60	%i Band Comp
+0x152e30	Input #5
+0x152e40	Input #4
+0x152e50	Input #3
+0x152e60	Input #2
+0x152e70	Input #1
+0x152e90	Target Directory:
+0x152ea8	Prefix Name:
+0x152eb8	Pre Recording Time (%is max):
+0x152ee0	File Type:
+0x152ef0	Sample Rate:
+0x152f08	Bit Resolution:
+0x152f18	%i Bits
+0x152f30	Bit Rate:
+0x152f40	%i kbps
+0x152f48	MULTITRACK OPTION > Generates %i Mono %s files:
+0x152f80	Play On Load:
+0x152fb0	Stop Record:
+0x152fc0	After Duration:
+0x152ff8	%i seconds
+0x1534d8	delay 10 meters
+0x1534e8	delay 20 meters
+0x1534f8	delay 50 meters
+0x153508	delay 75 meters
+0x153518	delay 100 meters
+0x15352c	+3 db
+0x153534	0 db
+0x15353c	-6 db
+0x153544	-24 db
+0x15354c	-3 db
+0x153cd8	IN#8 Center
+0x153ce8	IN#8 Right
+0x153cf8	IN#8 Left
+0x153d38	IN#7 Center
+0x153d48	IN#7 Right
+0x153d58	IN#7 Left
+0x153d98	IN#6 Center
+0x153da8	IN#6 Right
+0x153db8	IN#6 Left
+0x153dc8	IN#5 Right
+0x153dd8	IN#5 Left
+0x153de8	IN#4 Right
+0x153df8	IN#4 Left
+0x153e08	IN#3 Right
+0x153e18	IN#3 Left
+0x153e28	IN#2 Right
+0x153e38	IN#2 Left
+0x153e48	IN#1 Right
+0x153e58	IN#1 Left
+0x153e68	Virtual In #3
+0x153e78	Virtual In #2
+0x153e88	Virtual In #1
+0x153f98	Voicemeeter (VB-Audio)
+0x1540d8	 (64 bits)
+0x1540e8	Extra VAIO Feature License
+0x154108	Voicemeeter Potato
+0x154158	Feedback Value ON:
+0x154170	Feedback Value OFF:
+0x154188	Feedback Message ON (HEXA):
+0x1541a8	Feedback Message OFF (HEXA):
+0x1541c8	MIDI Feedback Options...
+0x1541e8	(coder s)
+0x154208	Next Page >>
+0x154218	<< Prev. Page
+0x154230	M.I.D.I. Map
+0x154258	M.I.D.I. Input Device:
+0x154270	Not Selected
+0x154280	M.I.D.I. Map Name:
+0x154298	M.I.D.I. Output Device (feedback):
+0x1542c0	M.I.D.I. Extra Input Device:
+0x1542e0	VBAN M.I.D.I. input
+0x1542f8	Page %i / %i
+0x154308	- No Midi -
+0x154448	Reset Map
+0x1544a8	Control Type: Linear (regular)
+0x1544c8	Control Type: Coder offset
+0x1544e8	Control Type: Coder sign bit (Mackie)
+0x154510	M.I.D.I. Mapping
+0x1548d0	%i bps 
+0x154910	Very Slow
+0x154920	Any address
+0x154958	%i mbps
+0x154968	is OFF
+0x154970	is ON
+0x154aa4	 from 
+0x154ab0	 (%i Hz, %i channels)
+0x154ac8	IP-Address used: %i.%i.%i.%i
+0x154ae8	IP-Address used: not found.
+0x154c90	Windows PC
+0x154ca0	VB-Audio Software
+0x154e20	Reset VBAN
+0x154fa0	ipv4: %i.%i.%i.%i
+0x154fb8	Hostname: %s
+0x154fc8	Device: %s
+0x154fd8	Application: %s
+0x154fe8	Language / Country: %s
+0x155068	ipv4: not found
+0x155258	Virtual VAIO3:
+0x1552e8	BUS ch%i
+0x155300	Select PRE-Fader Inputs used by Composite Mode (for 8 Channels of the BUS)
+0x155350	Select POST-Fader Inputs used by Composite Mode (for 8 Channels of the BUS)
+0x155630	IN%i Physical Input #%i
+0x155698	 Main Device
+0x157518	patch%i='%i' 
+0x157558	pOut%i='%i' 
+0x1588ac	 -io%i
+0x158948	VB:Voicemeeter {17359A74-1236-5467}
+0x15a478	Limit Bus B1
+0x15a498	Limit Bus B2
+0x15a4b8	Limit Bus B3
+0x15d5b0	StartAudioEngine() after delayed process
+0x15d5f8	WM_CREATE (Application start)
+0x17b580	2048 samples
+0x17b608	1536 samples
+0x17b690	1024 samples
+0x17b718	896 samples
+0x17b7a0	768 samples
+0x17b828	704 samples
+0x17b8b0	640 samples
+0x17b938	576 samples
+0x17b9c0	512 samples
+0x17ba48	480 samples (10ms @48000Hz)
+0x17bad0	441 samples (10ms @44100Hz)
+0x17bb80	2048 samples
+0x17bc08	1536 samples
+0x17bc90	1024 samples
+0x17bd18	768 samples
+0x17bda0	704 samples
+0x17be28	640 samples
+0x17beb0	576 samples
+0x17bf38	512 samples
+0x17bfc0	480 samples (10ms @48000Hz)
+0x17c048	448 samples
+0x17c0d0	441 samples (10ms @44100Hz)
+0x17c158	416 samples
+0x17c1e0	384 samples
+0x17c268	352 samples
+0x17c2f0	320 samples
+0x17c378	288 samples
+0x17c400	256 samples
+0x17c488	224 samples
+0x17c510	192 samples
+0x17c598	160 samples
+0x17c620	128 samples
+0x17c6b0	2048 samples
+0x17c738	1536 samples
+0x17c7c0	1024 samples
+0x17c848	768 samples
+0x17c8d0	704 samples
+0x17c958	640 samples
+0x17c9e0	576 samples
+0x17ca68	512 samples
+0x17caf0	480 samples (10ms @48000Hz)
+0x17cb78	448 samples
+0x17cc00	441 samples (10ms @44100Hz)
+0x17cc88	416 samples
+0x17cd10	384 samples
+0x17cd98	352 samples
+0x17ce20	320 samples
+0x17cea8	288 samples
+0x17cf30	256 samples
+0x17cfb8	224 samples
+0x17d040	192 samples
+0x17d0c8	160 samples
+0x17d150	128 samples
+0x17d1f0	1024 samples
+0x17d278	768 samples
+0x17d300	704 samples
+0x17d388	640 samples
+0x17d410	576 samples
+0x17d498	512 samples
+0x17d520	480 samples (10ms @48000Hz)
+0x17d5a8	448 samples
+0x17d630	441 samples (10ms @44100Hz)
+0x17d6b8	416 samples
+0x17d740	384 samples
+0x17d7c8	352 samples
+0x17d850	320 samples
+0x17d8d8	288 samples
+0x17d960	256 samples
+0x17d9e8	224 samples
+0x17da70	192 samples
+0x17daf8	160 samples
+0x17db80	128 samples
+0x17dc08	96 samples
+0x17dc90	64 samples
+0x17dd30	1024 samples
+0x17ddb8	768 samples
+0x17de40	704 samples
+0x17dec8	640 samples
+0x17df50	576 samples
+0x17dfd8	512 samples
+0x17e060	480 samples (10ms @48000Hz)
+0x17e0e8	448 samples
+0x17e170	441 samples (10ms @44100Hz)
+0x17e1f8	416 samples
+0x17e280	384 samples
+0x17e308	352 samples
+0x17e390	320 samples
+0x17e418	288 samples
+0x17e4a0	256 samples
+0x17e528	224 samples
+0x17e5b0	192 samples
+0x17e638	160 samples
+0x17e6c0	128 samples
+0x17e748	96 samples
+0x17e7d0	64 samples
+0x17e8e0	Use Default ASIO Samplerate
+0x17e968	Use Preferred Samplerate
+0x17eec0	IN#1 Left
+0x17ef48	IN#1 Right
+0x17efd0	IN#2 Left
+0x17f058	IN#2 Right
+0x17f0e0	IN#3 Left
+0x17f168	IN#3 Right
+0x17f1f0	IN#4 Left
+0x17f278	IN#4 Right
+0x17f300	IN#5 Left
+0x17f388	IN#5 Right
+0x17f410	IN#6 Left
+0x17f498	IN#6 Right
+0x17f520	IN#6 Center
+0x17f850	IN#7 Left
+0x17f8d8	IN#7 Right
+0x17f960	IN#7 Center
+0x17fc90	IN#8 Left
+0x17fd18	IN#8 Right
+0x17fda0	IN#8 Center
+0x1800d0	BUS channel
+0x1805b0	Normal Mode
+0x180638	MONO Mode
+0x1806c0	Repeat Mono
+0x180748	Repeat Stereo
+0x1807d0	Mix-Down A
+0x180858	Mix-Down B
+0x180b00	LEFT Only
+0x180b88	RIGHT Only
+0x180c10	CENTER Only
+0x180c98	LFE Only
+0x180d20	REAR LEFT Only
+0x180da8	REAR RIGHT Only
+0x180e30	1024 samples
+0x180eb8	2048 samples
+0x180f40	3072 samples
+0x180fc8	4096 samples
+0x181050	5120 samples
+0x1810d8	6144 samples
+0x181160	7168 samples (recommended)
+0x181200	384 samples (3x 128)
+0x181288	768 samples (3x 256)
+0x181310	1024 samples
+0x181398	1536 samples (3x 512)
+0x181420	2048 samples
+0x1814a8	3072 samples (3x 1024)
+0x181530	4096 samples
+0x1815b8	5120 samples
+0x181640	6144 samples (3x 2048)
+0x1816c8	7168 samples (Default)
+0x181750	8192 samples
+0x1817d8	10240 samples
+0x181860	12288 samples (3x 4096)
+0x1818e8	14336 samples
+0x181970	16384 samples
+0x181a10	All MIDI In
+0x181c30	MIDI Out
+0x181cd0	Manage Mouse command.
+0x181d70	App View
+0x181df8	Display 1
+0x181e80	Display 2
+0x181f08	Display 3
+0x181f90	Display 4
+0x182620	no mbps
+0x1826a8	1 mbps
+0x182730	2 mbps
+0x1827b8	3 mbps
+0x182840	4 mbps
+0x1828c8	5 mbps
+0x182950	6 mbps
+0x1829d8	8 mbps
+0x182a60	10 mbps
+0x182ae8	12 mbps
+0x182b70	16 mbps
+0x182bf8	24 mbps
+0x182c80	36 mbps
+0x182d08	48 mbps
+0x182d90	60 mbps
+0x182e18	84 mbps
+0x182ea0	108 mbps
+0x182f28	156 mbps
+0x182fb0	204 mbps
+0x183038	252 mbps
+0x1830c0	300 mbps
+0x183148	400 mbps
+0x1831d0	500 mbps
+0x183258	600 mbps
+0x1832e0	800 mbps
+0x183388	Input Gain
+0x183544	Attack Time
+0x1835d8	Release Time
+0x183700	Output Gain
+0x183794	Auto MakeUp
+0x1838bc	Damping Max
+0x183950	BP Sidechain
+0x1839e4	Attack Time
+0x183a78	Hold Time
+0x183b0c	Release Time
+0x183bb8	Noise remover
+0x183d74	Enable FX
+0x183e08	Dry / Wet Balance
+0x183f30	Formant Lo
+0x183fc4	Formant Med
+0x184058	Formant Hi
+0x1840ec	Formant Group
+0x184e58	VB-Audio JustVerb3 WND-CLASS
+0x184fc8	VB-Audio C5Limiter WND-CLASS
+0x185c10	VB-Audio MultiTap WND-CLASS
+0x187080	Default SR
+0x1875d0	16 bits
+0x187658	24 bits
+0x1876e0	2 channels (Stereo)
+0x187768	4 channels (Quadri)
+0x1877f0	6 channels (5.1)
+0x187878	8 channels (7.1)
+0x187900	32 kbps
+0x187988	40 kbps
+0x187a10	48 kbps
+0x187a98	56 kbps
+0x187b20	64 kbps
+0x187ba8	80 kbps
+0x187c30	96 kbps
+0x187cb8	112 kbps
+0x187d40	128 kbps
+0x187dc8	160 kbps
+0x187e50	192 kbps
+0x187ed8	224 kbps
+0x187f60	256 kbps
+0x187fe8	320 kbps
+0x1a0ccc	Alt Gr
+0x1a183c	Alt Gr
+0x1a23ac	Alt Gr
+0x1a3890	Small Plate 
+0x1a3ad8	Medium Plate 
+0x1a3d20	Long Plate 
+0x1a3f68	Ambiant Room
+0x1a41b0	Medium Room 
+0x1a43f8	Large Room 
+0x1a4640	Hall 
+0x1a4888	Big Hall 
+0x1a4ad0	Cavern 
+0x1a4d18	Vocal short
+0x1a4f60	Vocal med
+0x1a51a8	Vocal Long
+0x1a53f0	Small Church
+0x1a5638	Med Church
+0x1a5880	Big Church
+0x1a5ac8	Stadium 1
+0x1a5d10	Stadium 2
+0x1a5f58	Stadium 3
+0x1a61a0	Club short
+0x1a63e8	Club med
+0x1a6630	Club long
+0x1a6878	Soft Reverse
+0x1a6ac0	Soft Hall
+0x1a6d08	Soft Church
+0x1a6f50	Small Pipe
+0x1a7198	Medium Pipe
+0x1a73e0	Big Pipe
+0x1a7ab8	Galaga Reverb
+0x1a7d48	Vocal med

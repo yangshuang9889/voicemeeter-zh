@@ -1,0 +1,15067 @@
+[
+{
+"off": 1370125,
+"s": "Do you Want To Replace it ?",
+"t": 35
+},
+{
+"off": 1370160,
+"s": "Export Error",
+"t": 16
+},
+{
+"off": 1370221,
+"s": "Network adapter is required.",
+"t": 35
+},
+{
+"off": 1370256,
+"s": "Export Done",
+"t": 16
+},
+{
+"off": 1370272,
+"s": "Footprint has been saved successfully!",
+"t": 40
+},
+{
+"off": 1370312,
+"s": "Footprint not saved.",
+"t": 24
+},
+{
+"off": 1370408,
+"s": "Import Error",
+"t": 24
+},
+{
+"off": 1370453,
+"s": "Footprint not compatible with current 'H' code system...",
+"t": 59
+},
+{
+"off": 1370512,
+"s": "Cannot Load File",
+"t": 32
+},
+{
+"off": 1370627,
+"s": "You must get another Response Code...",
+"t": 45
+},
+{
+"off": 1370672,
+"s": "FootPrint is not for this application",
+"t": 40
+},
+{
+"off": 1370712,
+"s": "FootPrint is not for this user - wrong registered e-mail",
+"t": 72
+},
+{
+"off": 1370826,
+"s": "You must get another Response Code...",
+"t": 38
+},
+{
+"off": 1371112,
+"s": "H%02X%02X%02X%02X",
+"t": 20
+},
+{
+"off": 1371136,
+"s": "VB-AUDIO Software - ",
+"t": 24
+},
+{
+"off": 1371160,
+"s": "License Activation Start",
+"t": 32
+},
+{
+"off": 1371192,
+"s": "VB-AUDIO PID:%i",
+"t": 16
+},
+{
+"off": 1371216,
+"s": "Internet Connection Start",
+"t": 28
+},
+{
+"off": 1371244,
+"s": "?cmd=",
+"t": 12
+},
+{
+"off": 1371256,
+"s": "Sending Authentication Request...",
+"t": 36
+},
+{
+"off": 1371292,
+"s": "GET",
+"t": 4
+},
+{
+"off": 1371296,
+"s": "Processing reply...",
+"t": 24
+},
+{
+"off": 1371320,
+"s": "Failed to Store certificate in registry...",
+"t": 44
+},
+{
+"off": 1371364,
+"s": "ERROR",
+"t": 12
+},
+{
+"off": 1371376,
+"s": "Server Bad Reply",
+"t": 20
+},
+{
+"off": 1371400,
+"s": "Check your e-mail and response code or",
+"t": 40
+},
+{
+"off": 1371441,
+"s": "Try to enter certificate manually...",
+"t": 39
+},
+{
+"off": 1371480,
+"s": "Windows Internet Error: %i",
+"t": 32
+},
+{
+"off": 1371513,
+"s": "The server cannot be reached.",
+"t": 31
+},
+{
+"off": 1371545,
+"s": "Enable TLS 1.1 / TLS 1.2 internet options",
+"t": 47
+},
+{
+"off": 1371592,
+"s": "Online service not available",
+"t": 32
+},
+{
+"off": 1371624,
+"s": "VB-Audio License Authentication Service",
+"t": 40
+},
+{
+"off": 1371664,
+"s": "open",
+"t": 8
+},
+{
+"off": 1371672,
+"s": "License Activation",
+"t": 20
+},
+{
+"off": 1371692,
+"s": "edit",
+"t": 12
+},
+{
+"off": 1371704,
+"s": "Activate",
+"t": 16
+},
+{
+"off": 1371720,
+"s": "My webshop account",
+"t": 24
+},
+{
+"off": 1371744,
+"s": "Activation Unexpected Error",
+"t": 32
+},
+{
+"off": 1371776,
+"s": "Authentication Error",
+"t": 24
+},
+{
+"off": 1371821,
+"s": "Authentication cannot be performed",
+"t": 35
+},
+{
+"off": 1371856,
+"s": "Certificate not found",
+"t": 32
+},
+{
+"off": 1371929,
+"s": "before clicking on Activate button...",
+"t": 39
+},
+{
+"off": 1371968,
+"s": "Certificate bad format",
+"t": 32
+},
+{
+"off": 1372039,
+"s": "Certificate string format is \">certificate<\"...",
+"t": 49
+},
+{
+"off": 1372088,
+"s": "Registry failure",
+"t": 24
+},
+{
+"off": 1372150,
+"s": "Check your user access rights...",
+"t": 34
+},
+{
+"off": 1372184,
+"s": "To activate your license manually,",
+"t": 40
+},
+{
+"off": 1372224,
+"s": "go in your webshop account \"My License\" page...",
+"t": 48
+},
+{
+"off": 1372272,
+"s": "And get your Certificate as a string to paste it below",
+"t": 56
+},
+{
+"off": 1372328,
+"s": "XXXXXXXXXX",
+"t": 16
+},
+{
+"off": 1372344,
+"s": "wait %i seconds",
+"t": 16
+},
+{
+"off": 1372360,
+"s": "will register later",
+"t": 20
+},
+{
+"off": 1372380,
+"s": "Ok",
+"t": 4
+},
+{
+"off": 1372384,
+"s": "Still Evaluating",
+"t": 24
+},
+{
+"off": 1372408,
+"s": "Registered e-mail:",
+"t": 24
+},
+{
+"off": 1372432,
+"s": "Challenge code:",
+"t": 16
+},
+{
+"off": 1372448,
+"s": "Response code:",
+"t": 16
+},
+{
+"off": 1372464,
+"s": "ACTIVATED",
+"t": 16
+},
+{
+"off": 1372480,
+"s": "Copy Challenge Code (ClipBoard)",
+"t": 32
+},
+{
+"off": 1372512,
+"s": "Import Computer Footprint",
+"t": 32
+},
+{
+"off": 1372544,
+"s": "Export Computer Footprint",
+"t": 32
+},
+{
+"off": 1372576,
+"s": "Check if you have a REGEN (in your webshop account license page)",
+"t": 72
+},
+{
+"off": 1372648,
+"s": "Show Response Code",
+"t": 24
+},
+{
+"off": 1372672,
+"s": "Hide e-mail address",
+"t": 24
+},
+{
+"off": 1372696,
+"s": "License Activated",
+"t": 24
+},
+{
+"off": 1372755,
+"s": "Thanks for your participation!",
+"t": 37
+},
+{
+"off": 1372792,
+"s": "Registration / Activation",
+"t": 40
+},
+{
+"off": 1372861,
+"s": "The one used on Web-Shop to purchase license.",
+"t": 51
+},
+{
+"off": 1372940,
+"s": "Given by the web-shop after purchase.",
+"t": 52
+},
+{
+"off": 1373033,
+"s": "Example 0123456789 or 0123ABCDEF.",
+"t": 39
+},
+{
+"off": 1373072,
+"s": "Activation attempts exceeded",
+"t": 32
+},
+{
+"off": 1373135,
+"s": "Please close this dialog box and retry again...",
+"t": 49
+},
+{
+"off": 1373184,
+"s": "Activation Failed",
+"t": 32
+},
+{
+"off": 1373307,
+"s": "Go to your web-shop to check your license code...",
+"t": 53
+},
+{
+"off": 1373360,
+"s": "Activation Success",
+"t": 24
+},
+{
+"off": 1373400,
+"s": "Your License is now activated...",
+"t": 40
+},
+{
+"off": 1373440,
+"s": "Import Done",
+"t": 16
+},
+{
+"off": 1373496,
+"s": "Your license should now be reactivated.",
+"t": 40
+},
+{
+"off": 1373576,
+"s": "You should have retrieved your previous challenge code.",
+"t": 56
+},
+{
+"off": 1373632,
+"s": "Version: %s",
+"t": 16
+},
+{
+"off": 1373648,
+"s": "About / Registration info...",
+"t": 32
+},
+{
+"off": 1373680,
+"s": "_ActivationLog.dat",
+"t": 24
+},
+{
+"off": 1373704,
+"s": "iphlpapi.dll",
+"t": 16
+},
+{
+"off": 1373720,
+"s": "GetAdaptersInfo",
+"t": 16
+},
+{
+"off": 1373736,
+"s": "GetNativeSystemInfo",
+"t": 24
+},
+{
+"off": 1373785,
+"s": "VBurel",
+"t": 7
+},
+{
+"off": 1373809,
+"s": "VBurel",
+"t": 7
+},
+{
+"off": 1373835,
+"s": "VBurel",
+"t": 13
+},
+{
+"off": 1373866,
+"s": "VBurel",
+"t": 14
+},
+{
+"off": 1373899,
+"s": "VBurel",
+"t": 13
+},
+{
+"off": 1373930,
+"s": "VBurel",
+"t": 14
+},
+{
+"off": 1373965,
+"s": "VBurel",
+"t": 11
+},
+{
+"off": 1373993,
+"s": "VBurel",
+"t": 7
+},
+{
+"off": 1374016,
+"s": "VBurel",
+"t": 8
+},
+{
+"off": 1374044,
+"s": "VBurel",
+"t": 12
+},
+{
+"off": 1374056,
+"s": "[VB2CTL] Failed to register AutoViewValue class",
+"t": 48
+},
+{
+"off": 1374104,
+"s": "[VB2CTL] Failed to register 2Dgrid class",
+"t": 48
+},
+{
+"off": 1374152,
+"s": "[VB2CTL] Failed to register Vgrid class",
+"t": 40
+},
+{
+"off": 1374192,
+"s": "[VB2CTL] Failed to register 3Dlist class",
+"t": 48
+},
+{
+"off": 1374240,
+"s": "[VB2CTL] Failed to register slide class",
+"t": 40
+},
+{
+"off": 1374280,
+"s": "[VB2CTL] Failed to register FREE class",
+"t": 40
+},
+{
+"off": 1374320,
+"s": "[VB2CTL] Failed to register I2P class",
+"t": 40
+},
+{
+"off": 1374360,
+"s": "[VB2CTL] Failed to register rotatif class",
+"t": 48
+},
+{
+"off": 1374408,
+"s": "[VB2CTL] Module not initialized !",
+"t": 40
+},
+{
+"off": 1374448,
+"s": "[VB2CTL] No error",
+"t": 24
+},
+{
+"off": 1374472,
+"s": "Virtual",
+"t": 8
+},
+{
+"off": 1374480,
+"s": "%.3f",
+"t": 8
+},
+{
+"off": 1374488,
+"s": "%.0f",
+"t": 8
+},
+{
+"off": 1374496,
+"s": "%.6f",
+"t": 8
+},
+{
+"off": 1374504,
+"s": "static",
+"t": 8
+},
+{
+"off": 1374512,
+"s": "%04i",
+"t": 8
+},
+{
+"off": 1374520,
+"s": "listbox",
+"t": 8
+},
+{
+"off": 1374528,
+"s": "16",
+"t": 4
+},
+{
+"off": 1374548,
+"s": "OK",
+"t": 4
+},
+{
+"off": 1374552,
+"s": "Cancel",
+"t": 8
+},
+{
+"off": 1374560,
+"s": "Apply",
+"t": 8
+},
+{
+"off": 1374568,
+"s": "Enter Time",
+"t": 12
+},
+{
+"off": 1374580,
+"s": "(s)",
+"t": 4
+},
+{
+"off": 1374584,
+"s": "(ms)",
+"t": 8
+},
+{
+"off": 1374592,
+"s": "(Hz)",
+"t": 8
+},
+{
+"off": 1374600,
+"s": "(bpm)",
+"t": 8
+},
+{
+"off": 1374608,
+"s": "(m)",
+"t": 4
+},
+{
+"off": 1374612,
+"s": "(smp)",
+"t": 12
+},
+{
+"off": 1374624,
+"s": "Freq. Sample : %iHz",
+"t": 24
+},
+{
+"off": 1374648,
+"s": "Enter Musical Time",
+"t": 20
+},
+{
+"off": 1374668,
+"s": "Tempo",
+"t": 12
+},
+{
+"off": 1374680,
+"s": "Replace mode",
+"t": 16
+},
+{
+"off": 1374696,
+"s": "Musical duration.",
+"t": 24
+},
+{
+"off": 1374720,
+"s": "Enter Musical Position",
+"t": 24
+},
+{
+"off": 1374744,
+"s": "tic",
+"t": 8
+},
+{
+"off": 1374752,
+"s": "Time Signature",
+"t": 16
+},
+{
+"off": 1374768,
+"s": "Enter Video Frame",
+"t": 24
+},
+{
+"off": 1374792,
+"s": "Frame per second",
+"t": 24
+},
+{
+"off": 1374816,
+"s": "Mouse Control mode",
+"t": 24
+},
+{
+"off": 1374840,
+"s": "Sequential moves",
+"t": 24
+},
+{
+"off": 1374864,
+"s": "Set By Position",
+"t": 16
+},
+{
+"off": 1374880,
+"s": "Grap and Move",
+"t": 16
+},
+{
+"off": 1374896,
+"s": "Exit Menu",
+"t": 16
+},
+{
+"off": 1374912,
+"s": "Precision Tri Slider",
+"t": 24
+},
+{
+"off": 1374936,
+"s": "Adjust Value",
+"t": 16
+},
+{
+"off": 1374952,
+"s": "Inverse mousemove mode",
+"t": 24
+},
+{
+"off": 1374976,
+"s": "%0.1f",
+"t": 8
+},
+{
+"off": 1374984,
+"s": "Mouse Move Behavior",
+"t": 24
+},
+{
+"off": 1375008,
+"s": "Turn by right Mode",
+"t": 24
+},
+{
+"off": 1375032,
+"s": "Up and Down Mode",
+"t": 24
+},
+{
+"off": 1375056,
+"s": "Angular Mode",
+"t": 16
+},
+{
+"off": 1375072,
+"s": "Display Extra Info",
+"t": 24
+},
+{
+"off": 1375096,
+"s": "Display Knob Moves",
+"t": 24
+},
+{
+"off": 1375120,
+"s": "Enable Info Value Box",
+"t": 24
+},
+{
+"off": 1375144,
+"s": "Value Editing",
+"t": 16
+},
+{
+"off": 1375160,
+"s": "Current : ",
+"t": 12
+},
+{
+"off": 1375172,
+"s": " db",
+"t": 4
+},
+{
+"off": 1375176,
+"s": "Max :",
+"t": 8
+},
+{
+"off": 1375184,
+"s": "Default :",
+"t": 16
+},
+{
+"off": 1375200,
+"s": " [DBCLK]",
+"t": 12
+},
+{
+"off": 1375212,
+"s": "Min : ",
+"t": 12
+},
+{
+"off": 1375224,
+"s": "Edit [CTRL+CLK]",
+"t": 16
+},
+{
+"off": 1375240,
+"s": "Adjust [SHIFT+CLK]",
+"t": 24
+},
+{
+"off": 1375264,
+"s": "Mouse Reaction Rate",
+"t": 24
+},
+{
+"off": 1375288,
+"s": "Latency 0 ms",
+"t": 16
+},
+{
+"off": 1375304,
+"s": "Latency 100 ms",
+"t": 16
+},
+{
+"off": 1375320,
+"s": "Latency 200 ms",
+"t": 16
+},
+{
+"off": 1375336,
+"s": "Latency 300 ms",
+"t": 16
+},
+{
+"off": 1375352,
+"s": "Latency 400 ms",
+"t": 16
+},
+{
+"off": 1375368,
+"s": "Latency 500 ms",
+"t": 16
+},
+{
+"off": 1375384,
+"s": "Display Value in Info Box",
+"t": 32
+},
+{
+"off": 1375416,
+"s": "Display on Left Top",
+"t": 24
+},
+{
+"off": 1375440,
+"s": "Display on Right Top",
+"t": 24
+},
+{
+"off": 1375464,
+"s": "Display on Right Bottom",
+"t": 24
+},
+{
+"off": 1375488,
+"s": "Display on Left Bottom",
+"t": 24
+},
+{
+"off": 1375512,
+"s": "Predefined value(s)",
+"t": 20
+},
+{
+"off": 1375532,
+"s": "- inf",
+"t": 12
+},
+{
+"off": 1375544,
+"s": "Mouse Captured",
+"t": 16
+},
+{
+"off": 1375560,
+"s": "Direct mouse position",
+"t": 24
+},
+{
+"off": 1375584,
+"s": "Default Panel Position\t[BACKSPACE]",
+"t": 40
+},
+{
+"off": 1375624,
+"s": "First line\t[HOME]",
+"t": 24
+},
+{
+"off": 1375648,
+"s": "Last line\t[End]",
+"t": 16
+},
+{
+"off": 1375664,
+"s": "%.5f",
+"t": 8
+},
+{
+"off": 1375672,
+"s": "SHDefExtractIconW",
+"t": 20
+},
+{
+"off": 1375692,
+"s": "\\\\.\\",
+"t": 12
+},
+{
+"off": 1375800,
+"s": "Gdiplus.dll",
+"t": 16
+},
+{
+"off": 1375816,
+"s": "GdiplusStartup",
+"t": 16
+},
+{
+"off": 1375832,
+"s": "GdiplusShutdown",
+"t": 16
+},
+{
+"off": 1375848,
+"s": "GdipGetImageDecodersSize",
+"t": 32
+},
+{
+"off": 1375880,
+"s": "GdipGetImageDecoders",
+"t": 24
+},
+{
+"off": 1375904,
+"s": "GdipGetImageEncodersSize",
+"t": 32
+},
+{
+"off": 1375936,
+"s": "GdipGetImageEncoders",
+"t": 24
+},
+{
+"off": 1375960,
+"s": "GdipCreateBitmapFromGdiDib",
+"t": 32
+},
+{
+"off": 1375992,
+"s": "GdipCreateBitmapFromStream",
+"t": 32
+},
+{
+"off": 1376024,
+"s": "GdipCreateBitmapFromFile",
+"t": 32
+},
+{
+"off": 1376056,
+"s": "GdipCreateBitmapFromStreamICM",
+"t": 32
+},
+{
+"off": 1376088,
+"s": "GdipCreateBitmapFromFileICM",
+"t": 32
+},
+{
+"off": 1376120,
+"s": "GdipCreateHBITMAPFromBitmap",
+"t": 32
+},
+{
+"off": 1376152,
+"s": "GdipDisposeImage",
+"t": 24
+},
+{
+"off": 1376176,
+"s": "GdipSaveImageToStream",
+"t": 24
+},
+{
+"off": 1376200,
+"s": "GdipGetImagePixelFormat",
+"t": 24
+},
+{
+"off": 1376248,
+"s": "SUN",
+"t": 4
+},
+{
+"off": 1376252,
+"s": "SAT",
+"t": 4
+},
+{
+"off": 1376256,
+"s": "FRI",
+"t": 4
+},
+{
+"off": 1376260,
+"s": "THU",
+"t": 4
+},
+{
+"off": 1376264,
+"s": "WED",
+"t": 4
+},
+{
+"off": 1376268,
+"s": "TUE",
+"t": 4
+},
+{
+"off": 1376272,
+"s": "MON",
+"t": 4
+},
+{
+"off": 1376276,
+"s": "Sunday",
+"t": 12
+},
+{
+"off": 1376288,
+"s": "Saturday",
+"t": 12
+},
+{
+"off": 1376300,
+"s": "Friday",
+"t": 12
+},
+{
+"off": 1376312,
+"s": "Thursday",
+"t": 16
+},
+{
+"off": 1376328,
+"s": "Wednesday",
+"t": 16
+},
+{
+"off": 1376344,
+"s": "Tuesday",
+"t": 8
+},
+{
+"off": 1376352,
+"s": "Monday",
+"t": 8
+},
+{
+"off": 1376360,
+"s": "DEC",
+"t": 4
+},
+{
+"off": 1376364,
+"s": "NOV",
+"t": 4
+},
+{
+"off": 1376368,
+"s": "OCT",
+"t": 4
+},
+{
+"off": 1376372,
+"s": "SEP",
+"t": 4
+},
+{
+"off": 1376376,
+"s": "AUG",
+"t": 4
+},
+{
+"off": 1376380,
+"s": "JUL",
+"t": 4
+},
+{
+"off": 1376384,
+"s": "JUN",
+"t": 4
+},
+{
+"off": 1376388,
+"s": "MAY",
+"t": 4
+},
+{
+"off": 1376392,
+"s": "APR",
+"t": 4
+},
+{
+"off": 1376396,
+"s": "MAR",
+"t": 4
+},
+{
+"off": 1376400,
+"s": "FEB",
+"t": 4
+},
+{
+"off": 1376404,
+"s": "JAN",
+"t": 4
+},
+{
+"off": 1376408,
+"s": "December",
+"t": 16
+},
+{
+"off": 1376424,
+"s": "November",
+"t": 16
+},
+{
+"off": 1376440,
+"s": "October",
+"t": 8
+},
+{
+"off": 1376448,
+"s": "September",
+"t": 12
+},
+{
+"off": 1376460,
+"s": "August",
+"t": 8
+},
+{
+"off": 1376468,
+"s": "July",
+"t": 8
+},
+{
+"off": 1376476,
+"s": "June",
+"t": 8
+},
+{
+"off": 1376484,
+"s": "May",
+"t": 4
+},
+{
+"off": 1376488,
+"s": "April",
+"t": 8
+},
+{
+"off": 1376496,
+"s": "March",
+"t": 8
+},
+{
+"off": 1376504,
+"s": "February",
+"t": 16
+},
+{
+"off": 1376520,
+"s": "January",
+"t": 8
+},
+{
+"off": 1376528,
+"s": "USER32",
+"t": 8
+},
+{
+"off": 1376536,
+"s": "GetSystemMetrics",
+"t": 24
+},
+{
+"off": 1376560,
+"s": "MonitorFromWindow",
+"t": 24
+},
+{
+"off": 1376584,
+"s": "MonitorFromRect",
+"t": 16
+},
+{
+"off": 1376600,
+"s": "MonitorFromPoint",
+"t": 24
+},
+{
+"off": 1376624,
+"s": "EnumDisplayMonitors",
+"t": 24
+},
+{
+"off": 1376648,
+"s": "GetMonitorInfoA",
+"t": 16
+},
+{
+"off": 1376664,
+"s": "EnumDisplayDevicesA",
+"t": 24
+},
+{
+"off": 1376688,
+"s": "DISPLAY",
+"t": 8
+},
+{
+"off": 1376696,
+"s": "{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}",
+"t": 56
+},
+{
+"off": 1376752,
+"s": "%6i / %2i / %5i",
+"t": 16
+},
+{
+"off": 1376768,
+"s": "ntdll.dll",
+"t": 16
+},
+{
+"off": 1376784,
+"s": "NtQueryTimerResolution",
+"t": 24
+},
+{
+"off": 1376808,
+"s": "NtSetTimerResolution",
+"t": 24
+},
+{
+"off": 1376895,
+"s": "Unexpected error...",
+"t": 25
+},
+{
+"off": 1377087,
+"s": "Please Re-Start the Audio Device...",
+"t": 49
+},
+{
+"off": 1377199,
+"s": "Please Re-Start the Audio Device...",
+"t": 49
+},
+{
+"off": 1377330,
+"s": "Please Re-Start the Audio Device...",
+"t": 38
+},
+{
+"off": 1377368,
+"s": "Failed to Get Channels information: ",
+"t": 40
+},
+{
+"off": 1377408,
+"s": "No Channel found / Device possibly not connected...",
+"t": 56
+},
+{
+"off": 1377464,
+"s": "Failed to Get Buffer information: ",
+"t": 40
+},
+{
+"off": 1377504,
+"s": "Device is not opened...",
+"t": 24
+},
+{
+"off": 1377528,
+"s": "Device is Already prepared...",
+"t": 32
+},
+{
+"off": 1377560,
+"s": "Failed to Get Current SampleRate information: ",
+"t": 48
+},
+{
+"off": 1377608,
+"s": "Unsupported Samplerate: %i Hz",
+"t": 32
+},
+{
+"off": 1377640,
+"s": "Undefined Buffer Size...",
+"t": 32
+},
+{
+"off": 1377672,
+"s": "Failed to Get Channel information: ",
+"t": 40
+},
+{
+"off": 1377712,
+"s": "Failed to prepare buffers: ",
+"t": 32
+},
+{
+"off": 1377744,
+"s": "Device is Already unprepared...",
+"t": 32
+},
+{
+"off": 1377776,
+"s": "ASIO Device Already Playing...",
+"t": 32
+},
+{
+"off": 1377808,
+"s": "Failure on ASIOMAN_ORDER_PREPAREDDEVICE callback",
+"t": 56
+},
+{
+"off": 1377864,
+"s": "Device Is Started.",
+"t": 24
+},
+{
+"off": 1377888,
+"s": "Device Not Started:",
+"t": 24
+},
+{
+"off": 1377912,
+"s": "Driver not found",
+"t": 24
+},
+{
+"off": 1377936,
+"s": "Failed to init ASIO Driver",
+"t": 32
+},
+{
+"off": 1377968,
+"s": "Failed to Get Current SampleRate:",
+"t": 40
+},
+{
+"off": 1378008,
+"s": "SampleRate < 1000: set it to %i Hz",
+"t": 40
+},
+{
+"off": 1378048,
+"s": "No Callback Available",
+"t": 24
+},
+{
+"off": 1378072,
+"s": "Device Is Openned.",
+"t": 24
+},
+{
+"off": 1378304,
+"s": "Shlwapi.dll",
+"t": 16
+},
+{
+"off": 1378320,
+"s": "SHCreateStreamOnFileEx",
+"t": 24
+},
+{
+"off": 1378344,
+"s": "Wmvcore.dll",
+"t": 16
+},
+{
+"off": 1378360,
+"s": "WMCreateSyncReader",
+"t": 24
+},
+{
+"off": 1378384,
+"s": "Mfplat.dll",
+"t": 16
+},
+{
+"off": 1378400,
+"s": "MFStartup",
+"t": 16
+},
+{
+"off": 1378416,
+"s": "MFShutdown",
+"t": 16
+},
+{
+"off": 1378432,
+"s": "MFCreateMediaType",
+"t": 24
+},
+{
+"off": 1378456,
+"s": "MFCreateWaveFormatExFromMFMediaType",
+"t": 40
+},
+{
+"off": 1378496,
+"s": "Mfreadwrite.dll",
+"t": 16
+},
+{
+"off": 1378512,
+"s": "MFCreateSourceReaderFromURL",
+"t": 32
+},
+{
+"off": 1378544,
+"s": "mpg123\\libmpg123-0.dll",
+"t": 24
+},
+{
+"off": 1378568,
+"s": "mpg123_init",
+"t": 16
+},
+{
+"off": 1378584,
+"s": "mpg123_exit",
+"t": 16
+},
+{
+"off": 1378600,
+"s": "mpg123_new",
+"t": 16
+},
+{
+"off": 1378616,
+"s": "mpg123_open_feed",
+"t": 24
+},
+{
+"off": 1378640,
+"s": "mpg123_close",
+"t": 16
+},
+{
+"off": 1378656,
+"s": "mpg123_feed",
+"t": 16
+},
+{
+"off": 1378672,
+"s": "mpg123_delete",
+"t": 16
+},
+{
+"off": 1378688,
+"s": "mpg123_getformat",
+"t": 24
+},
+{
+"off": 1378712,
+"s": "mpg123_format_none",
+"t": 24
+},
+{
+"off": 1378736,
+"s": "mpg123_format",
+"t": 16
+},
+{
+"off": 1378752,
+"s": "mpg123_info",
+"t": 16
+},
+{
+"off": 1378768,
+"s": "mpg123_read",
+"t": 16
+},
+{
+"off": 1378784,
+"s": "mpg123_decode",
+"t": 16
+},
+{
+"off": 1378800,
+"s": "mpg123_scan",
+"t": 16
+},
+{
+"off": 1378816,
+"s": "mpg123_length",
+"t": 16
+},
+{
+"off": 1378832,
+"s": "VBAudioHFVAIO",
+"t": 16
+},
+{
+"off": 1378848,
+"s": "VBAudio100VMVAIO3",
+"t": 24
+},
+{
+"off": 1378872,
+"s": "VBAudioVMAUXVAIO",
+"t": 24
+},
+{
+"off": 1378896,
+"s": "VBAudioVMVAIO",
+"t": 16
+},
+{
+"off": 1378912,
+"s": "VBAudioMAGVAIO",
+"t": 16
+},
+{
+"off": 1378928,
+"s": "VBAudioMT128VAIO",
+"t": 24
+},
+{
+"off": 1378952,
+"s": "VBAudio102WDMCableD",
+"t": 24
+},
+{
+"off": 1378976,
+"s": "VBAudio101WDMCableC",
+"t": 24
+},
+{
+"off": 1379000,
+"s": "VBAudioVACBWDM",
+"t": 16
+},
+{
+"off": 1379016,
+"s": "VBAudioVACAWDM",
+"t": 16
+},
+{
+"off": 1379032,
+"s": "VBAudioVACWDM",
+"t": 16
+},
+{
+"off": 1379048,
+"s": "VBAudioMapWindowClass",
+"t": 24
+},
+{
+"off": 1379072,
+"s": "%i Hz, %i bits, %i Ch",
+"t": 24
+},
+{
+"off": 1379096,
+"s": "%0.0f",
+"t": 8
+},
+{
+"off": 1379104,
+"s": "Playback VAI",
+"t": 16
+},
+{
+"off": 1379120,
+"s": "Playback Device",
+"t": 16
+},
+{
+"off": 1379136,
+"s": "Ex.C",
+"t": 8
+},
+{
+"off": 1379144,
+"s": "Ex.A",
+"t": 8
+},
+{
+"off": 1379152,
+"s": "Recording VAO",
+"t": 16
+},
+{
+"off": 1379168,
+"s": "Recording Device",
+"t": 32
+},
+{
+"off": 1379200,
+"s": "WARNING: Windows Communication Option is not set to 'Do Nothing'!",
+"t": 68
+},
+{
+"off": 1379268,
+"s": "BUS A",
+"t": 12
+},
+{
+"off": 1379280,
+"s": "Out A%i",
+"t": 8
+},
+{
+"off": 1379288,
+"s": "BUS B",
+"t": 8
+},
+{
+"off": 1379296,
+"s": "BUS A%i",
+"t": 8
+},
+{
+"off": 1379304,
+"s": "BUS B%i",
+"t": 8
+},
+{
+"off": 1379312,
+"s": "ms-settings:sound",
+"t": 24
+},
+{
+"off": 1379336,
+"s": "explorer.exe",
+"t": 16
+},
+{
+"off": 1379352,
+"s": "ms-settings:apps-volume",
+"t": 24
+},
+{
+"off": 1379376,
+"s": "ms-settings:privacy-microphone",
+"t": 32
+},
+{
+"off": 1379408,
+"s": "mmsys.cpl,,0",
+"t": 16
+},
+{
+"off": 1379424,
+"s": "control.exe",
+"t": 16
+},
+{
+"off": 1379440,
+"s": "mmsys.cpl,,1",
+"t": 16
+},
+{
+"off": 1379456,
+"s": "Refresh Display\t[F5]",
+"t": 24
+},
+{
+"off": 1379480,
+"s": "Reset Position\t[Home]",
+"t": 24
+},
+{
+"off": 1379504,
+"s": "Open VAIO Control Panel...",
+"t": 32
+},
+{
+"off": 1379536,
+"s": "Zoom 100%",
+"t": 16
+},
+{
+"off": 1379552,
+"s": "Zoom 90%",
+"t": 16
+},
+{
+"off": 1379568,
+"s": "Zoom 75%",
+"t": 16
+},
+{
+"off": 1379584,
+"s": "Zoom 60%",
+"t": 16
+},
+{
+"off": 1379600,
+"s": "Zoom 50%",
+"t": 16
+},
+{
+"off": 1379616,
+"s": "Windows Sound Settings...",
+"t": 32
+},
+{
+"off": 1379648,
+"s": "Windows Apps Volume and Device Preferences...",
+"t": 48
+},
+{
+"off": 1379696,
+"s": "Windows Privacy for Microphone...",
+"t": 40
+},
+{
+"off": 1379736,
+"s": "Windows Sounds Playback Devices...",
+"t": 40
+},
+{
+"off": 1379776,
+"s": "Windows Sounds Recording Devices...",
+"t": 40
+},
+{
+"off": 1379816,
+"s": "VBVoicemeeterVAIO",
+"t": 20
+},
+{
+"off": 1379836,
+"s": "Audio",
+"t": 12
+},
+{
+"off": 1379848,
+"s": "KSWA Device VB-Object",
+"t": 24
+},
+{
+"off": 1379944,
+"s": "MatchingDeviceId",
+"t": 24
+},
+{
+"off": 1379968,
+"s": "DriverDesc",
+"t": 16
+},
+{
+"off": 1379984,
+"s": "KSWA_KS_Start failed to allocate m_pksPinCreate",
+"t": 48
+},
+{
+"off": 1380032,
+"s": "KSWA_KS_Start: ksCreatePin returns error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1380088,
+"s": "KSWA_KS_Start failed to create filter",
+"t": 40
+},
+{
+"off": 1380128,
+"s": "KSWA_KS_Start failed to enumerate pin",
+"t": 40
+},
+{
+"off": 1380168,
+"s": "KSWA_KS_Start failed to find valid pin",
+"t": 40
+},
+{
+"off": 1380352,
+"s": "KSWA_KSRenderThread: KSFilter_WriteData returns error %i (0x%08X)",
+"t": 80
+},
+{
+"off": 1380432,
+"s": "KSWA_KSCaptureThread: KSFilter_ReadData returns error %i (0x%08X)",
+"t": 72
+},
+{
+"off": 1380504,
+"s": "pAudioClient->Start return error %i (0x%08X)",
+"t": 48
+},
+{
+"off": 1380552,
+"s": "pRenderClient->GetBuffer return error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1380608,
+"s": "pRenderClient->ReleaseBuffer return error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1380664,
+"s": "CreateEventEx lpd->hShutdownEvent failed",
+"t": 48
+},
+{
+"off": 1380712,
+"s": "CreateEventEx lpd->hAudioSamplesReadyEvent failed",
+"t": 56
+},
+{
+"off": 1380768,
+"s": "pSelectedDevice->Activate return error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1380824,
+"s": "pAudioClient->GetMixFormat return error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1380880,
+"s": "pAudioClient->SetEventHandle return error %i (0x%08X)",
+"t": 64
+},
+{
+"off": 1380944,
+"s": "pAudioClient->GetBufferSize return AUDCLNT_E_BUFFER_SIZE_NOT_ALIGNED %i (0x%08X)",
+"t": 88
+},
+{
+"off": 1381032,
+"s": "pAudioClient->Initialize return error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1381088,
+"s": "pAudioClient->GetService return error %i (0x%08X)",
+"t": 56
+},
+{
+"off": 1381172,
+"s": "%s",
+"t": 4
+},
+{
+"off": 1381176,
+"s": "Failed to allocate Wave Buffers",
+"t": 32
+},
+{
+"off": 1381208,
+"s": "Failed to allocate KS Wave Buffers",
+"t": 40
+},
+{
+"off": 1381248,
+"s": "Failed to allocate Audio Buffers",
+"t": 40
+},
+{
+"off": 1381288,
+"s": "KSCapture Thread not launched",
+"t": 32
+},
+{
+"off": 1381357,
+"s": "%s",
+"t": 3
+},
+{
+"off": 1381393,
+"s": "%s",
+"t": 7
+},
+{
+"off": 1381429,
+"s": "%s",
+"t": 3
+},
+{
+"off": 1381461,
+"s": "%s",
+"t": 3
+},
+{
+"off": 1381464,
+"s": "KSrender Thread not launched",
+"t": 32
+},
+{
+"off": 1381534,
+"s": "%s",
+"t": 10
+},
+{
+"off": 1381578,
+"s": "%s",
+"t": 6
+},
+{
+"off": 1381614,
+"s": "%s",
+"t": 10
+},
+{
+"off": 1381760,
+"s": "UserDuckingPreference",
+"t": 24
+},
+{
+"off": 1381824,
+"s": "Windows Wave Mapper",
+"t": 24
+},
+{
+"off": 1381848,
+"s": "ksuser.dll",
+"t": 16
+},
+{
+"off": 1381864,
+"s": "KsCreatePin",
+"t": 16
+},
+{
+"off": 1381880,
+"s": "EnumProcessModules",
+"t": 24
+},
+{
+"off": 1381904,
+"s": "GetModuleBaseNameW",
+"t": 24
+},
+{
+"off": 1381928,
+"s": "GetModuleFileNameExW",
+"t": 24
+},
+{
+"off": 1381952,
+"s": "psapi.dll",
+"t": 16
+},
+{
+"off": 1381968,
+"s": "CreateEventExA",
+"t": 16
+},
+{
+"off": 1381984,
+"s": "Avrt.dll",
+"t": 16
+},
+{
+"off": 1382000,
+"s": "AvRevertMmThreadCharacteristics",
+"t": 32
+},
+{
+"off": 1382032,
+"s": "AvSetMmThreadCharacteristicsA",
+"t": 32
+},
+{
+"off": 1382100,
+"s": "A#",
+"t": 4
+},
+{
+"off": 1382108,
+"s": "G#",
+"t": 4
+},
+{
+"off": 1382116,
+"s": "F#",
+"t": 4
+},
+{
+"off": 1382128,
+"s": "D#",
+"t": 4
+},
+{
+"off": 1382132,
+"s": "C#",
+"t": 4
+},
+{
+"off": 1382140,
+"s": "%s%i",
+"t": 12
+},
+{
+"off": 1382152,
+"s": "#%i Note On %s",
+"t": 16
+},
+{
+"off": 1382168,
+"s": "#%i Note Off %s",
+"t": 16
+},
+{
+"off": 1382184,
+"s": "#%i Ctrl Ch. %i",
+"t": 16
+},
+{
+"off": 1382200,
+"s": "#%i Prg Ch. %i",
+"t": 16
+},
+{
+"off": 1382216,
+"s": "#%i P.Bend %i",
+"t": 16
+},
+{
+"off": 1382232,
+"s": "%02X ",
+"t": 8
+},
+{
+"off": 1382544,
+"s": "MidiMapName",
+"t": 16
+},
+{
+"off": 1382560,
+"s": "MidiMapItem",
+"t": 12
+},
+{
+"off": 1382572,
+"s": "id",
+"t": 4
+},
+{
+"off": 1382576,
+"s": "b1",
+"t": 4
+},
+{
+"off": 1382580,
+"s": "b2",
+"t": 4
+},
+{
+"off": 1382584,
+"s": "b3",
+"t": 4
+},
+{
+"off": 1382588,
+"s": "b4",
+"t": 4
+},
+{
+"off": 1382592,
+"s": "b5",
+"t": 4
+},
+{
+"off": 1382596,
+"s": "b6",
+"t": 4
+},
+{
+"off": 1382600,
+"s": "coder",
+"t": 8
+},
+{
+"off": 1382608,
+"s": "codertype",
+"t": 12
+},
+{
+"off": 1382620,
+"s": "ptt",
+"t": 4
+},
+{
+"off": 1382624,
+"s": "feed1",
+"t": 8
+},
+{
+"off": 1382632,
+"s": "feed2",
+"t": 8
+},
+{
+"off": 1382640,
+"s": "omni",
+"t": 8
+},
+{
+"off": 1382648,
+"s": "disabled",
+"t": 12
+},
+{
+"off": 1382660,
+"s": "feedOn",
+"t": 12
+},
+{
+"off": 1382672,
+"s": "feedOff",
+"t": 8
+},
+{
+"off": 1382680,
+"s": "MidiMapMsg",
+"t": 16
+},
+{
+"off": 1382696,
+"s": "Remove Selection",
+"t": 24
+},
+{
+"off": 1382720,
+"s": "Open Control Panel",
+"t": 24
+},
+{
+"off": 1382744,
+"s": "Open Windows Sound",
+"t": 24
+},
+{
+"off": 1382768,
+"s": "Exit / Cancel",
+"t": 16
+},
+{
+"off": 1382784,
+"s": "WDM (WASAPI)",
+"t": 16
+},
+{
+"off": 1382800,
+"s": "KS (Kernel Streaming)",
+"t": 24
+},
+{
+"off": 1382824,
+"s": "MME (Multimedia)",
+"t": 24
+},
+{
+"off": 1382848,
+"s": "ASIO (Steinberg)",
+"t": 24
+},
+{
+"off": 1382872,
+"s": "%i Hz, %i Ch",
+"t": 24
+},
+{
+"off": 1382929,
+"s": "Do You want to Remove this selection ?",
+"t": 39
+},
+{
+"off": 1382968,
+"s": "10 Bbits",
+"t": 16
+},
+{
+"off": 1382984,
+"s": "12 Bbits",
+"t": 16
+},
+{
+"off": 1383000,
+"s": "10 bits",
+"t": 8
+},
+{
+"off": 1383008,
+"s": "12 bits",
+"t": 8
+},
+{
+"off": 1383016,
+"s": "64 bits float",
+"t": 16
+},
+{
+"off": 1383032,
+"s": "32 bits float",
+"t": 16
+},
+{
+"off": 1383048,
+"s": "32 bits",
+"t": 8
+},
+{
+"off": 1383056,
+"s": "24 bits",
+"t": 8
+},
+{
+"off": 1383064,
+"s": "16 bits",
+"t": 8
+},
+{
+"off": 1383072,
+"s": "8 bits",
+"t": 8
+},
+{
+"off": 1383080,
+"s": "* ",
+"t": 4
+},
+{
+"off": 1383084,
+"s": "PCM %s",
+"t": 12
+},
+{
+"off": 1383096,
+"s": "VBC-A %s",
+"t": 12
+},
+{
+"off": 1383108,
+"s": "VBC-V",
+"t": 8
+},
+{
+"off": 1383116,
+"s": "%s",
+"t": 4
+},
+{
+"off": 1383124,
+"s": "Serial",
+"t": 12
+},
+{
+"off": 1383136,
+"s": "M.I.D.I.",
+"t": 12
+},
+{
+"off": 1383148,
+"s": "ASCII",
+"t": 8
+},
+{
+"off": 1383156,
+"s": "UTF8",
+"t": 8
+},
+{
+"off": 1383164,
+"s": "WCHAR",
+"t": 8
+},
+{
+"off": 1383172,
+"s": "%02X",
+"t": 12
+},
+{
+"off": 1383184,
+"s": "VBAN Service",
+"t": 16
+},
+{
+"off": 1383200,
+"s": "Stream%i",
+"t": 12
+},
+{
+"off": 1383212,
+"s": "Data%i",
+"t": 12
+},
+{
+"off": 1383224,
+"s": "Command%i",
+"t": 16
+},
+{
+"off": 1383240,
+"s": "Frame%i",
+"t": 8
+},
+{
+"off": 1383248,
+"s": "Failed to Create Service Thread.",
+"t": 40
+},
+{
+"off": 1383288,
+"s": "SND, %s, %s, %i, %i",
+"t": 24
+},
+{
+"off": 1383312,
+"s": "Base Time, %s",
+"t": 16
+},
+{
+"off": 1383328,
+"s": "------------------------------------------------",
+"t": 56
+},
+{
+"off": 1383384,
+"s": "%i, %s, %i, %i, %i",
+"t": 24
+},
+{
+"off": 1383408,
+"s": "Failed to Create UDP Thread.",
+"t": 32
+},
+{
+"off": 1383440,
+"s": "GetComputerNameExA",
+"t": 24
+},
+{
+"off": 1383464,
+"s": "GetUserGeoID",
+"t": 16
+},
+{
+"off": 1383480,
+"s": "GetGeoInfoA",
+"t": 16
+},
+{
+"off": 1383496,
+"s": "Ws2_32.dll",
+"t": 16
+},
+{
+"off": 1383512,
+"s": "getaddrinfo",
+"t": 16
+},
+{
+"off": 1383528,
+"s": "freeaddrinfo",
+"t": 16
+},
+{
+"off": 1383544,
+"s": "HostName:",
+"t": 16
+},
+{
+"off": 1383560,
+"s": "UserName:",
+"t": 16
+},
+{
+"off": 1383608,
+"s": "%i.%i.%i.%i",
+"t": 12
+},
+{
+"off": 1383620,
+"s": "IP: %s",
+"t": 12
+},
+{
+"off": 1383632,
+"s": "%s %s (%s)",
+"t": 16
+},
+{
+"off": 1383648,
+"s": "Waiting For Identification",
+"t": 32
+},
+{
+"off": 1383696,
+"s": "%02i:%02i:%02i",
+"t": 16
+},
+{
+"off": 1383712,
+"s": "%04i-%s-%02i / %02i:%02i:%02i",
+"t": 32
+},
+{
+"off": 1383744,
+"s": "From: %i.%i.%i.%i",
+"t": 24
+},
+{
+"off": 1383768,
+"s": "VBAN-CHAT",
+"t": 16
+},
+{
+"off": 1383784,
+"s": "Display message timestamp",
+"t": 32
+},
+{
+"off": 1383816,
+"s": "Show VBAN-CHAT on message",
+"t": 32
+},
+{
+"off": 1383848,
+"s": "Font Size: small",
+"t": 24
+},
+{
+"off": 1383872,
+"s": "Font Size: medium",
+"t": 24
+},
+{
+"off": 1383896,
+"s": "Font Size: large",
+"t": 24
+},
+{
+"off": 1383920,
+"s": "Font Size: biggest",
+"t": 24
+},
+{
+"off": 1383944,
+"s": "Send a 'Nudge'",
+"t": 16
+},
+{
+"off": 1383960,
+"s": "Send an 'Alert'",
+"t": 16
+},
+{
+"off": 1383976,
+"s": "mp3lame\\lame_enc64.dll",
+"t": 24
+},
+{
+"off": 1384000,
+"s": "beInitStream",
+"t": 16
+},
+{
+"off": 1384016,
+"s": "beEncodeChunk",
+"t": 16
+},
+{
+"off": 1384032,
+"s": "beDeinitStream",
+"t": 16
+},
+{
+"off": 1384048,
+"s": "beCloseStream",
+"t": 16
+},
+{
+"off": 1384064,
+"s": "beVersion",
+"t": 16
+},
+{
+"off": 1384080,
+"s": "beWriteVBRHeader",
+"t": 24
+},
+{
+"off": 1384104,
+"s": "beWriteInfoTag",
+"t": 16
+},
+{
+"off": 1384200,
+"s": "%04i-%02i-%02i",
+"t": 16
+},
+{
+"off": 1384216,
+"s": "%02i.%02i.%02i",
+"t": 16
+},
+{
+"off": 1384232,
+"s": "Record on Voicemeeter Banana (Version : ",
+"t": 48
+},
+{
+"off": 1384280,
+"s": "3.1.3.0",
+"t": 12
+},
+{
+"off": 1384296,
+"s": "A=PCM,F=%i,W=%i,M=",
+"t": 20
+},
+{
+"off": 1384316,
+"s": "mono",
+"t": 8
+},
+{
+"off": 1384324,
+"s": "stereo",
+"t": 12
+},
+{
+"off": 1384336,
+"s": ",T=original,",
+"t": 16
+},
+{
+"off": 1384528,
+"s": "No enough memory for stack buffer.",
+"t": 40
+},
+{
+"off": 1384568,
+"s": "No enough memory for temporary buffer.",
+"t": 40
+},
+{
+"off": 1384608,
+"s": "Failed to Create Audio File.",
+"t": 32
+},
+{
+"off": 1384664,
+"s": "Error: file size too big",
+"t": 32
+},
+{
+"off": 1384696,
+"s": "Error: write failure",
+"t": 24
+},
+{
+"off": 1384720,
+"s": "Error: disk full",
+"t": 24
+},
+{
+"off": 1384744,
+"s": "VBAudioVMSceneGUIControlClass",
+"t": 32
+},
+{
+"off": 1384872,
+"s": "Recall Preset\t[CTRL+CLICK]",
+"t": 32
+},
+{
+"off": 1384904,
+"s": "Store Preset",
+"t": 16
+},
+{
+"off": 1384920,
+"s": "Overwrite Preset",
+"t": 24
+},
+{
+"off": 1384944,
+"s": "Edit Name",
+"t": 16
+},
+{
+"off": 1384960,
+"s": "Edit Comment",
+"t": 16
+},
+{
+"off": 1384976,
+"s": "Copy Preset",
+"t": 16
+},
+{
+"off": 1384992,
+"s": "Paste Preset",
+"t": 16
+},
+{
+"off": 1385008,
+"s": "Load Preset...",
+"t": 16
+},
+{
+"off": 1385024,
+"s": "Save Preset As...",
+"t": 24
+},
+{
+"off": 1385048,
+"s": "Delete Preset",
+"t": 16
+},
+{
+"off": 1385064,
+"s": "EQ is OFF",
+"t": 12
+},
+{
+"off": 1385076,
+"s": "-3",
+"t": 4
+},
+{
+"off": 1385080,
+"s": "+3",
+"t": 4
+},
+{
+"off": 1385084,
+"s": "-6",
+"t": 4
+},
+{
+"off": 1385088,
+"s": "+6",
+"t": 4
+},
+{
+"off": 1385092,
+"s": "-12",
+"t": 4
+},
+{
+"off": 1385096,
+"s": "+12",
+"t": 4
+},
+{
+"off": 1385100,
+"s": "-18",
+"t": 4
+},
+{
+"off": 1385104,
+"s": "+18",
+"t": 4
+},
+{
+"off": 1385108,
+"s": "-24",
+"t": 4
+},
+{
+"off": 1385112,
+"s": "+24",
+"t": 4
+},
+{
+"off": 1385116,
+"s": "-36",
+"t": 4
+},
+{
+"off": 1385120,
+"s": "+30",
+"t": 4
+},
+{
+"off": 1385124,
+"s": "-48",
+"t": 4
+},
+{
+"off": 1385128,
+"s": "-54",
+"t": 4
+},
+{
+"off": 1385132,
+"s": "-60",
+"t": 4
+},
+{
+"off": 1385136,
+"s": "-72",
+"t": 4
+},
+{
+"off": 1385140,
+"s": "FLAT",
+"t": 12
+},
+{
+"off": 1385152,
+"s": "Copy All",
+"t": 12
+},
+{
+"off": 1385164,
+"s": "Paste",
+"t": 12
+},
+{
+"off": 1385176,
+"s": "%0.1f dB",
+"t": 16
+},
+{
+"off": 1385192,
+"s": "%0.1f ms",
+"t": 12
+},
+{
+"off": 1385204,
+"s": "db",
+"t": 4
+},
+{
+"off": 1385212,
+"s": "Trim",
+"t": 8
+},
+{
+"off": 1385220,
+"s": "Delay",
+"t": 8
+},
+{
+"off": 1385228,
+"s": "Hz",
+"t": 4
+},
+{
+"off": 1385232,
+"s": "Gain / Delay",
+"t": 16
+},
+{
+"off": 1385248,
+"s": "Channel:",
+"t": 12
+},
+{
+"off": 1385260,
+"s": "%0.2f",
+"t": 20
+},
+{
+"off": 1386308,
+"s": "Bus",
+"t": 4
+},
+{
+"off": 1386312,
+"s": "index",
+"t": 8
+},
+{
+"off": 1386320,
+"s": "channel",
+"t": 8
+},
+{
+"off": 1386328,
+"s": "trim",
+"t": 8
+},
+{
+"off": 1386336,
+"s": "delay",
+"t": 8
+},
+{
+"off": 1386344,
+"s": "cell",
+"t": 8
+},
+{
+"off": 1386352,
+"s": "EQon",
+"t": 8
+},
+{
+"off": 1386360,
+"s": "EQtype",
+"t": 8
+},
+{
+"off": 1386368,
+"s": "dblevel",
+"t": 8
+},
+{
+"off": 1386376,
+"s": "freq",
+"t": 8
+},
+{
+"off": 1386384,
+"s": "Strip",
+"t": 8
+},
+{
+"off": 1386392,
+"s": "StripEQmem",
+"t": 16
+},
+{
+"off": 1386408,
+"s": "BusEQmem",
+"t": 16
+},
+{
+"off": 1386424,
+"s": "VoiceMeeterBUSEQ",
+"t": 24
+},
+{
+"off": 1386448,
+"s": "VoiceMeeterStripEQ",
+"t": 24
+},
+{
+"off": 1387408,
+"s": "Load EQ Settings",
+"t": 24
+},
+{
+"off": 1387432,
+"s": "Save EQ Settings",
+"t": 24
+},
+{
+"off": 1387456,
+"s": "Scale: -18 to +18 dB",
+"t": 24
+},
+{
+"off": 1387480,
+"s": "Scale: -36 to +18 dB",
+"t": 24
+},
+{
+"off": 1387504,
+"s": "Scale: -54 to +24 dB",
+"t": 24
+},
+{
+"off": 1387528,
+"s": "Scale: -72 to +30 dB",
+"t": 24
+},
+{
+"off": 1387552,
+"s": "Arial Black",
+"t": 12
+},
+{
+"off": 1387564,
+"s": "no tap",
+"t": 12
+},
+{
+"off": 1387576,
+"s": "%i Tap - %0.0fms",
+"t": 24
+},
+{
+"off": 1387600,
+"s": "%i Tap - %0.1fs",
+"t": 16
+},
+{
+"off": 1387616,
+"s": "%i Band Comp",
+"t": 16
+},
+{
+"off": 1387632,
+"s": "-none-",
+"t": 8
+},
+{
+"off": 1387640,
+"s": "VBVASIOClientV2{D19E8F58-299D-4cf4-AFE8-19B4EA375BEE}",
+"t": 56
+},
+{
+"off": 1387696,
+"s": "VB-Audio\\VoiceMeeterPotatoIns",
+"t": 32
+},
+{
+"off": 1387728,
+"s": "VBVMCClientV2{7AA1489A-9DF2-47c3-928F-8E8A907F0575}",
+"t": 56
+},
+{
+"off": 1387784,
+"s": "VB-Audio\\VoiceMeeterCallback",
+"t": 32
+},
+{
+"off": 1387816,
+"s": "VBVMCClientV2{2BFD24C4-C655-4332-A0E7-B396EB1B9BDD}",
+"t": 56
+},
+{
+"off": 1387872,
+"s": "VB-Audio\\VoiceMeeterCallback_In",
+"t": 32
+},
+{
+"off": 1387904,
+"s": "VBVMCClientV2{D0E6B71F-8B6F-4cbc-8528-BCA32B887869}",
+"t": 56
+},
+{
+"off": 1387960,
+"s": "VB-Audio\\VoiceMeeterCallback_Out",
+"t": 36
+},
+{
+"off": 1387996,
+"s": "BUS B3",
+"t": 8
+},
+{
+"off": 1388004,
+"s": "BUS B2",
+"t": 8
+},
+{
+"off": 1388012,
+"s": "BUS B1",
+"t": 8
+},
+{
+"off": 1388020,
+"s": "BUS A5",
+"t": 8
+},
+{
+"off": 1388028,
+"s": "BUS A4",
+"t": 8
+},
+{
+"off": 1388036,
+"s": "BUS A3",
+"t": 8
+},
+{
+"off": 1388044,
+"s": "BUS A2",
+"t": 8
+},
+{
+"off": 1388052,
+"s": "BUS A1",
+"t": 8
+},
+{
+"off": 1388064,
+"s": "AUX",
+"t": 4
+},
+{
+"off": 1388068,
+"s": "Input",
+"t": 12
+},
+{
+"off": 1388080,
+"s": "Input #5",
+"t": 16
+},
+{
+"off": 1388096,
+"s": "Input #4",
+"t": 16
+},
+{
+"off": 1388112,
+"s": "Input #3",
+"t": 16
+},
+{
+"off": 1388128,
+"s": "Input #2",
+"t": 16
+},
+{
+"off": 1388144,
+"s": "Input #1",
+"t": 16
+},
+{
+"off": 1388160,
+"s": "Physical",
+"t": 16
+},
+{
+"off": 1388176,
+"s": "Target Directory:",
+"t": 24
+},
+{
+"off": 1388200,
+"s": "Prefix Name:",
+"t": 16
+},
+{
+"off": 1388216,
+"s": "Pre Recording Time (%is max):",
+"t": 32
+},
+{
+"off": 1388248,
+"s": "%i s",
+"t": 8
+},
+{
+"off": 1388256,
+"s": "File Type:",
+"t": 16
+},
+{
+"off": 1388272,
+"s": "Sample Rate:",
+"t": 16
+},
+{
+"off": 1388288,
+"s": "%i Hz",
+"t": 8
+},
+{
+"off": 1388296,
+"s": "Bit Resolution:",
+"t": 16
+},
+{
+"off": 1388312,
+"s": "%i Bits",
+"t": 8
+},
+{
+"off": 1388320,
+"s": "Channels:",
+"t": 16
+},
+{
+"off": 1388336,
+"s": "Bit Rate:",
+"t": 16
+},
+{
+"off": 1388352,
+"s": "%i kbps",
+"t": 8
+},
+{
+"off": 1388360,
+"s": "MULTITRACK OPTION > Generates %i Mono %s files:",
+"t": 48
+},
+{
+"off": 1388408,
+"s": "No",
+"t": 8
+},
+{
+"off": 1388416,
+"s": "Play On Load:",
+"t": 16
+},
+{
+"off": 1388432,
+"s": "Loop:",
+"t": 8
+},
+{
+"off": 1388440,
+"s": "Playback",
+"t": 12
+},
+{
+"off": 1388452,
+"s": "Gain:",
+"t": 12
+},
+{
+"off": 1388464,
+"s": "Stop Record:",
+"t": 16
+},
+{
+"off": 1388480,
+"s": "After Duration:",
+"t": 16
+},
+{
+"off": 1388496,
+"s": "%02i H %02i : %02i",
+"t": 24
+},
+{
+"off": 1388520,
+"s": "%02i min %02i s",
+"t": 16
+},
+{
+"off": 1388536,
+"s": "%i seconds",
+"t": 16
+},
+{
+"off": 1388600,
+"s": "Recorder Options",
+"t": 20
+},
+{
+"off": 1388620,
+"s": "System",
+"t": 12
+},
+{
+"off": 1388632,
+"s": "%0.1f db",
+"t": 12
+},
+{
+"off": 1388644,
+"s": "none",
+"t": 8
+},
+{
+"off": 1388652,
+"s": "Reset",
+"t": 20
+},
+{
+"off": 1388672,
+"s": "\t<C5LimGeneral mute='%i' automakeup='%i' nbBand='%i' MasterGain='%0.2f' freqRnk1='%0.1f' freqRnk2='%0.1f' freqRnk3='%0.1f' freqRnk4='%0.1f' />",
+"t": 144
+},
+{
+"off": 1388816,
+"s": "\t<C5LimBand index='%i' mute='%i' solo='%i' chain='%i' gain='%0.2f' compOn='%i' attack='%f' release='%f' knee='%f' ratio='%f' threshold='%f' gainOut='%f' limOn='%i' limit='%f' distorsion='%f' />",
+"t": 208
+},
+{
+"off": 1389280,
+"s": "C5LimBand",
+"t": 12
+},
+{
+"off": 1389292,
+"s": "mute",
+"t": 8
+},
+{
+"off": 1389300,
+"s": "solo",
+"t": 8
+},
+{
+"off": 1389308,
+"s": "chain",
+"t": 8
+},
+{
+"off": 1389316,
+"s": "gain",
+"t": 8
+},
+{
+"off": 1389324,
+"s": "compOn",
+"t": 8
+},
+{
+"off": 1389332,
+"s": "attack",
+"t": 12
+},
+{
+"off": 1389344,
+"s": "release",
+"t": 8
+},
+{
+"off": 1389352,
+"s": "knee",
+"t": 8
+},
+{
+"off": 1389360,
+"s": "ratio",
+"t": 8
+},
+{
+"off": 1389368,
+"s": "threshold",
+"t": 16
+},
+{
+"off": 1389384,
+"s": "gainOut",
+"t": 8
+},
+{
+"off": 1389392,
+"s": "limOn",
+"t": 8
+},
+{
+"off": 1389400,
+"s": "limit",
+"t": 8
+},
+{
+"off": 1389408,
+"s": "distorsion",
+"t": 16
+},
+{
+"off": 1389424,
+"s": "C5LimGeneral",
+"t": 16
+},
+{
+"off": 1389440,
+"s": "automakeup",
+"t": 16
+},
+{
+"off": 1389456,
+"s": "MasterGain",
+"t": 16
+},
+{
+"off": 1389472,
+"s": "freqRnk1",
+"t": 16
+},
+{
+"off": 1389488,
+"s": "freqRnk2",
+"t": 16
+},
+{
+"off": 1389504,
+"s": "freqRnk3",
+"t": 16
+},
+{
+"off": 1389520,
+"s": "freqRnk4",
+"t": 16
+},
+{
+"off": 1389592,
+"s": "VoiceMeeterC5Limiter",
+"t": 24
+},
+{
+"off": 1389616,
+"s": "C5-Limiter (MultiBand Compressor)",
+"t": 40
+},
+{
+"off": 1389656,
+"s": "Load C5-Limiter Settings",
+"t": 32
+},
+{
+"off": 1389688,
+"s": "Save C5-Limiter Settings",
+"t": 32
+},
+{
+"off": 1389720,
+"s": "%0.0fms",
+"t": 8
+},
+{
+"off": 1389728,
+"s": "%0.2fs",
+"t": 8
+},
+{
+"off": 1389736,
+"s": "-inf",
+"t": 8
+},
+{
+"off": 1389744,
+"s": "%0.1fdb",
+"t": 8
+},
+{
+"off": 1389752,
+"s": "%0.0fdb",
+"t": 8
+},
+{
+"off": 1389760,
+"s": "%0.1fs",
+"t": 8
+},
+{
+"off": 1389768,
+"s": "%0.0f%%",
+"t": 8
+},
+{
+"off": 1389776,
+"s": "%0.3f",
+"t": 8
+},
+{
+"off": 1389784,
+"s": "delay 10 meters",
+"t": 16
+},
+{
+"off": 1389800,
+"s": "delay 20 meters",
+"t": 16
+},
+{
+"off": 1389816,
+"s": "delay 50 meters",
+"t": 16
+},
+{
+"off": 1389832,
+"s": "delay 75 meters",
+"t": 16
+},
+{
+"off": 1389848,
+"s": "delay 100 meters",
+"t": 20
+},
+{
+"off": 1389868,
+"s": "+3 db",
+"t": 8
+},
+{
+"off": 1389876,
+"s": "0 db",
+"t": 8
+},
+{
+"off": 1389884,
+"s": "-6 db",
+"t": 8
+},
+{
+"off": 1389892,
+"s": "-24 db",
+"t": 8
+},
+{
+"off": 1389900,
+"s": "-3 db",
+"t": 20
+},
+{
+"off": 1389920,
+"s": "\t<ReverbGeneral mute='%i' nuPreset='%i' presetName='%s' dry='%f' wet='%f' />",
+"t": 80
+},
+{
+"off": 1390000,
+"s": "\t<ReverbParam predelay='%f' decay='%f' EarlyRefAmount='%f' EQmute='%i' />",
+"t": 80
+},
+{
+"off": 1390080,
+"s": "\t<ReverbEQ index='%i' eqon='%i' eqf='%f' eqq='%f' eqg='%f' />",
+"t": 64
+},
+{
+"off": 1390376,
+"s": "ReverbEQ",
+"t": 12
+},
+{
+"off": 1390388,
+"s": "eqon",
+"t": 8
+},
+{
+"off": 1390396,
+"s": "eqf",
+"t": 4
+},
+{
+"off": 1390400,
+"s": "eqq",
+"t": 4
+},
+{
+"off": 1390404,
+"s": "eqg",
+"t": 4
+},
+{
+"off": 1390408,
+"s": "ReverbGeneral",
+"t": 16
+},
+{
+"off": 1390424,
+"s": "nuPreset",
+"t": 12
+},
+{
+"off": 1390436,
+"s": "dry",
+"t": 4
+},
+{
+"off": 1390440,
+"s": "wet",
+"t": 8
+},
+{
+"off": 1390448,
+"s": "ReverbParam",
+"t": 16
+},
+{
+"off": 1390464,
+"s": "predelay",
+"t": 12
+},
+{
+"off": 1390476,
+"s": "decay",
+"t": 12
+},
+{
+"off": 1390488,
+"s": "EarlyRefAmount",
+"t": 16
+},
+{
+"off": 1390504,
+"s": "EQmute",
+"t": 8
+},
+{
+"off": 1390560,
+"s": "VoiceMeeterReverb",
+"t": 24
+},
+{
+"off": 1390584,
+"s": "JustVerb III (Reverb)",
+"t": 24
+},
+{
+"off": 1390608,
+"s": "Load Reverb Settings",
+"t": 24
+},
+{
+"off": 1390632,
+"s": "Save Reverb Settings",
+"t": 24
+},
+{
+"off": 1390656,
+"s": "Set Note For This Tap",
+"t": 24
+},
+{
+"off": 1390680,
+"s": "Set Note For Every Tap",
+"t": 24
+},
+{
+"off": 1390704,
+"s": "Over",
+"t": 8
+},
+{
+"off": 1390712,
+"s": "%0.1fms",
+"t": 8
+},
+{
+"off": 1390720,
+"s": "-100.0db",
+"t": 12
+},
+{
+"off": 1390732,
+"s": "detect",
+"t": 12
+},
+{
+"off": 1390744,
+"s": "BPM %0.2f (T=%0.1fms)",
+"t": 24
+},
+{
+"off": 1390768,
+"s": "%0.0f ms",
+"t": 16
+},
+{
+"off": 1390784,
+"s": "New Tempo Locked : %0.1f bpm",
+"t": 32
+},
+{
+"off": 1390816,
+"s": "+1",
+"t": 4
+},
+{
+"off": 1390820,
+"s": "-1",
+"t": 4
+},
+{
+"off": 1390824,
+"s": "%0.3f s",
+"t": 8
+},
+{
+"off": 1390832,
+"s": "G=%.0f%%",
+"t": 16
+},
+{
+"off": 1390848,
+"s": "Pan=%.0f%%",
+"t": 16
+},
+{
+"off": 1390864,
+"s": "\t<MultiTapGeneral mute='%i' balance_left='%f' balance_right='%f' dry='%f' wet='%f' autofit='%i' phase='%i' />",
+"t": 112
+},
+{
+"off": 1390976,
+"s": "\t<MultiTapDelay predelay='%f' timeratio='%f' currentBPM='%f' feedback='%f' feedbacktype='%i' />",
+"t": 96
+},
+{
+"off": 1391072,
+"s": "\t<MultiTapParam index='%i' tapon='%i' delay='%f' gain='%f' filtergain='%f' pan='%f' />",
+"t": 96
+},
+{
+"off": 1391416,
+"s": "MultiTapParam",
+"t": 16
+},
+{
+"off": 1391432,
+"s": "tapon",
+"t": 8
+},
+{
+"off": 1391440,
+"s": "filtergain",
+"t": 12
+},
+{
+"off": 1391452,
+"s": "pan",
+"t": 4
+},
+{
+"off": 1391456,
+"s": "MultiTapGeneral",
+"t": 16
+},
+{
+"off": 1391472,
+"s": "balance_left",
+"t": 16
+},
+{
+"off": 1391488,
+"s": "balance_right",
+"t": 16
+},
+{
+"off": 1391504,
+"s": "autofit",
+"t": 8
+},
+{
+"off": 1391512,
+"s": "phase",
+"t": 8
+},
+{
+"off": 1391520,
+"s": "MultiTapDelay",
+"t": 16
+},
+{
+"off": 1391536,
+"s": "timeratio",
+"t": 16
+},
+{
+"off": 1391552,
+"s": "currentBPM",
+"t": 16
+},
+{
+"off": 1391568,
+"s": "feedback",
+"t": 16
+},
+{
+"off": 1391584,
+"s": "feedbacktype",
+"t": 16
+},
+{
+"off": 1391656,
+"s": "VoiceMeeterMultiTap",
+"t": 24
+},
+{
+"off": 1391680,
+"s": "MultiTap (Delay)",
+"t": 24
+},
+{
+"off": 1391704,
+"s": "Load MultiTap Settings",
+"t": 24
+},
+{
+"off": 1391728,
+"s": "Save MultiTap Settings",
+"t": 24
+},
+{
+"off": 1391752,
+"s": "B3",
+"t": 4
+},
+{
+"off": 1391756,
+"s": "B2",
+"t": 4
+},
+{
+"off": 1391760,
+"s": "B1",
+"t": 4
+},
+{
+"off": 1391764,
+"s": "A5",
+"t": 4
+},
+{
+"off": 1391768,
+"s": "A4",
+"t": 4
+},
+{
+"off": 1391772,
+"s": "A3",
+"t": 4
+},
+{
+"off": 1391776,
+"s": "A2",
+"t": 4
+},
+{
+"off": 1391780,
+"s": "A1",
+"t": 4
+},
+{
+"off": 1391784,
+"s": "IN#8 BR",
+"t": 8
+},
+{
+"off": 1391792,
+"s": "IN#8 BL",
+"t": 8
+},
+{
+"off": 1391800,
+"s": "IN#8 SR",
+"t": 8
+},
+{
+"off": 1391808,
+"s": "IN#8 SL",
+"t": 8
+},
+{
+"off": 1391816,
+"s": "IN#8 LFE",
+"t": 16
+},
+{
+"off": 1391832,
+"s": "IN#8 Center",
+"t": 16
+},
+{
+"off": 1391848,
+"s": "IN#8 Right",
+"t": 16
+},
+{
+"off": 1391864,
+"s": "IN#8 Left",
+"t": 16
+},
+{
+"off": 1391880,
+"s": "IN#7 BR",
+"t": 8
+},
+{
+"off": 1391888,
+"s": "IN#7 BL",
+"t": 8
+},
+{
+"off": 1391896,
+"s": "IN#7 SR",
+"t": 8
+},
+{
+"off": 1391904,
+"s": "IN#7 SL",
+"t": 8
+},
+{
+"off": 1391912,
+"s": "IN#7 LFE",
+"t": 16
+},
+{
+"off": 1391928,
+"s": "IN#7 Center",
+"t": 16
+},
+{
+"off": 1391944,
+"s": "IN#7 Right",
+"t": 16
+},
+{
+"off": 1391960,
+"s": "IN#7 Left",
+"t": 16
+},
+{
+"off": 1391976,
+"s": "IN#6 BR",
+"t": 8
+},
+{
+"off": 1391984,
+"s": "IN#6 BL",
+"t": 8
+},
+{
+"off": 1391992,
+"s": "IN#6 SR",
+"t": 8
+},
+{
+"off": 1392000,
+"s": "IN#6 SL",
+"t": 8
+},
+{
+"off": 1392008,
+"s": "IN#6 LFE",
+"t": 16
+},
+{
+"off": 1392024,
+"s": "IN#6 Center",
+"t": 16
+},
+{
+"off": 1392040,
+"s": "IN#6 Right",
+"t": 16
+},
+{
+"off": 1392056,
+"s": "IN#6 Left",
+"t": 16
+},
+{
+"off": 1392072,
+"s": "IN#5 Right",
+"t": 16
+},
+{
+"off": 1392088,
+"s": "IN#5 Left",
+"t": 16
+},
+{
+"off": 1392104,
+"s": "IN#4 Right",
+"t": 16
+},
+{
+"off": 1392120,
+"s": "IN#4 Left",
+"t": 16
+},
+{
+"off": 1392136,
+"s": "IN#3 Right",
+"t": 16
+},
+{
+"off": 1392152,
+"s": "IN#3 Left",
+"t": 16
+},
+{
+"off": 1392168,
+"s": "IN#2 Right",
+"t": 16
+},
+{
+"off": 1392184,
+"s": "IN#2 Left",
+"t": 16
+},
+{
+"off": 1392200,
+"s": "IN#1 Right",
+"t": 16
+},
+{
+"off": 1392216,
+"s": "IN#1 Left",
+"t": 16
+},
+{
+"off": 1392232,
+"s": "Virtual In #3",
+"t": 16
+},
+{
+"off": 1392248,
+"s": "Virtual In #2",
+"t": 16
+},
+{
+"off": 1392264,
+"s": "Virtual In #1",
+"t": 16
+},
+{
+"off": 1392280,
+"s": "In #5",
+"t": 8
+},
+{
+"off": 1392288,
+"s": "In #4",
+"t": 8
+},
+{
+"off": 1392296,
+"s": "In #3",
+"t": 8
+},
+{
+"off": 1392304,
+"s": "In #2",
+"t": 8
+},
+{
+"off": 1392312,
+"s": "In #1",
+"t": 8
+},
+{
+"off": 1392320,
+"s": "Function",
+"t": 16
+},
+{
+"off": 1392336,
+"s": "Comment",
+"t": 8
+},
+{
+"off": 1392344,
+"s": "HelpItem",
+"t": 16
+},
+{
+"off": 1392360,
+"s": "VoiceMeeterCaptionHelp",
+"t": 24
+},
+{
+"off": 1392384,
+"s": "type",
+"t": 8
+},
+{
+"off": 1392392,
+"s": "language",
+"t": 16
+},
+{
+"off": 1392408,
+"s": "HELP_PREFIX",
+"t": 16
+},
+{
+"off": 1392424,
+"s": "C:\\temp\\",
+"t": 16
+},
+{
+"off": 1392440,
+"s": "VoicemeeterPotato_LogFile.txt",
+"t": 32
+},
+{
+"off": 1392472,
+"s": "[MM/JJ/YYYY-Time]-%02i/%02i/%04i-%02i:%02i:%02i.%03i -> ",
+"t": 64
+},
+{
+"off": 1392536,
+"s": "Voicemeeter (VB-Audio)",
+"t": 24
+},
+{
+"off": 1392560,
+"s": "VoiceMeeterPotatoDefault.xml",
+"t": 32
+},
+{
+"off": 1392592,
+"s": "Voicemeeter",
+"t": 16
+},
+{
+"off": 1392608,
+"s": "VoicemeeterPotato_LastSettings.xml",
+"t": 40
+},
+{
+"off": 1392648,
+"s": "VoicemeeterPotato_TodaySettings.xml",
+"t": 40
+},
+{
+"off": 1392688,
+"s": "VoicemeeterPotato_YesterdaySettings.xml",
+"t": 40
+},
+{
+"off": 1392800,
+"s": "VBDeviceCheck.exe",
+"t": 20
+},
+{
+"off": 1392820,
+"s": "-h -H",
+"t": 12
+},
+{
+"off": 1392832,
+"s": "VMPVAIOExtension",
+"t": 24
+},
+{
+"off": 1392856,
+"s": " (64 bits)",
+"t": 16
+},
+{
+"off": 1392872,
+"s": "Extra VAIO Feature License",
+"t": 32
+},
+{
+"off": 1392904,
+"s": "Voicemeeter Potato",
+"t": 24
+},
+{
+"off": 1392928,
+"s": "VBVMRClient{E027B281-4BF3-4a90-8AA8-62EA7A9FFC1A}",
+"t": 56
+},
+{
+"off": 1392984,
+"s": "Feedback Value ON:",
+"t": 24
+},
+{
+"off": 1393008,
+"s": "Feedback Value OFF:",
+"t": 24
+},
+{
+"off": 1393032,
+"s": "Feedback Message ON (HEXA):",
+"t": 32
+},
+{
+"off": 1393064,
+"s": "Feedback Message OFF (HEXA):",
+"t": 32
+},
+{
+"off": 1393096,
+"s": "MIDI Feedback Options...",
+"t": 32
+},
+{
+"off": 1393128,
+"s": "(coder s)",
+"t": 12
+},
+{
+"off": 1393140,
+"s": "Learn",
+"t": 8
+},
+{
+"off": 1393148,
+"s": "FF",
+"t": 4
+},
+{
+"off": 1393160,
+"s": "Next Page >>",
+"t": 16
+},
+{
+"off": 1393176,
+"s": "<< Prev. Page",
+"t": 16
+},
+{
+"off": 1393192,
+"s": "Load",
+"t": 8
+},
+{
+"off": 1393200,
+"s": "M.I.D.I. Map",
+"t": 16
+},
+{
+"off": 1393216,
+"s": "Save",
+"t": 8
+},
+{
+"off": 1393224,
+"s": "Controller",
+"t": 16
+},
+{
+"off": 1393240,
+"s": "M.I.D.I. Input Device:",
+"t": 24
+},
+{
+"off": 1393264,
+"s": "Not Selected",
+"t": 16
+},
+{
+"off": 1393280,
+"s": "M.I.D.I. Map Name:",
+"t": 24
+},
+{
+"off": 1393304,
+"s": "M.I.D.I. Output Device (feedback):",
+"t": 40
+},
+{
+"off": 1393344,
+"s": "M.I.D.I. Extra Input Device:",
+"t": 32
+},
+{
+"off": 1393376,
+"s": "VBAN M.I.D.I. input",
+"t": 24
+},
+{
+"off": 1393400,
+"s": "Page %i / %i",
+"t": 16
+},
+{
+"off": 1393416,
+"s": "- No Midi -",
+"t": 16
+},
+{
+"off": 1393712,
+"s": "VoiceMeeterMidiMap",
+"t": 24
+},
+{
+"off": 1393736,
+"s": "Reset Map",
+"t": 24
+},
+{
+"off": 1393801,
+"s": "Do you want to continue?",
+"t": 31
+},
+{
+"off": 1393832,
+"s": "Control Type: Linear (regular)",
+"t": 32
+},
+{
+"off": 1393864,
+"s": "Control Type: Coder offset",
+"t": 32
+},
+{
+"off": 1393896,
+"s": "Control Type: Coder sign bit (Mackie)",
+"t": 40
+},
+{
+"off": 1393936,
+"s": "M.I.D.I. Mapping",
+"t": 20
+},
+{
+"off": 1393956,
+"s": "VBAN",
+"t": 8
+},
+{
+"off": 1393964,
+"s": "status",
+"t": 12
+},
+{
+"off": 1393976,
+"s": "username",
+"t": 12
+},
+{
+"off": 1393988,
+"s": "color",
+"t": 12
+},
+{
+"off": 1394000,
+"s": "VBANStreamIn",
+"t": 16
+},
+{
+"off": 1394016,
+"s": "in",
+"t": 4
+},
+{
+"off": 1394020,
+"s": "name",
+"t": 8
+},
+{
+"off": 1394028,
+"s": "ip",
+"t": 4
+},
+{
+"off": 1394032,
+"s": "port",
+"t": 8
+},
+{
+"off": 1394040,
+"s": "NQ",
+"t": 8
+},
+{
+"off": 1394048,
+"s": "VBANDataIn",
+"t": 16
+},
+{
+"off": 1394064,
+"s": "VBANCommandIn",
+"t": 16
+},
+{
+"off": 1394080,
+"s": "mouse",
+"t": 8
+},
+{
+"off": 1394088,
+"s": "VBANStreamOut",
+"t": 16
+},
+{
+"off": 1394104,
+"s": "bus",
+"t": 4
+},
+{
+"off": 1394108,
+"s": "SR",
+"t": 4
+},
+{
+"off": 1394112,
+"s": "ch",
+"t": 4
+},
+{
+"off": 1394116,
+"s": "format",
+"t": 12
+},
+{
+"off": 1394128,
+"s": "VBANDataOut",
+"t": 12
+},
+{
+"off": 1394140,
+"s": "source",
+"t": 12
+},
+{
+"off": 1394152,
+"s": "VBANFrameOut",
+"t": 16
+},
+{
+"off": 1394168,
+"s": "mbps",
+"t": 8
+},
+{
+"off": 1394176,
+"s": "fps",
+"t": 4
+},
+{
+"off": 1394180,
+"s": "cursor",
+"t": 12
+},
+{
+"off": 1394192,
+"s": "quality",
+"t": 8
+},
+{
+"off": 1394896,
+"s": "%i bps ",
+"t": 8
+},
+{
+"off": 1394904,
+"s": "log %0.1f %%",
+"t": 16
+},
+{
+"off": 1394920,
+"s": "%i,%i,%i,%i, %i",
+"t": 16
+},
+{
+"off": 1394936,
+"s": "Fast",
+"t": 8
+},
+{
+"off": 1394944,
+"s": "Medium",
+"t": 8
+},
+{
+"off": 1394952,
+"s": "Slow",
+"t": 8
+},
+{
+"off": 1394960,
+"s": "Very Slow",
+"t": 12
+},
+{
+"off": 1394972,
+"s": "On",
+"t": 4
+},
+{
+"off": 1394976,
+"s": "Any address",
+"t": 16
+},
+{
+"off": 1394992,
+"s": "Remoting",
+"t": 16
+},
+{
+"off": 1395008,
+"s": "%i / %i",
+"t": 8
+},
+{
+"off": 1395016,
+"s": "%i FPS",
+"t": 8
+},
+{
+"off": 1395024,
+"s": "%i %%",
+"t": 8
+},
+{
+"off": 1395032,
+"s": "%i mbps",
+"t": 8
+},
+{
+"off": 1395040,
+"s": "Config",
+"t": 8
+},
+{
+"off": 1395048,
+"s": "is OFF",
+"t": 8
+},
+{
+"off": 1395056,
+"s": "is ON",
+"t": 8
+},
+{
+"off": 1395064,
+"s": "UDP Port:",
+"t": 16
+},
+{
+"off": 1395080,
+"s": "Main Stream",
+"t": 16
+},
+{
+"off": 1395096,
+"s": "%i Stream Detected",
+"t": 24
+},
+{
+"off": 1395120,
+"s": "%i Streams Detected",
+"t": 20
+},
+{
+"off": 1395140,
+"s": "VB",
+"t": 4
+},
+{
+"off": 1395144,
+"s": "IP",
+"t": 4
+},
+{
+"off": 1395148,
+"s": "Host",
+"t": 12
+},
+{
+"off": 1395160,
+"s": "Incoming Streams:",
+"t": 24
+},
+{
+"off": 1395184,
+"s": "Stream Name:",
+"t": 16
+},
+{
+"off": 1395200,
+"s": "IP Address From:",
+"t": 20
+},
+{
+"off": 1395220,
+"s": "Info:",
+"t": 8
+},
+{
+"off": 1395228,
+"s": "Port:",
+"t": 12
+},
+{
+"off": 1395240,
+"s": "SamplerRate:",
+"t": 16
+},
+{
+"off": 1395256,
+"s": "Net Quality:",
+"t": 16
+},
+{
+"off": 1395272,
+"s": "Destination:",
+"t": 16
+},
+{
+"off": 1395288,
+"s": "Outgoing Streams:",
+"t": 24
+},
+{
+"off": 1395312,
+"s": "IP Address To:",
+"t": 16
+},
+{
+"off": 1395328,
+"s": "Capture Mouse Curcor",
+"t": 24
+},
+{
+"off": 1395352,
+"s": "%i channels",
+"t": 12
+},
+{
+"off": 1395364,
+"s": " from ",
+"t": 12
+},
+{
+"off": 1395376,
+"s": " (%i Hz, %i channels)",
+"t": 24
+},
+{
+"off": 1395400,
+"s": "IP-Address used: %i.%i.%i.%i",
+"t": 32
+},
+{
+"off": 1395432,
+"s": "IP-Address used: not found.",
+"t": 32
+},
+{
+"off": 1395464,
+"s": "Log Packet Timing",
+"t": 24
+},
+{
+"off": 1395488,
+"s": "Save Current Log",
+"t": 24
+},
+{
+"off": 1395512,
+"s": "Stop Log",
+"t": 24
+},
+{
+"off": 1395832,
+"s": "VBANConfiguration",
+"t": 20
+},
+{
+"off": 1395852,
+"s": "EN",
+"t": 4
+},
+{
+"off": 1395856,
+"s": "Windows PC",
+"t": 16
+},
+{
+"off": 1395872,
+"s": "VB-Audio Software",
+"t": 20
+},
+{
+"off": 1395892,
+"s": "MIDI1",
+"t": 12
+},
+{
+"off": 1395904,
+"s": "Command1",
+"t": 16
+},
+{
+"off": 1395920,
+"s": "VIDEO%i",
+"t": 8
+},
+{
+"off": 1395928,
+"s": "Stream Identification Conflict",
+"t": 40
+},
+{
+"off": 1396256,
+"s": "Reset VBAN",
+"t": 16
+},
+{
+"off": 1396314,
+"s": "Do you want to continue?",
+"t": 38
+},
+{
+"off": 1396640,
+"s": "ipv4: %i.%i.%i.%i",
+"t": 24
+},
+{
+"off": 1396664,
+"s": "Hostname: %s",
+"t": 16
+},
+{
+"off": 1396680,
+"s": "Device: %s",
+"t": 16
+},
+{
+"off": 1396696,
+"s": "Application: %s",
+"t": 16
+},
+{
+"off": 1396712,
+"s": "Language / Country: %s",
+"t": 24
+},
+{
+"off": 1396736,
+"s": "TimeStamp: %02i:%02i:%02i",
+"t": 32
+},
+{
+"off": 1396768,
+"s": "TimeStamp: %04i-%s-%02i / %02i:%02i:%02i",
+"t": 48
+},
+{
+"off": 1396816,
+"s": "Send VBAN-Ping...",
+"t": 24
+},
+{
+"off": 1396840,
+"s": "ipv4: not found",
+"t": 16
+},
+{
+"off": 1396856,
+"s": "... Searching IP Address...",
+"t": 32
+},
+{
+"off": 1396888,
+"s": "Retry to resolve IP Address...",
+"t": 32
+},
+{
+"off": 1397032,
+"s": "VB-Audio Network Configuration",
+"t": 32
+},
+{
+"off": 1397192,
+"s": "System Timer Resolution: %0.3f ms",
+"t": 40
+},
+{
+"off": 1397232,
+"s": "Audio Points:",
+"t": 16
+},
+{
+"off": 1397248,
+"s": "Hardware Input #%i:",
+"t": 24
+},
+{
+"off": 1397272,
+"s": "Hardware Output A%i:",
+"t": 24
+},
+{
+"off": 1397296,
+"s": "Virtual I/O:",
+"t": 16
+},
+{
+"off": 1397312,
+"s": "Virtual AUX I/O:",
+"t": 24
+},
+{
+"off": 1397336,
+"s": "Virtual VAIO3:",
+"t": 16
+},
+{
+"off": 1397352,
+"s": "VBAN Input Streams:",
+"t": 24
+},
+{
+"off": 1397376,
+"s": "Stream #%i:",
+"t": 16
+},
+{
+"off": 1397392,
+"s": "%i / %02i:%02i:%02i",
+"t": 24
+},
+{
+"off": 1397416,
+"s": "%i / %i / %i",
+"t": 16
+},
+{
+"off": 1397432,
+"s": "%i / %i / %i / %i / %i",
+"t": 24
+},
+{
+"off": 1397456,
+"s": "AUDIO QOS Statistics...",
+"t": 24
+},
+{
+"off": 1397480,
+"s": "BUS ch%i",
+"t": 24
+},
+{
+"off": 1397504,
+"s": "Select PRE-Fader Inputs used by Composite Mode (for 8 Channels of the BUS)",
+"t": 80
+},
+{
+"off": 1397584,
+"s": "Select POST-Fader Inputs used by Composite Mode (for 8 Channels of the BUS)",
+"t": 76
+},
+{
+"off": 1397660,
+"s": "ON",
+"t": 4
+},
+{
+"off": 1397664,
+"s": "Relative",
+"t": 16
+},
+{
+"off": 1397680,
+"s": "Absolute",
+"t": 12
+},
+{
+"off": 1397692,
+"s": "PRE-FX",
+"t": 8
+},
+{
+"off": 1397700,
+"s": "Reverb",
+"t": 8
+},
+{
+"off": 1397708,
+"s": "C5",
+"t": 4
+},
+{
+"off": 1397712,
+"s": "Important Warning",
+"t": 32
+},
+{
+"off": 1397954,
+"s": "we recommend to go back to default settings.",
+"t": 46
+},
+{
+"off": 1398000,
+"s": "WDM Expert Options",
+"t": 32
+},
+{
+"off": 1398136,
+"s": "Status: OFF",
+"t": 16
+},
+{
+"off": 1398152,
+"s": "Status: ON",
+"t": 16
+},
+{
+"off": 1398168,
+"s": "SR: %i Hz",
+"t": 12
+},
+{
+"off": 1398180,
+"s": "buf:%i",
+"t": 8
+},
+{
+"off": 1398188,
+"s": "ch:%i",
+"t": 8
+},
+{
+"off": 1398196,
+"s": "r:%i",
+"t": 12
+},
+{
+"off": 1398280,
+"s": "Voicemeeter Version: %s (64 bits)",
+"t": 40
+},
+{
+"off": 1398320,
+"s": "IN%i Physical Input #%i",
+"t": 32
+},
+{
+"off": 1398416,
+"s": "OUT A%i",
+"t": 8
+},
+{
+"off": 1398424,
+"s": " Main Device",
+"t": 16
+},
+{
+"off": 1400096,
+"s": "System settings / Options...",
+"t": 32
+},
+{
+"off": 1400128,
+"s": "ASIO Data Type Change",
+"t": 32
+},
+{
+"off": 1400198,
+"s": "Voicemeeter application needs to be restarted...",
+"t": 50
+},
+{
+"off": 1400248,
+"s": "StopAudioEngine()",
+"t": 24
+},
+{
+"off": 1400576,
+"s": "Please configure your ASIO driver with standard SampleRate",
+"t": 64
+},
+{
+"off": 1400728,
+"s": "Failed to prepare audio devices",
+"t": 32
+},
+{
+"off": 1400760,
+"s": "Pro Audio",
+"t": 16
+},
+{
+"off": 1400776,
+"s": "Failed to prepare all audio devices",
+"t": 40
+},
+{
+"off": 1400816,
+"s": "StartAudioEngine()",
+"t": 24
+},
+{
+"off": 1400840,
+"s": "AutoUpMixMode",
+"t": 24
+},
+{
+"off": 1401234,
+"s": "Close the other application.",
+"t": 30
+},
+{
+"off": 1401264,
+"s": "COMP: %s",
+"t": 16
+},
+{
+"off": 1401280,
+"s": "GATE: %s",
+"t": 16
+},
+{
+"off": 1401296,
+"s": "Compressor Details",
+"t": 24
+},
+{
+"off": 1401320,
+"s": "Gate Details",
+"t": 24
+},
+{
+"off": 1401472,
+"s": "%04i/%02i/%02i - %02ih%02i:%02i",
+"t": 32
+},
+{
+"off": 1401776,
+"s": "PresetName",
+"t": 16
+},
+{
+"off": 1401792,
+"s": "StripPitch",
+"t": 16
+},
+{
+"off": 1401808,
+"s": "pitchon",
+"t": 8
+},
+{
+"off": 1401816,
+"s": "drywet",
+"t": 8
+},
+{
+"off": 1401824,
+"s": "pitchvalue",
+"t": 16
+},
+{
+"off": 1401840,
+"s": "formantlo",
+"t": 16
+},
+{
+"off": 1401856,
+"s": "formantmed",
+"t": 16
+},
+{
+"off": 1401872,
+"s": "formanthigh",
+"t": 16
+},
+{
+"off": 1402000,
+"s": "Rename Preset",
+"t": 16
+},
+{
+"off": 1402016,
+"s": "Store current values",
+"t": 24
+},
+{
+"off": 1402040,
+"s": "Reset Preset",
+"t": 16
+},
+{
+"off": 1402056,
+"s": "Load Pitch Preset...",
+"t": 24
+},
+{
+"off": 1402080,
+"s": "Save Pitch Preset As...",
+"t": 24
+},
+{
+"off": 1402104,
+"s": "Denoiser",
+"t": 16
+},
+{
+"off": 1402120,
+"s": "Voice Modeler",
+"t": 16
+},
+{
+"off": 1402136,
+"s": "Preset",
+"t": 8
+},
+{
+"off": 1402144,
+"s": "BufferingMME",
+"t": 16
+},
+{
+"off": 1402160,
+"s": "BufferingWDM",
+"t": 16
+},
+{
+"off": 1402176,
+"s": "BufferingKS",
+"t": 16
+},
+{
+"off": 1402192,
+"s": "BufferingASIO",
+"t": 16
+},
+{
+"off": 1402208,
+"s": "SRASIO",
+"t": 8
+},
+{
+"off": 1402216,
+"s": "ClockPreferredLatency",
+"t": 24
+},
+{
+"off": 1402240,
+"s": "OutBusLimiter",
+"t": 16
+},
+{
+"off": 1402256,
+"s": "VAIOSynchronized",
+"t": 24
+},
+{
+"off": 1402280,
+"s": "VAIOLatency%i",
+"t": 16
+},
+{
+"off": 1402296,
+"s": "preferredSR",
+"t": 16
+},
+{
+"off": 1402312,
+"s": "MaxMonDelayMS",
+"t": 16
+},
+{
+"off": 1402328,
+"s": "preferredResolution",
+"t": 24
+},
+{
+"off": 1402352,
+"s": "DelayedStartS",
+"t": 16
+},
+{
+"off": 1406184,
+"s": "\t<OutputDev index='%i' type='%i' name=\"%s\" ",
+"t": 48
+},
+{
+"off": 1406232,
+"s": "patch%i='%i' ",
+"t": 16
+},
+{
+"off": 1406256,
+"s": "\t<OutputDev index='%i' name=\"-\" ",
+"t": 40
+},
+{
+"off": 1406296,
+"s": "pOut%i='%i' ",
+"t": 16
+},
+{
+"off": 1407232,
+"s": "OptionDev",
+"t": 12
+},
+{
+"off": 1407244,
+"s": "mme",
+"t": 4
+},
+{
+"off": 1407248,
+"s": "wdm",
+"t": 4
+},
+{
+"off": 1407252,
+"s": "ks",
+"t": 4
+},
+{
+"off": 1407256,
+"s": "asio",
+"t": 8
+},
+{
+"off": 1407264,
+"s": "srasio",
+"t": 8
+},
+{
+"off": 1407272,
+"s": "msA1",
+"t": 8
+},
+{
+"off": 1407280,
+"s": "msA2",
+"t": 8
+},
+{
+"off": 1407288,
+"s": "msA3",
+"t": 8
+},
+{
+"off": 1407296,
+"s": "msA4",
+"t": 8
+},
+{
+"off": 1407304,
+"s": "msA5",
+"t": 8
+},
+{
+"off": 1407312,
+"s": "ExternalFXsend",
+"t": 16
+},
+{
+"off": 1407328,
+"s": "send%ich%i",
+"t": 16
+},
+{
+"off": 1407344,
+"s": "ExternalFXreturn",
+"t": 24
+},
+{
+"off": 1407368,
+"s": "ret%ich%i",
+"t": 16
+},
+{
+"off": 1407384,
+"s": "InputDev",
+"t": 16
+},
+{
+"off": 1407400,
+"s": "OutputDev",
+"t": 16
+},
+{
+"off": 1407416,
+"s": "patch%i",
+"t": 8
+},
+{
+"off": 1407424,
+"s": "pOut%i",
+"t": 8
+},
+{
+"off": 1407432,
+"s": "MIDIDevIn",
+"t": 16
+},
+{
+"off": 1407448,
+"s": "MIDIDevOut",
+"t": 16
+},
+{
+"off": 1407464,
+"s": "VoiceMeeterReverbMem",
+"t": 24
+},
+{
+"off": 1407488,
+"s": "abmem",
+"t": 8
+},
+{
+"off": 1407496,
+"s": "abselected",
+"t": 16
+},
+{
+"off": 1407512,
+"s": "VoiceMeeterDelay",
+"t": 24
+},
+{
+"off": 1407536,
+"s": "VoiceMeeterDelayMem",
+"t": 24
+},
+{
+"off": 1407560,
+"s": "VoiceMeeterC5LimiterMem",
+"t": 24
+},
+{
+"off": 1407584,
+"s": "StripComp",
+"t": 12
+},
+{
+"off": 1407596,
+"s": "gainin",
+"t": 12
+},
+{
+"off": 1407608,
+"s": "comprate",
+"t": 16
+},
+{
+"off": 1407624,
+"s": "gainout",
+"t": 8
+},
+{
+"off": 1407632,
+"s": "StripGate",
+"t": 16
+},
+{
+"off": 1407648,
+"s": "thresin",
+"t": 8
+},
+{
+"off": 1407656,
+"s": "damping",
+"t": 8
+},
+{
+"off": 1407664,
+"s": "bpsidechain",
+"t": 12
+},
+{
+"off": 1407676,
+"s": "hold",
+"t": 8
+},
+{
+"off": 1407684,
+"s": "layout",
+"t": 8
+},
+{
+"off": 1407692,
+"s": "vaio",
+"t": 8
+},
+{
+"off": 1407700,
+"s": "muc",
+"t": 4
+},
+{
+"off": 1407704,
+"s": "karaoke",
+"t": 8
+},
+{
+"off": 1407712,
+"s": "stripmode",
+"t": 12
+},
+{
+"off": 1407724,
+"s": "prg_c",
+"t": 8
+},
+{
+"off": 1407732,
+"s": "prg_g",
+"t": 8
+},
+{
+"off": 1407740,
+"s": "prg_d",
+"t": 8
+},
+{
+"off": 1407748,
+"s": "busa",
+"t": 8
+},
+{
+"off": 1407756,
+"s": "busa2",
+"t": 8
+},
+{
+"off": 1407764,
+"s": "busa3",
+"t": 8
+},
+{
+"off": 1407772,
+"s": "busa4",
+"t": 8
+},
+{
+"off": 1407780,
+"s": "busa5",
+"t": 8
+},
+{
+"off": 1407788,
+"s": "busb",
+"t": 8
+},
+{
+"off": 1407796,
+"s": "busb2",
+"t": 8
+},
+{
+"off": 1407804,
+"s": "busb3",
+"t": 12
+},
+{
+"off": 1407816,
+"s": "greenmode",
+"t": 16
+},
+{
+"off": 1407832,
+"s": "dblimit",
+"t": 8
+},
+{
+"off": 1407840,
+"s": "layer%i",
+"t": 8
+},
+{
+"off": 1407848,
+"s": "sendR",
+"t": 8
+},
+{
+"off": 1407856,
+"s": "postR",
+"t": 8
+},
+{
+"off": 1407864,
+"s": "sendD",
+"t": 8
+},
+{
+"off": 1407872,
+"s": "postD",
+"t": 8
+},
+{
+"off": 1407880,
+"s": "sendFx1",
+"t": 8
+},
+{
+"off": 1407888,
+"s": "postFx1",
+"t": 8
+},
+{
+"off": 1407896,
+"s": "sendFx2",
+"t": 8
+},
+{
+"off": 1407904,
+"s": "postFx2",
+"t": 8
+},
+{
+"off": 1407912,
+"s": "paneltype",
+"t": 12
+},
+{
+"off": 1407924,
+"s": "panelx",
+"t": 8
+},
+{
+"off": 1407932,
+"s": "panely",
+"t": 12
+},
+{
+"off": 1407944,
+"s": "3DPanelx",
+"t": 16
+},
+{
+"off": 1407960,
+"s": "3DPanely",
+"t": 16
+},
+{
+"off": 1407976,
+"s": "Panel3Dx",
+"t": 16
+},
+{
+"off": 1407992,
+"s": "Panel3Dy",
+"t": 16
+},
+{
+"off": 1408008,
+"s": "ColorPanelx",
+"t": 16
+},
+{
+"off": 1408024,
+"s": "ColorPanely",
+"t": 16
+},
+{
+"off": 1408040,
+"s": "ModPanelx",
+"t": 16
+},
+{
+"off": 1408056,
+"s": "ModPanely",
+"t": 16
+},
+{
+"off": 1408072,
+"s": "audibility_c",
+"t": 16
+},
+{
+"off": 1408088,
+"s": "audibility_g",
+"t": 16
+},
+{
+"off": 1408104,
+"s": "denoiser_g",
+"t": 16
+},
+{
+"off": 1408120,
+"s": "dn_bypass",
+"t": 16
+},
+{
+"off": 1408136,
+"s": "dn_learn",
+"t": 16
+},
+{
+"off": 1408152,
+"s": "audibility",
+"t": 16
+},
+{
+"off": 1408168,
+"s": "EQGain1",
+"t": 8
+},
+{
+"off": 1408176,
+"s": "EQGain2",
+"t": 8
+},
+{
+"off": 1408184,
+"s": "EQGain3",
+"t": 8
+},
+{
+"off": 1408192,
+"s": "VoiceMeeterBUSEQMem",
+"t": 24
+},
+{
+"off": 1408216,
+"s": "VoiceMeeterStripEQMem",
+"t": 24
+},
+{
+"off": 1408240,
+"s": "VMOptions",
+"t": 16
+},
+{
+"off": 1408256,
+"s": "MonitorOnSEL",
+"t": 16
+},
+{
+"off": 1408272,
+"s": "SliderRelative",
+"t": 16
+},
+{
+"off": 1408288,
+"s": "K7BUSRoute",
+"t": 16
+},
+{
+"off": 1408304,
+"s": "PatchComposite",
+"t": 16
+},
+{
+"off": 1408320,
+"s": "c%i",
+"t": 4
+},
+{
+"off": 1408324,
+"s": "mode",
+"t": 12
+},
+{
+"off": 1408336,
+"s": "PatchInsert",
+"t": 16
+},
+{
+"off": 1408352,
+"s": "LabelStrip%i",
+"t": 16
+},
+{
+"off": 1408368,
+"s": "LabelVirtualStrip1",
+"t": 24
+},
+{
+"off": 1408392,
+"s": "LabelVirtualStrip2",
+"t": 24
+},
+{
+"off": 1408416,
+"s": "LabelVirtualStrip3",
+"t": 24
+},
+{
+"off": 1408440,
+"s": "LabelBus%i",
+"t": 16
+},
+{
+"off": 1408456,
+"s": "LabelVirtualBus1",
+"t": 24
+},
+{
+"off": 1408480,
+"s": "LabelVirtualBus2",
+"t": 24
+},
+{
+"off": 1408504,
+"s": "LabelVirtualBus3",
+"t": 20
+},
+{
+"off": 1408524,
+"s": "cross",
+"t": 12
+},
+{
+"off": 1408536,
+"s": "BusMode",
+"t": 8
+},
+{
+"off": 1408544,
+"s": "monitor",
+"t": 8
+},
+{
+"off": 1408552,
+"s": "SEL",
+"t": 4
+},
+{
+"off": 1408556,
+"s": "retR",
+"t": 8
+},
+{
+"off": 1408564,
+"s": "retD",
+"t": 8
+},
+{
+"off": 1408572,
+"s": "retFx1",
+"t": 8
+},
+{
+"off": 1408580,
+"s": "retFx2",
+"t": 12
+},
+{
+"off": 1408592,
+"s": "FXSection",
+"t": 16
+},
+{
+"off": 1408608,
+"s": "freverb",
+"t": 8
+},
+{
+"off": 1408616,
+"s": "fdelay",
+"t": 8
+},
+{
+"off": 1408624,
+"s": "fdelayIsC5",
+"t": 16
+},
+{
+"off": 1408640,
+"s": "RecordMode",
+"t": 12
+},
+{
+"off": 1408652,
+"s": "RecBus",
+"t": 12
+},
+{
+"off": 1408664,
+"s": "DontPlay",
+"t": 12
+},
+{
+"off": 1408676,
+"s": "Loop",
+"t": 12
+},
+{
+"off": 1408688,
+"s": "MultiTrack",
+"t": 16
+},
+{
+"off": 1408704,
+"s": "TimerStop",
+"t": 16
+},
+{
+"off": 1408720,
+"s": "RecordArm",
+"t": 12
+},
+{
+"off": 1408732,
+"s": "ArmIn1",
+"t": 8
+},
+{
+"off": 1408740,
+"s": "ArmIn2",
+"t": 8
+},
+{
+"off": 1408748,
+"s": "ArmIn3",
+"t": 8
+},
+{
+"off": 1408756,
+"s": "ArmIn4",
+"t": 8
+},
+{
+"off": 1408764,
+"s": "ArmIn5",
+"t": 8
+},
+{
+"off": 1408772,
+"s": "ArmIn6",
+"t": 8
+},
+{
+"off": 1408780,
+"s": "ArmIn7",
+"t": 8
+},
+{
+"off": 1408788,
+"s": "ArmIn8",
+"t": 12
+},
+{
+"off": 1408800,
+"s": "ArmBus1",
+"t": 8
+},
+{
+"off": 1408808,
+"s": "ArmBus2",
+"t": 8
+},
+{
+"off": 1408816,
+"s": "ArmBus3",
+"t": 8
+},
+{
+"off": 1408824,
+"s": "ArmBus4",
+"t": 8
+},
+{
+"off": 1408832,
+"s": "ArmBus5",
+"t": 8
+},
+{
+"off": 1408840,
+"s": "ArmBus6",
+"t": 8
+},
+{
+"off": 1408848,
+"s": "ArmBus7",
+"t": 8
+},
+{
+"off": 1408856,
+"s": "ArmBus8",
+"t": 8
+},
+{
+"off": 1408864,
+"s": "RecordLastFileName",
+"t": 24
+},
+{
+"off": 1408888,
+"s": "RecordDirectory",
+"t": 16
+},
+{
+"off": 1408904,
+"s": "RecordPrefix",
+"t": 16
+},
+{
+"off": 1408920,
+"s": "RecordParam",
+"t": 16
+},
+{
+"off": 1408936,
+"s": "FileType",
+"t": 12
+},
+{
+"off": 1408948,
+"s": "BitRes",
+"t": 12
+},
+{
+"off": 1408960,
+"s": "TargetSR",
+"t": 16
+},
+{
+"off": 1408976,
+"s": "nbChannel",
+"t": 12
+},
+{
+"off": 1408988,
+"s": "kbps",
+"t": 12
+},
+{
+"off": 1409000,
+"s": "preRecTime",
+"t": 24
+},
+{
+"off": 1409224,
+"s": "PresetComment",
+"t": 16
+},
+{
+"off": 1409240,
+"s": "PresetTimeStamp",
+"t": 16
+},
+{
+"off": 1409256,
+"s": "VoiceMeeterParameters",
+"t": 24
+},
+{
+"off": 1409400,
+"s": "VoiceMeeterDeviceConfiguration",
+"t": 32
+},
+{
+"off": 1409432,
+"s": "VoiceMeeterRecorder",
+"t": 24
+},
+{
+"off": 1409456,
+"s": "BufferModeComputing",
+"t": 24
+},
+{
+"off": 1409480,
+"s": "EngineMode",
+"t": 16
+},
+{
+"off": 1409536,
+"s": "Show Control Panel...",
+"t": 24
+},
+{
+"off": 1409560,
+"s": "Restart Audio Engine",
+"t": 24
+},
+{
+"off": 1409584,
+"s": "Show Voicemeeter",
+"t": 24
+},
+{
+"off": 1409608,
+"s": "Show Voicemeeter (default position)",
+"t": 40
+},
+{
+"off": 1409648,
+"s": "Hide Voicemeeter",
+"t": 24
+},
+{
+"off": 1409672,
+"s": "Shut Down Voicemeeter",
+"t": 24
+},
+{
+"off": 1409696,
+"s": "Restart Audio Engine\t[CTL+R]",
+"t": 32
+},
+{
+"off": 1409728,
+"s": "Auto Restart Audio Engine (A1 Device)",
+"t": 40
+},
+{
+"off": 1409768,
+"s": "Auto Restart Audio Engine (All Device)",
+"t": 40
+},
+{
+"off": 1409808,
+"s": "Eject Cassette (release audio file)",
+"t": 40
+},
+{
+"off": 1409848,
+"s": "Load Settings...",
+"t": 24
+},
+{
+"off": 1409872,
+"s": "Load Settings on Startup:",
+"t": 32
+},
+{
+"off": 1409904,
+"s": "Save Settings...",
+"t": 24
+},
+{
+"off": 1409928,
+"s": "Reset Settings (Re-Initialization)",
+"t": 40
+},
+{
+"off": 1409968,
+"s": "System Tray",
+"t": 16
+},
+{
+"off": 1409984,
+"s": "Run on Windows Startup",
+"t": 24
+},
+{
+"off": 1410008,
+"s": "Show App On Startup",
+"t": 24
+},
+{
+"off": 1410032,
+"s": "Set as Always Visible",
+"t": 24
+},
+{
+"off": 1410056,
+"s": "Lock Graphic User Interface",
+"t": 32
+},
+{
+"off": 1410088,
+"s": "Run MacroButtons on Voicemeeter start",
+"t": 40
+},
+{
+"off": 1410128,
+"s": "Run Streamer View on Voicemeeter start",
+"t": 40
+},
+{
+"off": 1410168,
+"s": "Run 8x8 Gain Matrix A.P.A...",
+"t": 32
+},
+{
+"off": 1410200,
+"s": "Run 15 Bands Graphic EQ A.P.A...",
+"t": 40
+},
+{
+"off": 1410240,
+"s": "Run MIDI-VBAN Converter...",
+"t": 32
+},
+{
+"off": 1410272,
+"s": "Run other Voicemeeter tools...",
+"t": 32
+},
+{
+"off": 1410304,
+"s": "Hook Volume Keys (For Level Output A1)",
+"t": 40
+},
+{
+"off": 1410344,
+"s": "Hook Volume Keys (For Level Output A2)",
+"t": 40
+},
+{
+"off": 1410384,
+"s": "Hook Volume Keys (For Level Input #1)",
+"t": 40
+},
+{
+"off": 1410424,
+"s": "Hook Ctrl+F10,F11,F12 (For Level Output A1)",
+"t": 48
+},
+{
+"off": 1410472,
+"s": "Hook Ctrl+F10,F11,F12 (For Level Output A2)",
+"t": 48
+},
+{
+"off": 1410520,
+"s": "Hook Ctrl+F10,F11,F12 (For Level Input #1)",
+"t": 48
+},
+{
+"off": 1410568,
+"s": "Hook F5,F6 and F8 (For PLAY, STOP and REC)",
+"t": 48
+},
+{
+"off": 1410616,
+"s": "Shortcut Key (Hook)...",
+"t": 24
+},
+{
+"off": 1410640,
+"s": "Limit Remote Gain to 0 dBfs",
+"t": 32
+},
+{
+"off": 1410672,
+"s": "Show Contextual Help In Caption",
+"t": 32
+},
+{
+"off": 1410704,
+"s": "Show Preset Scene On Startup",
+"t": 32
+},
+{
+"off": 1410736,
+"s": "Preset Scene...\t[CTRL+4]",
+"t": 32
+},
+{
+"off": 1410768,
+"s": "System Settings...\t[CTRL+',']",
+"t": 32
+},
+{
+"off": 1410800,
+"s": "Tape Recorder Options...\t[CTRL+5]",
+"t": 40
+},
+{
+"off": 1410840,
+"s": "M.I.D.I. Mapping...\t[CTRL+3]",
+"t": 32
+},
+{
+"off": 1410872,
+"s": "VBAN Options... (VB-Audio Network)\t[CTRL+1]",
+"t": 48
+},
+{
+"off": 1410920,
+"s": "VBAN Chat Room... (VB-Audio Network)\t[CTRL+2]",
+"t": 48
+},
+{
+"off": 1410968,
+"s": "Windows Audio Map...\t[CTRL+6]",
+"t": 32
+},
+{
+"off": 1411000,
+"s": "Windows Audio Settings...",
+"t": 32
+},
+{
+"off": 1411032,
+"s": "About Box / License...",
+"t": 24
+},
+{
+"off": 1411056,
+"s": "VAIO Extension License...",
+"t": 32
+},
+{
+"off": 1411088,
+"s": "Online Help / Support...",
+"t": 32
+},
+{
+"off": 1411120,
+"s": "Check Driver Installation...",
+"t": 32
+},
+{
+"off": 1411152,
+"s": "VBCABLE_ControlPanel.exe",
+"t": 32
+},
+{
+"off": 1411184,
+"s": "VBVMAUX_ControlPanel.exe",
+"t": 32
+},
+{
+"off": 1411216,
+"s": "VBVMVAIO3_ControlPanel.exe",
+"t": 28
+},
+{
+"off": 1411244,
+"s": " -io%i",
+"t": 12
+},
+{
+"off": 1411256,
+"s": "VBVoicemeeterVAIO_ControlPanel.exe",
+"t": 40
+},
+{
+"off": 1411296,
+"s": "Windows Audio Map (around %s)",
+"t": 32
+},
+{
+"off": 1411328,
+"s": "Audio Engine is Starting...",
+"t": 32
+},
+{
+"off": 1411360,
+"s": "Please Wait for audio engine start.",
+"t": 40
+},
+{
+"off": 1411400,
+"s": "VB:Voicemeeter {17359A74-1236-5467}",
+"t": 40
+},
+{
+"off": 1411464,
+"s": "InGainFader1",
+"t": 16
+},
+{
+"off": 1411480,
+"s": "Gain Fader Strip #1",
+"t": 24
+},
+{
+"off": 1411504,
+"s": "InGainFader2",
+"t": 16
+},
+{
+"off": 1411520,
+"s": "Gain Fader Strip #2",
+"t": 24
+},
+{
+"off": 1411544,
+"s": "InGainFader3",
+"t": 16
+},
+{
+"off": 1411560,
+"s": "Gain Fader Strip #3",
+"t": 24
+},
+{
+"off": 1411584,
+"s": "InGainFader4",
+"t": 16
+},
+{
+"off": 1411600,
+"s": "Gain Fader Strip #4",
+"t": 24
+},
+{
+"off": 1411624,
+"s": "InGainFader5",
+"t": 16
+},
+{
+"off": 1411640,
+"s": "Gain Fader Strip #5",
+"t": 24
+},
+{
+"off": 1411664,
+"s": "VInGainFader1",
+"t": 16
+},
+{
+"off": 1411680,
+"s": "Gain of Virtual Strip #6",
+"t": 32
+},
+{
+"off": 1411712,
+"s": "VInGainFader2",
+"t": 16
+},
+{
+"off": 1411728,
+"s": "Gain of Virtual Strip #7",
+"t": 32
+},
+{
+"off": 1411760,
+"s": "VInGainFader3",
+"t": 16
+},
+{
+"off": 1411776,
+"s": "Gain of Virtual Strip #8",
+"t": 32
+},
+{
+"off": 1411808,
+"s": "LRPanIn1",
+"t": 16
+},
+{
+"off": 1411824,
+"s": "L/R PAN Strip #1",
+"t": 24
+},
+{
+"off": 1411848,
+"s": "LRPanIn2",
+"t": 16
+},
+{
+"off": 1411864,
+"s": "L/R PAN Strip #2",
+"t": 24
+},
+{
+"off": 1411888,
+"s": "LRPanIn3",
+"t": 16
+},
+{
+"off": 1411904,
+"s": "L/R PAN Strip #3",
+"t": 24
+},
+{
+"off": 1411928,
+"s": "LRPanIn4",
+"t": 16
+},
+{
+"off": 1411944,
+"s": "L/R PAN Strip #4",
+"t": 24
+},
+{
+"off": 1411968,
+"s": "LRPanIn5",
+"t": 16
+},
+{
+"off": 1411984,
+"s": "L/R PAN Strip #5",
+"t": 24
+},
+{
+"off": 1412008,
+"s": "LRPanVIn1",
+"t": 16
+},
+{
+"off": 1412024,
+"s": "L/R PAN Virtual Strip #6",
+"t": 32
+},
+{
+"off": 1412056,
+"s": "LRPanVIn2",
+"t": 16
+},
+{
+"off": 1412072,
+"s": "L/R PAN Virtual Strip #7",
+"t": 32
+},
+{
+"off": 1412104,
+"s": "LRPanVIn3",
+"t": 16
+},
+{
+"off": 1412120,
+"s": "L/R PAN Virtual Strip #8",
+"t": 32
+},
+{
+"off": 1412152,
+"s": "ResetLRPanIn1",
+"t": 16
+},
+{
+"off": 1412168,
+"s": "Reset L/R PAN Strip #1",
+"t": 24
+},
+{
+"off": 1412192,
+"s": "ResetLRPanIn2",
+"t": 16
+},
+{
+"off": 1412208,
+"s": "Reset L/R PAN Strip #2",
+"t": 24
+},
+{
+"off": 1412232,
+"s": "ResetLRPanIn3",
+"t": 16
+},
+{
+"off": 1412248,
+"s": "Reset L/R PAN Strip #3",
+"t": 24
+},
+{
+"off": 1412272,
+"s": "ResetLRPanIn4",
+"t": 16
+},
+{
+"off": 1412288,
+"s": "Reset L/R PAN Strip #4",
+"t": 24
+},
+{
+"off": 1412312,
+"s": "ResetLRPanIn5",
+"t": 16
+},
+{
+"off": 1412328,
+"s": "Reset L/R PAN Strip #5",
+"t": 24
+},
+{
+"off": 1412352,
+"s": "ResetLRPanVIn1",
+"t": 16
+},
+{
+"off": 1412368,
+"s": "Reset L/R PAN VStrip #6",
+"t": 24
+},
+{
+"off": 1412392,
+"s": "ResetLRPanVIn2",
+"t": 16
+},
+{
+"off": 1412408,
+"s": "Reset L/R PAN VStrip #7",
+"t": 24
+},
+{
+"off": 1412432,
+"s": "ResetLRPanVIn3",
+"t": 16
+},
+{
+"off": 1412448,
+"s": "Reset L/R PAN VStrip #8",
+"t": 24
+},
+{
+"off": 1412472,
+"s": "InMute1",
+"t": 8
+},
+{
+"off": 1412480,
+"s": " Mute Strip #1",
+"t": 16
+},
+{
+"off": 1412496,
+"s": "InMute2",
+"t": 8
+},
+{
+"off": 1412504,
+"s": "Mute Strip #2",
+"t": 16
+},
+{
+"off": 1412520,
+"s": "InMute3",
+"t": 8
+},
+{
+"off": 1412528,
+"s": "Mute Strip #3",
+"t": 16
+},
+{
+"off": 1412544,
+"s": "InMute4",
+"t": 8
+},
+{
+"off": 1412552,
+"s": "Mute Strip #4",
+"t": 16
+},
+{
+"off": 1412568,
+"s": "InMute5",
+"t": 8
+},
+{
+"off": 1412576,
+"s": "Mute Strip #5",
+"t": 16
+},
+{
+"off": 1412592,
+"s": "VInMute1",
+"t": 16
+},
+{
+"off": 1412608,
+"s": "Mute Virtual Strip #6",
+"t": 24
+},
+{
+"off": 1412632,
+"s": "VInMute2",
+"t": 16
+},
+{
+"off": 1412648,
+"s": "Mute Virtual Strip #7",
+"t": 24
+},
+{
+"off": 1412672,
+"s": "VInMute3",
+"t": 16
+},
+{
+"off": 1412688,
+"s": "Mute Virtual Strip #8",
+"t": 24
+},
+{
+"off": 1412712,
+"s": "InSolo1",
+"t": 8
+},
+{
+"off": 1412720,
+"s": "Solo Strip #1",
+"t": 16
+},
+{
+"off": 1412736,
+"s": "InSolo2",
+"t": 8
+},
+{
+"off": 1412744,
+"s": "Solo Strip #2",
+"t": 16
+},
+{
+"off": 1412760,
+"s": "InSolo3",
+"t": 8
+},
+{
+"off": 1412768,
+"s": "Solo Strip #3",
+"t": 16
+},
+{
+"off": 1412784,
+"s": "InSolo4",
+"t": 8
+},
+{
+"off": 1412792,
+"s": "Solo Strip #4",
+"t": 16
+},
+{
+"off": 1412808,
+"s": "InSolo5",
+"t": 8
+},
+{
+"off": 1412816,
+"s": "Solo Strip #5",
+"t": 16
+},
+{
+"off": 1412832,
+"s": "VInSolo1",
+"t": 16
+},
+{
+"off": 1412848,
+"s": "Solo Virtual Strip #6",
+"t": 24
+},
+{
+"off": 1412872,
+"s": "VInSolo2",
+"t": 16
+},
+{
+"off": 1412888,
+"s": "Solo Virtual Strip #7",
+"t": 24
+},
+{
+"off": 1412912,
+"s": "VInSolo3",
+"t": 16
+},
+{
+"off": 1412928,
+"s": "Solo Virtual Strip #8",
+"t": 24
+},
+{
+"off": 1412952,
+"s": "VInMuteC1",
+"t": 16
+},
+{
+"off": 1412968,
+"s": "M.C. Virtual Strip #6",
+"t": 24
+},
+{
+"off": 1412992,
+"s": "VInMuteC2",
+"t": 16
+},
+{
+"off": 1413008,
+"s": "K Button Virtual Strip #7",
+"t": 32
+},
+{
+"off": 1413040,
+"s": "VInMuteC3",
+"t": 16
+},
+{
+"off": 1413056,
+"s": "M.C. Virtual Strip #8",
+"t": 24
+},
+{
+"off": 1413080,
+"s": "InComp1",
+"t": 8
+},
+{
+"off": 1413088,
+"s": "Compression Strip #1",
+"t": 24
+},
+{
+"off": 1413112,
+"s": "InComp2",
+"t": 8
+},
+{
+"off": 1413120,
+"s": "Compression Strip #2",
+"t": 24
+},
+{
+"off": 1413144,
+"s": "InComp3",
+"t": 8
+},
+{
+"off": 1413152,
+"s": "Compression Strip #3",
+"t": 24
+},
+{
+"off": 1413176,
+"s": "InComp4",
+"t": 8
+},
+{
+"off": 1413184,
+"s": "Compression Strip #4",
+"t": 24
+},
+{
+"off": 1413208,
+"s": "InComp5",
+"t": 8
+},
+{
+"off": 1413216,
+"s": "Compression Strip #5",
+"t": 24
+},
+{
+"off": 1413240,
+"s": "InGate1",
+"t": 8
+},
+{
+"off": 1413248,
+"s": "Gate Strip #1",
+"t": 16
+},
+{
+"off": 1413264,
+"s": "InGate2",
+"t": 8
+},
+{
+"off": 1413272,
+"s": "Gate Strip #2",
+"t": 16
+},
+{
+"off": 1413288,
+"s": "InGate3",
+"t": 8
+},
+{
+"off": 1413296,
+"s": "Gate Strip #3",
+"t": 16
+},
+{
+"off": 1413312,
+"s": "InGate4",
+"t": 8
+},
+{
+"off": 1413320,
+"s": "Gate Strip #4",
+"t": 16
+},
+{
+"off": 1413336,
+"s": "InGate5",
+"t": 8
+},
+{
+"off": 1413344,
+"s": "Gate Strip #5",
+"t": 16
+},
+{
+"off": 1413360,
+"s": "DenoiserIn1",
+"t": 16
+},
+{
+"off": 1413376,
+"s": "Denoiser Strip #1",
+"t": 24
+},
+{
+"off": 1413400,
+"s": "DenoiserIn2",
+"t": 16
+},
+{
+"off": 1413416,
+"s": "Denoiser Strip #2",
+"t": 24
+},
+{
+"off": 1413440,
+"s": "DenoiserIn3",
+"t": 16
+},
+{
+"off": 1413456,
+"s": "Denoiser Strip #3",
+"t": 24
+},
+{
+"off": 1413480,
+"s": "DenoiserIn4",
+"t": 16
+},
+{
+"off": 1413496,
+"s": "Denoiser Strip #4",
+"t": 24
+},
+{
+"off": 1413520,
+"s": "DenoiserIn5",
+"t": 16
+},
+{
+"off": 1413536,
+"s": "Denoiser Strip #5",
+"t": 24
+},
+{
+"off": 1413560,
+"s": "DnBypassIn1",
+"t": 16
+},
+{
+"off": 1413576,
+"s": "Denoiser Byp. Strip #1",
+"t": 24
+},
+{
+"off": 1413600,
+"s": "DnBypassIn2",
+"t": 16
+},
+{
+"off": 1413616,
+"s": "Denoiser Byp. Strip #2",
+"t": 24
+},
+{
+"off": 1413640,
+"s": "DnBypassIn3",
+"t": 16
+},
+{
+"off": 1413656,
+"s": "Denoiser Byp. Strip #3",
+"t": 24
+},
+{
+"off": 1413680,
+"s": "DnBypassIn4",
+"t": 16
+},
+{
+"off": 1413696,
+"s": "Denoiser Byp. Strip #4",
+"t": 24
+},
+{
+"off": 1413720,
+"s": "DnBypassIn5",
+"t": 16
+},
+{
+"off": 1413736,
+"s": "Denoiser Byp. Strip #5",
+"t": 24
+},
+{
+"off": 1413760,
+"s": "DnLearnIn1",
+"t": 16
+},
+{
+"off": 1413776,
+"s": "Denoiser Learn Strip #1",
+"t": 24
+},
+{
+"off": 1413800,
+"s": "DnLearnIn2",
+"t": 16
+},
+{
+"off": 1413816,
+"s": "Denoiser Learn Strip #2",
+"t": 24
+},
+{
+"off": 1413840,
+"s": "DnLearnIn3",
+"t": 16
+},
+{
+"off": 1413856,
+"s": "Denoiser Learn Strip #3",
+"t": 24
+},
+{
+"off": 1413880,
+"s": "DnLearnIn4",
+"t": 16
+},
+{
+"off": 1413896,
+"s": "Denoiser Learn Strip #4",
+"t": 24
+},
+{
+"off": 1413920,
+"s": "DnLearnIn5",
+"t": 16
+},
+{
+"off": 1413936,
+"s": "Denoiser Learn Strip #5",
+"t": 24
+},
+{
+"off": 1413960,
+"s": "PitchOnIn1",
+"t": 16
+},
+{
+"off": 1413976,
+"s": "Pitch On Strip #1",
+"t": 24
+},
+{
+"off": 1414000,
+"s": "PitchOnIn2",
+"t": 16
+},
+{
+"off": 1414016,
+"s": "Pitch On Strip #2",
+"t": 24
+},
+{
+"off": 1414040,
+"s": "PitchOnIn3",
+"t": 16
+},
+{
+"off": 1414056,
+"s": "Pitch On Strip #3",
+"t": 24
+},
+{
+"off": 1414080,
+"s": "PitchOnIn4",
+"t": 16
+},
+{
+"off": 1414096,
+"s": "Pitch On Strip #4",
+"t": 24
+},
+{
+"off": 1414120,
+"s": "PitchOnIn5",
+"t": 16
+},
+{
+"off": 1414136,
+"s": "Pitch On Strip #5",
+"t": 24
+},
+{
+"off": 1414160,
+"s": "PitchDryWetIn1",
+"t": 16
+},
+{
+"off": 1414176,
+"s": "Pitch Dry/Wet Strip #1",
+"t": 24
+},
+{
+"off": 1414200,
+"s": "PitchDryWetIn2",
+"t": 16
+},
+{
+"off": 1414216,
+"s": "Pitch Dry/Wet Strip #2",
+"t": 24
+},
+{
+"off": 1414240,
+"s": "PitchDryWetIn3",
+"t": 16
+},
+{
+"off": 1414256,
+"s": "Pitch Dry/Wet Strip #3",
+"t": 24
+},
+{
+"off": 1414280,
+"s": "PitchDryWetIn4",
+"t": 16
+},
+{
+"off": 1414296,
+"s": "Pitch Dry/Wet Strip #4",
+"t": 24
+},
+{
+"off": 1414320,
+"s": "PitchDryWetIn5",
+"t": 16
+},
+{
+"off": 1414336,
+"s": "Pitch Dry/Wet Strip #5",
+"t": 24
+},
+{
+"off": 1414360,
+"s": "PitchValueIn1",
+"t": 16
+},
+{
+"off": 1414376,
+"s": "Pitch Value Strip #1",
+"t": 24
+},
+{
+"off": 1414400,
+"s": "PitchValueIn2",
+"t": 16
+},
+{
+"off": 1414416,
+"s": "Pitch Value Strip #2",
+"t": 24
+},
+{
+"off": 1414440,
+"s": "PitchValueIn3",
+"t": 16
+},
+{
+"off": 1414456,
+"s": "Pitch Value Strip #3",
+"t": 24
+},
+{
+"off": 1414480,
+"s": "PitchValueIn4",
+"t": 16
+},
+{
+"off": 1414496,
+"s": "Pitch Value Strip #4",
+"t": 24
+},
+{
+"off": 1414520,
+"s": "PitchValueIn5",
+"t": 16
+},
+{
+"off": 1414536,
+"s": "Pitch Value Strip #5",
+"t": 24
+},
+{
+"off": 1414560,
+"s": "LoFormantIn1",
+"t": 16
+},
+{
+"off": 1414576,
+"s": "Lo Formant Strip #1",
+"t": 24
+},
+{
+"off": 1414600,
+"s": "LoFormantIn2",
+"t": 16
+},
+{
+"off": 1414616,
+"s": "Lo Formant Strip #2",
+"t": 24
+},
+{
+"off": 1414640,
+"s": "LoFormantIn3",
+"t": 16
+},
+{
+"off": 1414656,
+"s": "Lo Formant Strip #3",
+"t": 24
+},
+{
+"off": 1414680,
+"s": "LoFormantIn4",
+"t": 16
+},
+{
+"off": 1414696,
+"s": "Lo Formant Strip #4",
+"t": 24
+},
+{
+"off": 1414720,
+"s": "LoFormantIn5",
+"t": 16
+},
+{
+"off": 1414736,
+"s": "Lo Formant Strip #5",
+"t": 24
+},
+{
+"off": 1414760,
+"s": "MedFormantIn1",
+"t": 16
+},
+{
+"off": 1414776,
+"s": "Med Formant Strip #1",
+"t": 24
+},
+{
+"off": 1414800,
+"s": "MedFormantIn2",
+"t": 16
+},
+{
+"off": 1414816,
+"s": "Med Formant Strip #2",
+"t": 24
+},
+{
+"off": 1414840,
+"s": "MedFormantIn3",
+"t": 16
+},
+{
+"off": 1414856,
+"s": "Med Formant Strip #3",
+"t": 24
+},
+{
+"off": 1414880,
+"s": "MedFormantIn4",
+"t": 16
+},
+{
+"off": 1414896,
+"s": "Med Formant Strip #4",
+"t": 24
+},
+{
+"off": 1414920,
+"s": "MedFormantIn5",
+"t": 16
+},
+{
+"off": 1414936,
+"s": "Med Formant Strip #5",
+"t": 24
+},
+{
+"off": 1414960,
+"s": "HiFormantIn1",
+"t": 16
+},
+{
+"off": 1414976,
+"s": "Hi Formant Strip #1",
+"t": 24
+},
+{
+"off": 1415000,
+"s": "HiFormantIn2",
+"t": 16
+},
+{
+"off": 1415016,
+"s": "Hi Formant Strip #2",
+"t": 24
+},
+{
+"off": 1415040,
+"s": "HiFormantIn3",
+"t": 16
+},
+{
+"off": 1415056,
+"s": "Hi Formant Strip #3",
+"t": 24
+},
+{
+"off": 1415080,
+"s": "HiFormantIn4",
+"t": 16
+},
+{
+"off": 1415096,
+"s": "Hi Formant Strip #4",
+"t": 24
+},
+{
+"off": 1415120,
+"s": "HiFormantIn5",
+"t": 16
+},
+{
+"off": 1415136,
+"s": "Hi Formant Strip #5",
+"t": 24
+},
+{
+"off": 1415160,
+"s": "GroupFormantIn1",
+"t": 16
+},
+{
+"off": 1415176,
+"s": "Formant Group Strip #1",
+"t": 24
+},
+{
+"off": 1415200,
+"s": "GroupFormantIn2",
+"t": 16
+},
+{
+"off": 1415216,
+"s": "Formant Group Strip #2",
+"t": 24
+},
+{
+"off": 1415240,
+"s": "GroupFormantIn3",
+"t": 16
+},
+{
+"off": 1415256,
+"s": "Formant Group Strip #3",
+"t": 24
+},
+{
+"off": 1415280,
+"s": "GroupFormantIn4",
+"t": 16
+},
+{
+"off": 1415296,
+"s": "Formant Group Strip #4",
+"t": 24
+},
+{
+"off": 1415320,
+"s": "GroupFormantIn5",
+"t": 16
+},
+{
+"off": 1415336,
+"s": "Formant Group Strip #5",
+"t": 24
+},
+{
+"off": 1415360,
+"s": "InLimit1",
+"t": 16
+},
+{
+"off": 1415376,
+"s": "Limit Strip #1",
+"t": 16
+},
+{
+"off": 1415392,
+"s": "InLimit2",
+"t": 16
+},
+{
+"off": 1415408,
+"s": "Limit Strip #2",
+"t": 16
+},
+{
+"off": 1415424,
+"s": "InLimit3",
+"t": 16
+},
+{
+"off": 1415440,
+"s": "Limit Strip #3",
+"t": 16
+},
+{
+"off": 1415456,
+"s": "InLimit4",
+"t": 16
+},
+{
+"off": 1415472,
+"s": "Limit Strip #4",
+"t": 16
+},
+{
+"off": 1415488,
+"s": "InLimit5",
+"t": 16
+},
+{
+"off": 1415504,
+"s": "Limit Strip #5",
+"t": 16
+},
+{
+"off": 1415520,
+"s": "VInLimit1",
+"t": 16
+},
+{
+"off": 1415536,
+"s": "Limit Virtual Strip #6",
+"t": 24
+},
+{
+"off": 1415560,
+"s": "VInLimit2",
+"t": 16
+},
+{
+"off": 1415576,
+"s": "Limit Virtual Strip #7",
+"t": 24
+},
+{
+"off": 1415600,
+"s": "VInLimit3",
+"t": 16
+},
+{
+"off": 1415616,
+"s": "Limit Virtual Strip #8",
+"t": 24
+},
+{
+"off": 1415640,
+"s": "A1 Strip #%i",
+"t": 16
+},
+{
+"off": 1415656,
+"s": "Strip%iA1",
+"t": 16
+},
+{
+"off": 1415672,
+"s": "A2 Strip #%i",
+"t": 16
+},
+{
+"off": 1415688,
+"s": "Strip%iA2",
+"t": 16
+},
+{
+"off": 1415704,
+"s": "A3 Strip #%i",
+"t": 16
+},
+{
+"off": 1415720,
+"s": "Strip%iA3",
+"t": 16
+},
+{
+"off": 1415736,
+"s": "A4 Strip #%i",
+"t": 16
+},
+{
+"off": 1415752,
+"s": "Strip%iA4",
+"t": 16
+},
+{
+"off": 1415768,
+"s": "A5 Strip #%i",
+"t": 16
+},
+{
+"off": 1415784,
+"s": "Strip%iA5",
+"t": 16
+},
+{
+"off": 1415800,
+"s": "B1 Strip #%i",
+"t": 16
+},
+{
+"off": 1415816,
+"s": "Strip%iB1",
+"t": 16
+},
+{
+"off": 1415832,
+"s": "B2 Strip #%i",
+"t": 16
+},
+{
+"off": 1415848,
+"s": "Strip%iB2",
+"t": 16
+},
+{
+"off": 1415864,
+"s": "B3 Strip #%i",
+"t": 16
+},
+{
+"off": 1415880,
+"s": "Strip%iB3",
+"t": 16
+},
+{
+"off": 1415896,
+"s": "VIn1EQHigh",
+"t": 16
+},
+{
+"off": 1415912,
+"s": "EQ High Virtual Strip #6",
+"t": 32
+},
+{
+"off": 1415944,
+"s": "VIn1EQMed",
+"t": 16
+},
+{
+"off": 1415960,
+"s": "EQ Med Virtual Strip #6",
+"t": 24
+},
+{
+"off": 1415984,
+"s": "VIn1EQBass",
+"t": 16
+},
+{
+"off": 1416000,
+"s": "EQ Bass Virtual Strip #6",
+"t": 32
+},
+{
+"off": 1416032,
+"s": "VIn2EQHigh",
+"t": 16
+},
+{
+"off": 1416048,
+"s": "EQ High Virtual Strip #7",
+"t": 32
+},
+{
+"off": 1416080,
+"s": "VIn2EQMed",
+"t": 16
+},
+{
+"off": 1416096,
+"s": "EQ Med Virtual Strip #7",
+"t": 24
+},
+{
+"off": 1416120,
+"s": "VIn2EQBass",
+"t": 16
+},
+{
+"off": 1416136,
+"s": "EQ Bass Virtual Strip #7",
+"t": 32
+},
+{
+"off": 1416168,
+"s": "VIn3EQHigh",
+"t": 16
+},
+{
+"off": 1416184,
+"s": "EQ High Virtual Strip #8",
+"t": 32
+},
+{
+"off": 1416216,
+"s": "VIn3EQMed",
+"t": 16
+},
+{
+"off": 1416232,
+"s": "EQ Med Virtual Strip #8",
+"t": 24
+},
+{
+"off": 1416256,
+"s": "VIn3EQBass",
+"t": 16
+},
+{
+"off": 1416272,
+"s": "EQ Bass Virtual Strip #8",
+"t": 32
+},
+{
+"off": 1416304,
+"s": "RevSend1",
+"t": 16
+},
+{
+"off": 1416320,
+"s": "Reverb Strip #1",
+"t": 16
+},
+{
+"off": 1416336,
+"s": "RevSend2",
+"t": 16
+},
+{
+"off": 1416352,
+"s": "Reverb Strip #2",
+"t": 16
+},
+{
+"off": 1416368,
+"s": "RevSend3",
+"t": 16
+},
+{
+"off": 1416384,
+"s": "Reverb Strip #3",
+"t": 16
+},
+{
+"off": 1416400,
+"s": "RevSend4",
+"t": 16
+},
+{
+"off": 1416416,
+"s": "Reverb Strip #4",
+"t": 16
+},
+{
+"off": 1416432,
+"s": "RevSend5",
+"t": 16
+},
+{
+"off": 1416448,
+"s": "Reverb Strip #5",
+"t": 16
+},
+{
+"off": 1416464,
+"s": "DelaySend1",
+"t": 16
+},
+{
+"off": 1416480,
+"s": "Delay Strip #1",
+"t": 16
+},
+{
+"off": 1416496,
+"s": "DelaySend2",
+"t": 16
+},
+{
+"off": 1416512,
+"s": "Delay Strip #2",
+"t": 16
+},
+{
+"off": 1416528,
+"s": "DelaySend3",
+"t": 16
+},
+{
+"off": 1416544,
+"s": "Delay Strip #3",
+"t": 16
+},
+{
+"off": 1416560,
+"s": "DelaySend4",
+"t": 16
+},
+{
+"off": 1416576,
+"s": "Delay Strip #4",
+"t": 16
+},
+{
+"off": 1416592,
+"s": "DelaySend5",
+"t": 16
+},
+{
+"off": 1416608,
+"s": "Delay Strip #5",
+"t": 16
+},
+{
+"off": 1416624,
+"s": "Fx1Send1",
+"t": 16
+},
+{
+"off": 1416640,
+"s": "External FX1 Strip #1",
+"t": 24
+},
+{
+"off": 1416664,
+"s": "Fx1Send2",
+"t": 16
+},
+{
+"off": 1416680,
+"s": "External FX1 Strip #2",
+"t": 24
+},
+{
+"off": 1416704,
+"s": "Fx1Send3",
+"t": 16
+},
+{
+"off": 1416720,
+"s": "External FX1 Strip #3",
+"t": 24
+},
+{
+"off": 1416744,
+"s": "Fx1Send4",
+"t": 16
+},
+{
+"off": 1416760,
+"s": "External FX1 Strip #4",
+"t": 24
+},
+{
+"off": 1416784,
+"s": "Fx1Send5",
+"t": 16
+},
+{
+"off": 1416800,
+"s": "External FX1 Strip #5",
+"t": 24
+},
+{
+"off": 1416824,
+"s": "Fx2Send1",
+"t": 16
+},
+{
+"off": 1416840,
+"s": "External FX2 Strip #1",
+"t": 24
+},
+{
+"off": 1416864,
+"s": "Fx2Send2",
+"t": 16
+},
+{
+"off": 1416880,
+"s": "External FX2 Strip #2",
+"t": 24
+},
+{
+"off": 1416904,
+"s": "Fx2Send3",
+"t": 16
+},
+{
+"off": 1416920,
+"s": "External FX2 Strip #3",
+"t": 24
+},
+{
+"off": 1416944,
+"s": "Fx2Send4",
+"t": 16
+},
+{
+"off": 1416960,
+"s": "External FX2 Strip #4",
+"t": 24
+},
+{
+"off": 1416984,
+"s": "Fx2Send5",
+"t": 16
+},
+{
+"off": 1417000,
+"s": "External FX2 Strip #5",
+"t": 24
+},
+{
+"off": 1417024,
+"s": "OutSEL1",
+"t": 8
+},
+{
+"off": 1417032,
+"s": "SELECT BUS A1 Mix",
+"t": 24
+},
+{
+"off": 1417056,
+"s": "OutSEL2",
+"t": 8
+},
+{
+"off": 1417064,
+"s": "SELECT BUS A2 Mix",
+"t": 24
+},
+{
+"off": 1417088,
+"s": "OutSEL3",
+"t": 8
+},
+{
+"off": 1417096,
+"s": "SELECT BUS A3 Mix",
+"t": 24
+},
+{
+"off": 1417120,
+"s": "OutSEL4",
+"t": 8
+},
+{
+"off": 1417128,
+"s": "SELECT BUS A4 Mix",
+"t": 24
+},
+{
+"off": 1417152,
+"s": "OutSEL5",
+"t": 8
+},
+{
+"off": 1417160,
+"s": "SELECT BUS A5 Mix",
+"t": 24
+},
+{
+"off": 1417184,
+"s": "VOutSEL1",
+"t": 16
+},
+{
+"off": 1417200,
+"s": "SELECT BUS B1 Mix",
+"t": 24
+},
+{
+"off": 1417224,
+"s": "VOutSEL2",
+"t": 16
+},
+{
+"off": 1417240,
+"s": "SELECT BUS B2 Mix",
+"t": 24
+},
+{
+"off": 1417264,
+"s": "VOutSEL3",
+"t": 16
+},
+{
+"off": 1417280,
+"s": "SELECT BUS B3 Mix",
+"t": 24
+},
+{
+"off": 1417304,
+"s": "OutGainFader1",
+"t": 16
+},
+{
+"off": 1417320,
+"s": "Gain of BUS A1",
+"t": 16
+},
+{
+"off": 1417336,
+"s": "OutGainFader2",
+"t": 16
+},
+{
+"off": 1417352,
+"s": "Gain of BUS A2",
+"t": 16
+},
+{
+"off": 1417368,
+"s": "OutGainFader3",
+"t": 16
+},
+{
+"off": 1417384,
+"s": "Gain of BUS A3",
+"t": 16
+},
+{
+"off": 1417400,
+"s": "OutGainFader4",
+"t": 16
+},
+{
+"off": 1417416,
+"s": "Gain of BUS A4",
+"t": 16
+},
+{
+"off": 1417432,
+"s": "OutGainFader5",
+"t": 16
+},
+{
+"off": 1417448,
+"s": "Gain of BUS A5",
+"t": 16
+},
+{
+"off": 1417464,
+"s": "VOutGainFader1",
+"t": 16
+},
+{
+"off": 1417480,
+"s": "Gain of BUS B1",
+"t": 16
+},
+{
+"off": 1417496,
+"s": "VOutGainFader2",
+"t": 16
+},
+{
+"off": 1417512,
+"s": "Gain of BUS B2",
+"t": 16
+},
+{
+"off": 1417528,
+"s": "VOutGainFader3",
+"t": 16
+},
+{
+"off": 1417544,
+"s": "Gain of BUS B3",
+"t": 16
+},
+{
+"off": 1417560,
+"s": "OutMute1",
+"t": 16
+},
+{
+"off": 1417576,
+"s": "Mute BUS A1",
+"t": 16
+},
+{
+"off": 1417592,
+"s": "OutMute2",
+"t": 16
+},
+{
+"off": 1417608,
+"s": "Mute BUS A2",
+"t": 16
+},
+{
+"off": 1417624,
+"s": "OutMute3",
+"t": 16
+},
+{
+"off": 1417640,
+"s": "Mute BUS A3",
+"t": 16
+},
+{
+"off": 1417656,
+"s": "OutMute4",
+"t": 16
+},
+{
+"off": 1417672,
+"s": "Mute BUS A4",
+"t": 16
+},
+{
+"off": 1417688,
+"s": "OutMute5",
+"t": 16
+},
+{
+"off": 1417704,
+"s": "Mute BUS A5",
+"t": 16
+},
+{
+"off": 1417720,
+"s": "VOutMute1",
+"t": 16
+},
+{
+"off": 1417736,
+"s": "Mute BUS B1",
+"t": 16
+},
+{
+"off": 1417752,
+"s": "VOutMute2",
+"t": 16
+},
+{
+"off": 1417768,
+"s": "Mute BUS B2",
+"t": 16
+},
+{
+"off": 1417784,
+"s": "VOutMute3",
+"t": 16
+},
+{
+"off": 1417800,
+"s": "Mute BUS B3",
+"t": 16
+},
+{
+"off": 1417816,
+"s": "ToggleB1B2s1",
+"t": 16
+},
+{
+"off": 1417832,
+"s": "Toggle B1/B2 on Strip #1",
+"t": 32
+},
+{
+"off": 1417864,
+"s": "OutEqOn1",
+"t": 16
+},
+{
+"off": 1417880,
+"s": "Master EQ BUS A1",
+"t": 24
+},
+{
+"off": 1417904,
+"s": "OutEqOn2",
+"t": 16
+},
+{
+"off": 1417920,
+"s": "Master EQ BUS A2",
+"t": 24
+},
+{
+"off": 1417944,
+"s": "OutEqOn3",
+"t": 16
+},
+{
+"off": 1417960,
+"s": "Master EQ BUS A3",
+"t": 24
+},
+{
+"off": 1417984,
+"s": "OutEqOn4",
+"t": 16
+},
+{
+"off": 1418000,
+"s": "Master EQ BUS A4",
+"t": 24
+},
+{
+"off": 1418024,
+"s": "OutEqOn5",
+"t": 16
+},
+{
+"off": 1418040,
+"s": "Master EQ BUS A5",
+"t": 24
+},
+{
+"off": 1418064,
+"s": "VOutEqOn1",
+"t": 16
+},
+{
+"off": 1418080,
+"s": "Master EQ BUS B1",
+"t": 24
+},
+{
+"off": 1418104,
+"s": "VOutEqOn2",
+"t": 16
+},
+{
+"off": 1418120,
+"s": "Master EQ BUS B2",
+"t": 24
+},
+{
+"off": 1418144,
+"s": "VOutEqOn3",
+"t": 16
+},
+{
+"off": 1418160,
+"s": "Master EQ BUS B3",
+"t": 24
+},
+{
+"off": 1418184,
+"s": "BusLimit1",
+"t": 16
+},
+{
+"off": 1418200,
+"s": "Limit Bus A1",
+"t": 16
+},
+{
+"off": 1418216,
+"s": "BusLimit2",
+"t": 16
+},
+{
+"off": 1418232,
+"s": "Limit Bus A2",
+"t": 16
+},
+{
+"off": 1418248,
+"s": "BusLimit3",
+"t": 16
+},
+{
+"off": 1418264,
+"s": "Limit Bus A3",
+"t": 16
+},
+{
+"off": 1418280,
+"s": "BusLimit4",
+"t": 16
+},
+{
+"off": 1418296,
+"s": "Limit Bus A4",
+"t": 16
+},
+{
+"off": 1418312,
+"s": "BusLimit5",
+"t": 16
+},
+{
+"off": 1418328,
+"s": "Limit Bus A5",
+"t": 16
+},
+{
+"off": 1418344,
+"s": "VBusLimit1",
+"t": 16
+},
+{
+"off": 1418360,
+"s": "Limit Bus B1",
+"t": 16
+},
+{
+"off": 1418376,
+"s": "VBusLimit2",
+"t": 16
+},
+{
+"off": 1418392,
+"s": "Limit Bus B2",
+"t": 16
+},
+{
+"off": 1418408,
+"s": "VBusLimit3",
+"t": 16
+},
+{
+"off": 1418424,
+"s": "Limit Bus B3",
+"t": 16
+},
+{
+"off": 1418440,
+"s": "TapePlay",
+"t": 16
+},
+{
+"off": 1418456,
+"s": "PLAY TAPE",
+"t": 16
+},
+{
+"off": 1418472,
+"s": "TapeRec",
+"t": 8
+},
+{
+"off": 1418480,
+"s": "REC TAPE",
+"t": 16
+},
+{
+"off": 1418496,
+"s": "TapeStop",
+"t": 16
+},
+{
+"off": 1418512,
+"s": "STOP TAPE",
+"t": 16
+},
+{
+"off": 1418528,
+"s": "TapeREW",
+"t": 8
+},
+{
+"off": 1418536,
+"s": "REW TAPE",
+"t": 12
+},
+{
+"off": 1418548,
+"s": "TapeFF",
+"t": 12
+},
+{
+"off": 1418560,
+"s": "FF TAPE",
+"t": 8
+},
+{
+"off": 1418568,
+"s": "TapeRePlay",
+"t": 16
+},
+{
+"off": 1418584,
+"s": "REPLAY TAPE",
+"t": 16
+},
+{
+"off": 1418600,
+"s": "TapeGain",
+"t": 16
+},
+{
+"off": 1418616,
+"s": "TAPE Playback Gain",
+"t": 24
+},
+{
+"off": 1418640,
+"s": "App#%i Volume Virtual #%i",
+"t": 32
+},
+{
+"off": 1418672,
+"s": "VolCtlVin%iApp%i",
+"t": 24
+},
+{
+"off": 1418696,
+"s": "App#%i Mute Virtual #%i",
+"t": 24
+},
+{
+"off": 1418720,
+"s": "MuteCtlVin%iApp%i",
+"t": 24
+},
+{
+"off": 1418744,
+"s": "Refresh1",
+"t": 16
+},
+{
+"off": 1418760,
+"s": "Refresh on Layer change",
+"t": 24
+},
+{
+"off": 1418784,
+"s": "Refresh2",
+"t": 16
+},
+{
+"off": 1418800,
+"s": "ThreadCharacteristics",
+"t": 24
+},
+{
+"off": 1418824,
+"s": "VBANThreadCharacteristics",
+"t": 32
+},
+{
+"off": 1418856,
+"s": "ASIOThreadCharacteristics",
+"t": 32
+},
+{
+"off": 1418888,
+"s": "VoicemeeterPotato_Help.xml",
+"t": 40
+},
+{
+"off": 1419072,
+"s": "input",
+"t": 8
+},
+{
+"off": 1419080,
+"s": "%i Ch",
+"t": 8
+},
+{
+"off": 1419088,
+"s": "%02i:%02i",
+"t": 16
+},
+{
+"off": 1419104,
+"s": "Error: Cannot open File",
+"t": 24
+},
+{
+"off": 1419128,
+"s": "Remain: %02i:%02i:%02i",
+"t": 24
+},
+{
+"off": 1419152,
+"s": "Remain: %02i:%02i",
+"t": 24
+},
+{
+"off": 1419176,
+"s": "Recording... Remain: %02i:%02i:%02i",
+"t": 40
+},
+{
+"off": 1419216,
+"s": "Recording... Remain: %02i:%02i",
+"t": 32
+},
+{
+"off": 1419248,
+"s": "Recording...",
+"t": 16
+},
+{
+"off": 1419264,
+"s": "Pause",
+"t": 8
+},
+{
+"off": 1419296,
+"s": "MONO",
+"t": 8
+},
+{
+"off": 1419304,
+"s": "REPEAT",
+"t": 8
+},
+{
+"off": 1419312,
+"s": "Mono",
+"t": 8
+},
+{
+"off": 1419320,
+"s": "Stereo",
+"t": 8
+},
+{
+"off": 1419328,
+"s": "MIX-DOWN",
+"t": 12
+},
+{
+"off": 1419340,
+"s": "UP-MIX",
+"t": 8
+},
+{
+"off": 1419348,
+"s": "TV",
+"t": 4
+},
+{
+"off": 1419352,
+"s": "LEFT",
+"t": 8
+},
+{
+"off": 1419360,
+"s": "only",
+"t": 8
+},
+{
+"off": 1419368,
+"s": "RIGHT",
+"t": 8
+},
+{
+"off": 1419376,
+"s": "CENTER",
+"t": 8
+},
+{
+"off": 1419384,
+"s": "REAR LEFT",
+"t": 16
+},
+{
+"off": 1419400,
+"s": "REAR RIGHT",
+"t": 16
+},
+{
+"off": 1419416,
+"s": "Reset Strip",
+"t": 16
+},
+{
+"off": 1419432,
+"s": "Reset EQUALIZER",
+"t": 16
+},
+{
+"off": 1419448,
+"s": "Reset Pan Pot",
+"t": 16
+},
+{
+"off": 1419464,
+"s": "Reset Parametric EQ",
+"t": 24
+},
+{
+"off": 1419488,
+"s": "Reset INTELLIPAN",
+"t": 24
+},
+{
+"off": 1419512,
+"s": "Reset Compressor",
+"t": 24
+},
+{
+"off": 1419536,
+"s": "Reset Gate",
+"t": 16
+},
+{
+"off": 1419552,
+"s": "Reset Denoiser/Pitch",
+"t": 24
+},
+{
+"off": 1419576,
+"s": "Reset FX Send",
+"t": 16
+},
+{
+"off": 1419592,
+"s": "Copy EQUALIZER",
+"t": 16
+},
+{
+"off": 1419608,
+"s": "Copy Pan Pot",
+"t": 16
+},
+{
+"off": 1419624,
+"s": "Copy Parametric EQ",
+"t": 24
+},
+{
+"off": 1419648,
+"s": "Copy INTELLIPAN",
+"t": 16
+},
+{
+"off": 1419664,
+"s": "Copy Compressor",
+"t": 16
+},
+{
+"off": 1419680,
+"s": "Copy Gate",
+"t": 16
+},
+{
+"off": 1419696,
+"s": "Copy Denoiser/Pitch",
+"t": 24
+},
+{
+"off": 1419720,
+"s": "Copy FX Send",
+"t": 16
+},
+{
+"off": 1419736,
+"s": "Save All",
+"t": 16
+},
+{
+"off": 1419752,
+"s": "Save EQUALIZER",
+"t": 16
+},
+{
+"off": 1419768,
+"s": "Save Pan Pot",
+"t": 16
+},
+{
+"off": 1419784,
+"s": "Save Parametric EQ",
+"t": 24
+},
+{
+"off": 1419808,
+"s": "Save INTELLIPAN",
+"t": 16
+},
+{
+"off": 1419824,
+"s": "Save Compressor",
+"t": 16
+},
+{
+"off": 1419840,
+"s": "Save Gate",
+"t": 16
+},
+{
+"off": 1419856,
+"s": "Save Denoiser/Pitch",
+"t": 24
+},
+{
+"off": 1419880,
+"s": "Save FX Send",
+"t": 16
+},
+{
+"off": 1419896,
+"s": "Load...",
+"t": 8
+},
+{
+"off": 1420808,
+"s": "STRIP_A1",
+"t": 16
+},
+{
+"off": 1420864,
+"s": "STRIP_A2",
+"t": 16
+},
+{
+"off": 1420920,
+"s": "STRIP_A3",
+"t": 16
+},
+{
+"off": 1420976,
+"s": "STRIP_A4",
+"t": 16
+},
+{
+"off": 1421032,
+"s": "STRIP_A5",
+"t": 16
+},
+{
+"off": 1421088,
+"s": "STRIP_B1",
+"t": 16
+},
+{
+"off": 1421144,
+"s": "STRIP_B2",
+"t": 16
+},
+{
+"off": 1421200,
+"s": "STRIP_B3",
+"t": 16
+},
+{
+"off": 1421256,
+"s": "STRIP_MONO",
+"t": 16
+},
+{
+"off": 1421320,
+"s": "STRIP_SOLO",
+"t": 16
+},
+{
+"off": 1421384,
+"s": "STRIP_MUTE",
+"t": 16
+},
+{
+"off": 1421448,
+"s": "STRIP_KARAOKE",
+"t": 16
+},
+{
+"off": 1421512,
+"s": "STRIP_MC",
+"t": 16
+},
+{
+"off": 1421568,
+"s": "STRIP_POSTFXR",
+"t": 16
+},
+{
+"off": 1421640,
+"s": "STRIP_POSTFXD",
+"t": 16
+},
+{
+"off": 1421712,
+"s": "STRIP_POSTFX1",
+"t": 16
+},
+{
+"off": 1421776,
+"s": "STRIP_POSTFX2",
+"t": 16
+},
+{
+"off": 1421840,
+"s": "MENU",
+"t": 8
+},
+{
+"off": 1421848,
+"s": "TAPE_REW",
+"t": 16
+},
+{
+"off": 1421944,
+"s": "TAPE_PLAY",
+"t": 24
+},
+{
+"off": 1422096,
+"s": "TAPE_STOP",
+"t": 16
+},
+{
+"off": 1422152,
+"s": "TAPE_REC",
+"t": 24
+},
+{
+"off": 1422264,
+"s": "TAPE",
+"t": 8
+},
+{
+"off": 1422640,
+"s": "STRIP_MENU",
+"t": 16
+},
+{
+"off": 1422696,
+"s": "BUS_MUTE",
+"t": 16
+},
+{
+"off": 1422752,
+"s": "BUS_MIXDOWNA",
+"t": 16
+},
+{
+"off": 1422816,
+"s": "BUS_MIXDOWNB",
+"t": 16
+},
+{
+"off": 1422880,
+"s": "BUS_STEREOREP",
+"t": 16
+},
+{
+"off": 1422952,
+"s": "BUS_COMPOSITE",
+"t": 16
+},
+{
+"off": 1423032,
+"s": "BUS_TVMIX",
+"t": 16
+},
+{
+"off": 1423104,
+"s": "BUS_UPMIX21",
+"t": 16
+},
+{
+"off": 1423176,
+"s": "BUS_UPMIX41",
+"t": 16
+},
+{
+"off": 1423248,
+"s": "BUS_UPMIX61",
+"t": 16
+},
+{
+"off": 1423320,
+"s": "BUS_LEFTONLY",
+"t": 16
+},
+{
+"off": 1423392,
+"s": "BUS_RIGHTONLY",
+"t": 16
+},
+{
+"off": 1423472,
+"s": "BUS_CENTERONLY",
+"t": 16
+},
+{
+"off": 1423552,
+"s": "BUS_LFEONLY",
+"t": 16
+},
+{
+"off": 1423624,
+"s": "BUS_REARONLY",
+"t": 16
+},
+{
+"off": 1423696,
+"s": "BUS_MIXNORMAL",
+"t": 16
+},
+{
+"off": 1423768,
+"s": "BUS_MONO",
+"t": 16
+},
+{
+"off": 1423824,
+"s": "BUS_EQ",
+"t": 8
+},
+{
+"off": 1423960,
+"s": "STRIP_FADER",
+"t": 16
+},
+{
+"off": 1424024,
+"s": "BUS_FADER",
+"t": 16
+},
+{
+"off": 1424088,
+"s": "STRIP_EQ",
+"t": 16
+},
+{
+"off": 1424152,
+"s": "STRIP_COMP",
+"t": 16
+},
+{
+"off": 1424216,
+"s": "STRIP_GATE",
+"t": 16
+},
+{
+"off": 1424280,
+"s": "STRIP_DEN",
+"t": 16
+},
+{
+"off": 1424352,
+"s": "STRIP_EQLO",
+"t": 16
+},
+{
+"off": 1424424,
+"s": "STRIP_EQMED",
+"t": 16
+},
+{
+"off": 1424496,
+"s": "STRIP_EQHI",
+"t": 16
+},
+{
+"off": 1424568,
+"s": "STRIP_TRGRAPH",
+"t": 16
+},
+{
+"off": 1424584,
+"s": "STRIP_PANELC",
+"t": 24
+},
+{
+"off": 1424720,
+"s": "STRIP_PANELM",
+"t": 16
+},
+{
+"off": 1424832,
+"s": "STRIP_PANELP",
+"t": 16
+},
+{
+"off": 1424952,
+"s": "STRIP_PANPOT",
+"t": 16
+},
+{
+"off": 1424968,
+"s": "STRIP_PANMODE",
+"t": 16
+},
+{
+"off": 1425032,
+"s": "STRIP_VINSERT",
+"t": 24
+},
+{
+"off": 1425152,
+"s": "STRIP_LIMITER",
+"t": 16
+},
+{
+"off": 1425224,
+"s": "STRIP_SENDR",
+"t": 16
+},
+{
+"off": 1425296,
+"s": "STRIP_SENDD",
+"t": 16
+},
+{
+"off": 1425368,
+"s": "STRIP_SENDFX1",
+"t": 16
+},
+{
+"off": 1425432,
+"s": "STRIP_SENDFX2",
+"t": 16
+},
+{
+"off": 1425496,
+"s": "BUS_RETR",
+"t": 16
+},
+{
+"off": 1425576,
+"s": "BUS_RETD",
+"t": 16
+},
+{
+"off": 1425656,
+"s": "BUT_REVERB",
+"t": 16
+},
+{
+"off": 1425712,
+"s": "BUT_DELAY",
+"t": 16
+},
+{
+"off": 1425768,
+"s": "BUS_RETFX1",
+"t": 16
+},
+{
+"off": 1425840,
+"s": "BUS_RETFX2",
+"t": 16
+},
+{
+"off": 1426064,
+"s": "BUTCLOSE",
+"t": 16
+},
+{
+"off": 1426080,
+"s": "BUTREDUCE",
+"t": 16
+},
+{
+"off": 1426096,
+"s": "BUTQUESTION",
+"t": 16
+},
+{
+"off": 1426112,
+"s": "LOCKICON",
+"t": 16
+},
+{
+"off": 1426128,
+"s": "AUDIOMAP",
+"t": 16
+},
+{
+"off": 1426144,
+"s": "BOXAUDIO",
+"t": 16
+},
+{
+"off": 1426160,
+"s": "BOXREMOTE",
+"t": 16
+},
+{
+"off": 1426176,
+"s": "VAIO_BUFFER",
+"t": 12
+},
+{
+"off": 1426188,
+"s": "STRIP0",
+"t": 8
+},
+{
+"off": 1426196,
+"s": "STRIP1",
+"t": 8
+},
+{
+"off": 1426204,
+"s": "STRIP2",
+"t": 8
+},
+{
+"off": 1426212,
+"s": "STRIP3",
+"t": 8
+},
+{
+"off": 1426220,
+"s": "STRIP4",
+"t": 8
+},
+{
+"off": 1426228,
+"s": "STRIP5",
+"t": 8
+},
+{
+"off": 1426236,
+"s": "STRIP6",
+"t": 8
+},
+{
+"off": 1426244,
+"s": "STRIP7",
+"t": 8
+},
+{
+"off": 1426252,
+"s": "BUSA1",
+"t": 8
+},
+{
+"off": 1426260,
+"s": "BUSA2",
+"t": 8
+},
+{
+"off": 1426268,
+"s": "BUSA3",
+"t": 8
+},
+{
+"off": 1426276,
+"s": "BUSA4",
+"t": 8
+},
+{
+"off": 1426284,
+"s": "BUSA5",
+"t": 12
+},
+{
+"off": 1426296,
+"s": "BUS_LIMITER",
+"t": 16
+},
+{
+"off": 1428168,
+"s": " %0.0f ms",
+"t": 16
+},
+{
+"off": 1428216,
+"s": "44.1kHz | %i",
+"t": 16
+},
+{
+"off": 1428232,
+"s": "88.2kHz | %i",
+"t": 16
+},
+{
+"off": 1428248,
+"s": "176.4kHz | %i",
+"t": 16
+},
+{
+"off": 1428264,
+"s": "%ikHz | %i",
+"t": 16
+},
+{
+"off": 1428872,
+"s": "Treble",
+"t": 8
+},
+{
+"off": 1428880,
+"s": "Bass",
+"t": 16
+},
+{
+"off": 1429320,
+"s": "VB-Audio Callback",
+"t": 24
+},
+{
+"off": 1429344,
+"s": "Select Input Device #%i",
+"t": 24
+},
+{
+"off": 1429368,
+"s": "Select A%i Output Device",
+"t": 32
+},
+{
+"off": 1429808,
+"s": "other Voicemeter audio points than output A1.",
+"t": 48
+},
+{
+"off": 1429856,
+"s": "Important information...",
+"t": 32
+},
+{
+"off": 1430080,
+"s": "Load Error",
+"t": 16
+},
+{
+"off": 1430096,
+"s": "Cannot Load settings from this file",
+"t": 40
+},
+{
+"off": 1430136,
+"s": "Output Device not Working...",
+"t": 32
+},
+{
+"off": 1430168,
+"s": "VBAN Warning...",
+"t": 16
+},
+{
+"off": 1430424,
+"s": "See also the Help and Support link given in Menu.",
+"t": 56
+},
+{
+"off": 1430480,
+"s": "Installation Warning...",
+"t": 24
+},
+{
+"off": 1430504,
+"s": "VoicemeeterMacroButtons.exe",
+"t": 32
+},
+{
+"off": 1430536,
+"s": "VMStreamerView.exe",
+"t": 24
+},
+{
+"off": 1430560,
+"s": "VoicemeeterBUSMatrix8.exe",
+"t": 32
+},
+{
+"off": 1430592,
+"s": "VoicemeeterBUSGEQ15.exe",
+"t": 24
+},
+{
+"off": 1430616,
+"s": "VBAN2MIDI.exe",
+"t": 16
+},
+{
+"off": 1430632,
+"s": "Re-Initialization",
+"t": 24
+},
+{
+"off": 1430749,
+"s": "Do you want to continue ?",
+"t": 27
+},
+{
+"off": 1430776,
+"s": "Voicemeeter Scene",
+"t": 24
+},
+{
+"off": 1430920,
+"s": "Engine Start in %0.0f s",
+"t": 24
+},
+{
+"off": 1430944,
+"s": "Starting...",
+"t": 16
+},
+{
+"off": 1430960,
+"s": "StartAudioEngine() after delayed process",
+"t": 44
+},
+{
+"off": 1431004,
+"s": "v%s",
+"t": 4
+},
+{
+"off": 1431008,
+"s": " x64",
+"t": 8
+},
+{
+"off": 1431016,
+"s": "Unregistered",
+"t": 16
+},
+{
+"off": 1431032,
+"s": "WM_CREATE (Application start)",
+"t": 32
+},
+{
+"off": 1431064,
+"s": "TaskbarCreated",
+"t": 16
+},
+{
+"off": 1431080,
+"s": "WM_POWERBROADCAST, wparam=%i (%08X), lparam=%i (%08X)",
+"t": 56
+},
+{
+"off": 1431136,
+"s": "WM_POWERBROADCAST->PBT_APMQUERYSUSPEND",
+"t": 40
+},
+{
+"off": 1431176,
+"s": "WM_POWERBROADCAST->PBT_APMSUSPEND",
+"t": 40
+},
+{
+"off": 1431216,
+"s": "WM_POWERBROADCAST->PBT_APMRESUMEAUTOMATIC",
+"t": 48
+},
+{
+"off": 1431264,
+"s": "WM_QUERYENDSESSION, wparam=%i (%08X), lparam=%i (%08X)",
+"t": 56
+},
+{
+"off": 1431320,
+"s": "WM_ENDSESSION, wparam=%i (%08X), lparam=%i (%08X)",
+"t": 56
+},
+{
+"off": 1431376,
+"s": "WM_CLOSE, wparam=%i (%08X), lparam=%i (%08X)",
+"t": 48
+},
+{
+"off": 1431424,
+"s": "WM_DESTROY, wparam=%i (%08X), lparam=%i (%08X)",
+"t": 48
+},
+{
+"off": 1431472,
+"s": "Startup Error",
+"t": 16
+},
+{
+"off": 1431488,
+"s": "Failed to register window class...",
+"t": 40
+},
+{
+"off": 1431528,
+"s": "Failed to create window...",
+"t": 32
+},
+{
+"off": 1431560,
+"s": "VB-Audio-VoiceMeeter-{7ED42BCD-3AC1-4b51-929E-1DF6EB3AF6BD}",
+"t": 64
+},
+{
+"off": 1431624,
+"s": "VoiceMeeter",
+"t": 16
+},
+{
+"off": 1431640,
+"s": "VBVASIOClientV2{E4244739-62ED-4d07-8D1E-16FAE7966868}",
+"t": 56
+},
+{
+"off": 1431696,
+"s": "VB-Audio\\VoiceMeeter",
+"t": 24
+},
+{
+"off": 1431720,
+"s": "VBVASIOClientV2{B0FEC6FA-7741-46a5-8008-D63E10822CBA}",
+"t": 56
+},
+{
+"off": 1431776,
+"s": "VB-Audio\\VoiceMeeterAux",
+"t": 24
+},
+{
+"off": 1431800,
+"s": "VBVASIOClientV2{F80C9D1F-4DD6-41af-9CFE-C085C2720D3D}",
+"t": 56
+},
+{
+"off": 1431856,
+"s": "VB-Audio\\VoiceMeeterVAIO3",
+"t": 32
+},
+{
+"off": 1431888,
+"s": "Voicemeeter-RTP",
+"t": 16
+},
+{
+"off": 1431904,
+"s": "APPLICATION END",
+"t": 18
+},
+{
+"off": 1431922,
+"s": "@@",
+"t": 4
+},
+{
+"off": 1431946,
+"s": "'7",
+"t": 4
+},
+{
+"off": 1431966,
+"s": "_A",
+"t": 5
+},
+{
+"off": 1432010,
+"s": "@A",
+"t": 4
+},
+{
+"off": 1432038,
+"s": "8@",
+"t": 8
+},
+{
+"off": 1432046,
+"s": "(@",
+"t": 4
+},
+{
+"off": 1432058,
+"s": "#<",
+"t": 12
+},
+{
+"off": 1432070,
+"s": "0@",
+"t": 8
+},
+{
+"off": 1432078,
+"s": " @",
+"t": 8
+},
+{
+"off": 1432159,
+"s": ">333?",
+"t": 20
+},
+{
+"off": 1432230,
+"s": "$@",
+"t": 4
+},
+{
+"off": 1432334,
+"s": "zE",
+"t": 4
+},
+{
+"off": 1432338,
+"s": "HC",
+"t": 4
+},
+{
+"off": 1432346,
+"s": "HB",
+"t": 4
+},
+{
+"off": 1432374,
+"s": " A",
+"t": 4
+},
+{
+"off": 1432430,
+"s": "@?",
+"t": 5
+},
+{
+"off": 1432450,
+"s": "L?",
+"t": 4
+},
+{
+"off": 1432498,
+"s": "@?",
+"t": 6
+},
+{
+"off": 1432532,
+"s": "MbP?",
+"t": 10
+},
+{
+"off": 1432574,
+"s": "`?",
+"t": 7
+},
+{
+"off": 1432606,
+"s": "`@",
+"t": 7
+},
+{
+"off": 1432614,
+"s": "_@",
+"t": 5
+},
+{
+"off": 1432690,
+"s": " <",
+"t": 14
+},
+{
+"off": 1432748,
+"s": "MbP?",
+"t": 6
+},
+{
+"off": 1432770,
+"s": ";?",
+"t": 4
+},
+{
+"off": 1432774,
+"s": "@B",
+"t": 4
+},
+{
+"off": 1432794,
+"s": "PB",
+"t": 4
+},
+{
+"off": 1432798,
+"s": "lB",
+"t": 4
+},
+{
+"off": 1432854,
+"s": "Y@",
+"t": 4
+},
+{
+"off": 1432870,
+"s": " B",
+"t": 4
+},
+{
+"off": 1432934,
+"s": "f@",
+"t": 7
+},
+{
+"off": 1432954,
+"s": "d@",
+"t": 4
+},
+{
+"off": 1432989,
+"s": "zt?",
+"t": 5
+},
+{
+"off": 1433065,
+"s": "DW?",
+"t": 6
+},
+{
+"off": 1433182,
+"s": "R@",
+"t": 8
+},
+{
+"off": 1433190,
+"s": "N@",
+"t": 8
+},
+{
+"off": 1433198,
+"s": "K@",
+"t": 8
+},
+{
+"off": 1433206,
+"s": "H@",
+"t": 4
+},
+{
+"off": 1433222,
+"s": ">@",
+"t": 4
+},
+{
+"off": 1433238,
+"s": "B@",
+"t": 4
+},
+{
+"off": 1433305,
+"s": "D,G",
+"t": 5
+},
+{
+"off": 1433346,
+"s": "n?",
+"t": 3
+},
+{
+"off": 1433362,
+"s": "zF",
+"t": 4
+},
+{
+"off": 1433374,
+"s": "+2",
+"t": 4
+},
+{
+"off": 1433438,
+"s": ";H",
+"t": 3
+},
+{
+"off": 1433441,
+"s": "D,H",
+"t": 4
+},
+{
+"off": 1433454,
+"s": ";G",
+"t": 4
+},
+{
+"off": 1433474,
+"s": "zC",
+"t": 18
+},
+{
+"off": 1436177,
+"s": "}c",
+"t": 3
+},
+{
+"off": 1436959,
+"s": ">Q",
+"t": 3
+},
+{
+"off": 1437430,
+"s": "p?",
+"t": 8
+},
+{
+"off": 1437438,
+"s": "p@",
+"t": 8
+},
+{
+"off": 1437686,
+"s": "!>",
+"t": 10
+},
+{
+"off": 1438070,
+"s": "!>",
+"t": 10
+},
+{
+"off": 1438878,
+"s": "G@",
+"t": 5
+},
+{
+"off": 1438902,
+"s": "B@",
+"t": 21
+},
+{
+"off": 1438940,
+"s": "&\t$@",
+"t": 8
+},
+{
+"off": 1438948,
+"s": "8J;@",
+"t": 7
+},
+{
+"off": 1438958,
+"s": "R@",
+"t": 5
+},
+{
+"off": 1438965,
+"s": "6i@",
+"t": 6
+},
+{
+"off": 1439029,
+"s": "Y\"A",
+"t": 6
+},
+{
+"off": 1439038,
+"s": "8A",
+"t": 5
+},
+{
+"off": 1439046,
+"s": "PA",
+"t": 5
+},
+{
+"off": 1439052,
+"s": "4\tgA",
+"t": 7
+},
+{
+"off": 1439118,
+"s": " B",
+"t": 5
+},
+{
+"off": 1439126,
+"s": "6B",
+"t": 5
+},
+{
+"off": 1439134,
+"s": "NB",
+"t": 5
+},
+{
+"off": 1439142,
+"s": "eB",
+"t": 5
+},
+{
+"off": 1439150,
+"s": "|B",
+"t": 5
+},
+{
+"off": 1439509,
+"s": " ]A",
+"t": 17
+},
+{
+"off": 1439549,
+"s": "\"$@",
+"t": 6
+},
+{
+"off": 1439557,
+"s": "N;@",
+"t": 6
+},
+{
+"off": 1439566,
+"s": "R@",
+"t": 5
+},
+{
+"off": 1439573,
+"s": "6i@",
+"t": 6
+},
+{
+"off": 1439637,
+"s": "Y\"A",
+"t": 6
+},
+{
+"off": 1439646,
+"s": "8A",
+"t": 5
+},
+{
+"off": 1439654,
+"s": "PA",
+"t": 5
+},
+{
+"off": 1439660,
+"s": "4\tgA",
+"t": 7
+},
+{
+"off": 1439726,
+"s": " B",
+"t": 5
+},
+{
+"off": 1439734,
+"s": "6B",
+"t": 5
+},
+{
+"off": 1439742,
+"s": "NB",
+"t": 5
+},
+{
+"off": 1439750,
+"s": "eB",
+"t": 5
+},
+{
+"off": 1439758,
+"s": "|B",
+"t": 5
+},
+{
+"off": 1440432,
+"s": "H:\\Travaux\\VB_VAC\\VoiceMeeter\\Project\\Voicemeeter8_vc2010\\x64\\Release\\Voicemeeter8x64.pdb",
+"t": 128
+},
+{
+"off": 1440597,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1440849,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1440889,
+"s": "4d",
+"t": 3
+},
+{
+"off": 1440921,
+"s": ".\t",
+"t": 3
+},
+{
+"off": 1440961,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1441073,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1441293,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1441357,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1441365,
+"s": "4!",
+"t": 3
+},
+{
+"off": 1441401,
+"s": "4#",
+"t": 3
+},
+{
+"off": 1441429,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1441529,
+"s": "dQ",
+"t": 3
+},
+{
+"off": 1441533,
+"s": "TP",
+"t": 3
+},
+{
+"off": 1441537,
+"s": "4O",
+"t": 3
+},
+{
+"off": 1441561,
+"s": "/\t",
+"t": 3
+},
+{
+"off": 1441669,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1442017,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1442221,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1442349,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1442941,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1443177,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1443204,
+"s": "\tb",
+"t": 4
+},
+{
+"off": 1443249,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1443341,
+"s": "4!",
+"t": 3
+},
+{
+"off": 1443377,
+"s": "4L",
+"t": 3
+},
+{
+"off": 1443635,
+"s": "P!",
+"t": 6
+},
+{
+"off": 1443688,
+"s": " \t",
+"t": 4
+},
+{
+"off": 1443756,
+"s": "#h\t",
+"t": 4
+},
+{
+"off": 1443835,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1443951,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1444349,
+"s": "d%",
+"t": 3
+},
+{
+"off": 1444353,
+"s": "4$",
+"t": 3
+},
+{
+"off": 1444491,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1444769,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1444783,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1444865,
+"s": "h\t",
+"t": 3
+},
+{
+"off": 1445089,
+"s": "4)",
+"t": 3
+},
+{
+"off": 1445237,
+"s": "4 ",
+"t": 3
+},
+{
+"off": 1445408,
+"s": "+x\t",
+"t": 4
+},
+{
+"off": 1445517,
+"s": "h\t",
+"t": 3
+},
+{
+"off": 1445607,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1445716,
+"s": ":h\t",
+"t": 4
+},
+{
+"off": 1445740,
+"s": "$t%",
+"t": 4
+},
+{
+"off": 1445744,
+"s": "$d$",
+"t": 4
+},
+{
+"off": 1445748,
+"s": "$4\"",
+"t": 4
+},
+{
+"off": 1445781,
+"s": "4&",
+"t": 3
+},
+{
+"off": 1445825,
+"s": "#\t",
+"t": 3
+},
+{
+"off": 1445829,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1445845,
+"s": "#\t",
+"t": 3
+},
+{
+"off": 1445849,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1445869,
+"s": "#\t",
+"t": 3
+},
+{
+"off": 1445873,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1445929,
+"s": "dI",
+"t": 3
+},
+{
+"off": 1445949,
+"s": "tK",
+"t": 3
+},
+{
+"off": 1445953,
+"s": "4J",
+"t": 3
+},
+{
+"off": 1446099,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1446163,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1446655,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1446733,
+"s": "d,",
+"t": 3
+},
+{
+"off": 1446737,
+"s": "43",
+"t": 3
+},
+{
+"off": 1446889,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1446901,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1446905,
+"s": "T#",
+"t": 3
+},
+{
+"off": 1446909,
+"s": "4\"",
+"t": 3
+},
+{
+"off": 1447248,
+"s": "!x",
+"t": 4
+},
+{
+"off": 1447257,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1447355,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1447532,
+"s": "#t",
+"t": 4
+},
+{
+"off": 1447789,
+"s": "t&",
+"t": 4
+},
+{
+"off": 1447793,
+"s": "d-",
+"t": 3
+},
+{
+"off": 1447817,
+"s": "t&",
+"t": 3
+},
+{
+"off": 1447845,
+"s": "t&",
+"t": 4
+},
+{
+"off": 1447849,
+"s": "d-",
+"t": 3
+},
+{
+"off": 1447945,
+"s": "d-",
+"t": 3
+},
+{
+"off": 1447969,
+"s": "t&",
+"t": 3
+},
+{
+"off": 1448029,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1448059,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1448291,
+"s": "0!",
+"t": 6
+},
+{
+"off": 1448532,
+"s": "P ",
+"t": 4
+},
+{
+"off": 1448639,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1449077,
+"s": "4/",
+"t": 3
+},
+{
+"off": 1449179,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1449277,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1449305,
+"s": ")\t",
+"t": 3
+},
+{
+"off": 1449309,
+"s": "d'",
+"t": 3
+},
+{
+"off": 1449313,
+"s": "T&",
+"t": 3
+},
+{
+"off": 1449317,
+"s": "4$",
+"t": 3
+},
+{
+"off": 1449341,
+"s": "x#",
+"t": 3
+},
+{
+"off": 1449345,
+"s": "h$",
+"t": 3
+},
+{
+"off": 1449349,
+"s": "dO",
+"t": 3
+},
+{
+"off": 1449353,
+"s": "TN",
+"t": 3
+},
+{
+"off": 1449357,
+"s": "4M",
+"t": 3
+},
+{
+"off": 1449475,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1449527,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1449635,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1449771,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1449852,
+"s": "6t",
+"t": 4
+},
+{
+"off": 1449907,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1450101,
+"s": "42",
+"t": 3
+},
+{
+"off": 1450159,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1450257,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1450343,
+"s": "0!",
+"t": 6
+},
+{
+"off": 1450369,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1450417,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1450517,
+"s": " \t",
+"t": 3
+},
+{
+"off": 1450629,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1450719,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1450997,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1451001,
+"s": "T'",
+"t": 3
+},
+{
+"off": 1451005,
+"s": "4&",
+"t": 3
+},
+{
+"off": 1451351,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1451667,
+"s": "p!",
+"t": 6
+},
+{
+"off": 1451795,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1451845,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1451851,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1451897,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1451903,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1452160,
+"s": "Cd\t",
+"t": 4
+},
+{
+"off": 1452175,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1452235,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1452257,
+"s": "df",
+"t": 3
+},
+{
+"off": 1452273,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1452277,
+"s": "4g",
+"t": 3
+},
+{
+"off": 1452388,
+"s": "#x\t",
+"t": 4
+},
+{
+"off": 1452453,
+"s": "h4",
+"t": 4
+},
+{
+"off": 1452537,
+"s": "x3",
+"t": 3
+},
+{
+"off": 1452556,
+"s": "8h4",
+"t": 4
+},
+{
+"off": 1452577,
+"s": "tn",
+"t": 3
+},
+{
+"off": 1452597,
+"s": "dt",
+"t": 3
+},
+{
+"off": 1452648,
+"s": "t`",
+"t": 4
+},
+{
+"off": 1452664,
+"s": "t`",
+"t": 4
+},
+{
+"off": 1452716,
+"s": "t`",
+"t": 4
+},
+{
+"off": 1452749,
+"s": "t2",
+"t": 3
+},
+{
+"off": 1452753,
+"s": "d3",
+"t": 3
+},
+{
+"off": 1452757,
+"s": "44",
+"t": 3
+},
+{
+"off": 1452764,
+"s": "t`",
+"t": 4
+},
+{
+"off": 1452783,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1452796,
+"s": "pR",
+"t": 4
+},
+{
+"off": 1452832,
+"s": "pR",
+"t": 4
+},
+{
+"off": 1452909,
+"s": "4!",
+"t": 3
+},
+{
+"off": 1452912,
+"s": "pR",
+"t": 4
+},
+{
+"off": 1452935,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1452992,
+"s": "?5",
+"t": 4
+},
+{
+"off": 1453024,
+"s": "?5",
+"t": 4
+},
+{
+"off": 1453077,
+"s": "d8",
+"t": 3
+},
+{
+"off": 1453097,
+"s": "49",
+"t": 3
+},
+{
+"off": 1453117,
+"s": "t7",
+"t": 3
+},
+{
+"off": 1453120,
+"s": "@4",
+"t": 4
+},
+{
+"off": 1453124,
+"s": "|4",
+"t": 4
+},
+{
+"off": 1453137,
+"s": "t7",
+"t": 3
+},
+{
+"off": 1453140,
+"s": "@4",
+"t": 4
+},
+{
+"off": 1453144,
+"s": "|4",
+"t": 4
+},
+{
+"off": 1453231,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1453409,
+"s": "tP",
+"t": 3
+},
+{
+"off": 1453429,
+"s": "4O",
+"t": 3
+},
+{
+"off": 1453509,
+"s": "4 ",
+"t": 3
+},
+{
+"off": 1453533,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1453537,
+"s": "T3",
+"t": 3
+},
+{
+"off": 1453541,
+"s": "42",
+"t": 3
+},
+{
+"off": 1453573,
+"s": "4>",
+"t": 3
+},
+{
+"off": 1453605,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1453609,
+"s": "42",
+"t": 3
+},
+{
+"off": 1453705,
+"s": "4(",
+"t": 3
+},
+{
+"off": 1453769,
+"s": "48",
+"t": 3
+},
+{
+"off": 1453908,
+"s": " 4H",
+"t": 4
+},
+{
+"off": 1453973,
+"s": "t!",
+"t": 3
+},
+{
+"off": 1453977,
+"s": "d)",
+"t": 3
+},
+{
+"off": 1454133,
+"s": "4!",
+"t": 3
+},
+{
+"off": 1454303,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1454413,
+"s": "t$",
+"t": 3
+},
+{
+"off": 1454417,
+"s": "T-",
+"t": 3
+},
+{
+"off": 1454485,
+"s": "40",
+"t": 3
+},
+{
+"off": 1454509,
+"s": ".\t",
+"t": 3
+},
+{
+"off": 1454513,
+"s": "dA",
+"t": 3
+},
+{
+"off": 1454517,
+"s": "4@",
+"t": 3
+},
+{
+"off": 1454649,
+"s": "41",
+"t": 3
+},
+{
+"off": 1455023,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1455111,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1455153,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1455205,
+"s": "d@",
+"t": 3
+},
+{
+"off": 1455221,
+"s": ",\t",
+"t": 3
+},
+{
+"off": 1455505,
+"s": "(\t",
+"t": 3
+},
+{
+"off": 1455509,
+"s": "d&",
+"t": 3
+},
+{
+"off": 1455513,
+"s": "4%",
+"t": 3
+},
+{
+"off": 1455749,
+"s": "4I",
+"t": 3
+},
+{
+"off": 1455941,
+"s": "4)",
+"t": 3
+},
+{
+"off": 1455985,
+"s": "4(",
+"t": 3
+},
+{
+"off": 1456021,
+"s": "4*",
+"t": 3
+},
+{
+"off": 1456057,
+"s": "d!",
+"t": 3
+},
+{
+"off": 1456061,
+"s": "4 ",
+"t": 3
+},
+{
+"off": 1456113,
+"s": "4.",
+"t": 3
+},
+{
+"off": 1456149,
+"s": "4>",
+"t": 3
+},
+{
+"off": 1456185,
+"s": "46",
+"t": 3
+},
+{
+"off": 1456221,
+"s": "4,",
+"t": 3
+},
+{
+"off": 1456289,
+"s": "dZ",
+"t": 3
+},
+{
+"off": 1456293,
+"s": "4Y",
+"t": 3
+},
+{
+"off": 1456660,
+"s": "!dW",
+"t": 4
+},
+{
+"off": 1456664,
+"s": "!4V",
+"t": 4
+},
+{
+"off": 1456697,
+"s": "4T",
+"t": 3
+},
+{
+"off": 1456729,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1456733,
+"s": "T!",
+"t": 3
+},
+{
+"off": 1456737,
+"s": "4 ",
+"t": 3
+},
+{
+"off": 1456761,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1456765,
+"s": "4\"",
+"t": 3
+},
+{
+"off": 1456857,
+"s": "d$",
+"t": 3
+},
+{
+"off": 1456897,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1456901,
+"s": "4$",
+"t": 3
+},
+{
+"off": 1456965,
+"s": "h9",
+"t": 3
+},
+{
+"off": 1457081,
+"s": "ti",
+"t": 3
+},
+{
+"off": 1457295,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1457621,
+"s": "t>",
+"t": 3
+},
+{
+"off": 1457625,
+"s": "TD",
+"t": 3
+},
+{
+"off": 1457717,
+"s": ")\t",
+"t": 3
+},
+{
+"off": 1457775,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1457867,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1458052,
+"s": " x.",
+"t": 4
+},
+{
+"off": 1458057,
+"s": "h/",
+"t": 3
+},
+{
+"off": 1458065,
+"s": "dd",
+"t": 3
+},
+{
+"off": 1458183,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1458429,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1458445,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1458459,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1458569,
+"s": "4.",
+"t": 3
+},
+{
+"off": 1458624,
+"s": "%hG",
+"t": 4
+},
+{
+"off": 1458709,
+"s": "d7",
+"t": 3
+},
+{
+"off": 1458713,
+"s": "46",
+"t": 3
+},
+{
+"off": 1458744,
+"s": "$h\t",
+"t": 4
+},
+{
+"off": 1458809,
+"s": "tP",
+"t": 3
+},
+{
+"off": 1458813,
+"s": "dV",
+"t": 3
+},
+{
+"off": 1458891,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1459097,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1459157,
+"s": "40",
+"t": 3
+},
+{
+"off": 1459233,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1459349,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1459389,
+"s": "8\t",
+"t": 3
+},
+{
+"off": 1459393,
+"s": "9\t",
+"t": 3
+},
+{
+"off": 1459405,
+"s": "9\t",
+"t": 3
+},
+{
+"off": 1459408,
+"s": "v;\t",
+"t": 4
+},
+{
+"off": 1459420,
+"s": "v;\t",
+"t": 4
+},
+{
+"off": 1459425,
+"s": ";\t",
+"t": 3
+},
+{
+"off": 1459440,
+"s": "v;\t",
+"t": 4
+},
+{
+"off": 1459445,
+"s": ";\t",
+"t": 3
+},
+{
+"off": 1459465,
+"s": "9\t",
+"t": 3
+},
+{
+"off": 1459468,
+"s": "v;\t",
+"t": 4
+},
+{
+"off": 1459493,
+"s": "t)",
+"t": 3
+},
+{
+"off": 1459497,
+"s": "d*",
+"t": 3
+},
+{
+"off": 1459501,
+"s": "8\t",
+"t": 3
+},
+{
+"off": 1459505,
+"s": "9\t",
+"t": 3
+},
+{
+"off": 1459540,
+"s": "`5\t",
+"t": 4
+},
+{
+"off": 1459545,
+"s": "5\t",
+"t": 3
+},
+{
+"off": 1459564,
+"s": "`5\t",
+"t": 4
+},
+{
+"off": 1459569,
+"s": "5\t",
+"t": 3
+},
+{
+"off": 1459587,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1459641,
+"s": "t ",
+"t": 4
+},
+{
+"off": 1459645,
+"s": "d!",
+"t": 4
+},
+{
+"off": 1459649,
+"s": "4%",
+"t": 3
+},
+{
+"off": 1459733,
+"s": "t ",
+"t": 3
+},
+{
+"off": 1459737,
+"s": "d!",
+"t": 3
+},
+{
+"off": 1459741,
+"s": "4%",
+"t": 3
+},
+{
+"off": 1459812,
+"s": "(xE",
+"t": 4
+},
+{
+"off": 1459816,
+"s": "$hF",
+"t": 4
+},
+{
+"off": 1459884,
+"s": "`0",
+"t": 4
+},
+{
+"off": 1459979,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1460032,
+"s": "#T\t",
+"t": 4
+},
+{
+"off": 1460053,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1460507,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1460565,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1460715,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1460775,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1460813,
+"s": "+\t",
+"t": 3
+},
+{
+"off": 1460943,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1461157,
+"s": "d0",
+"t": 3
+},
+{
+"off": 1461161,
+"s": "T/",
+"t": 3
+},
+{
+"off": 1461165,
+"s": "4.",
+"t": 3
+},
+{
+"off": 1461253,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1461317,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1461429,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1461535,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1461827,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1461849,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1461913,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1462012,
+"s": ">t\t",
+"t": 4
+},
+{
+"off": 1462133,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1462137,
+"s": "4$",
+"t": 3
+},
+{
+"off": 1462275,
+"s": "p!",
+"t": 3
+},
+{
+"off": 1462735,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1462749,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1462825,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1462923,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1462985,
+"s": "d-",
+"t": 3
+},
+{
+"off": 1462989,
+"s": "4,",
+"t": 3
+},
+{
+"off": 1463209,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1463215,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1463273,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1463323,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1463375,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1463440,
+"s": "@ ",
+"t": 4
+},
+{
+"off": 1463725,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1463859,
+"s": "`!",
+"t": 3
+},
+{
+"off": 1463925,
+"s": "3\t",
+"t": 3
+},
+{
+"off": 1463952,
+"s": "p$",
+"t": 4
+},
+{
+"off": 1464103,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1464125,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1464261,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1464315,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1464357,
+"s": "4*",
+"t": 3
+},
+{
+"off": 1464589,
+"s": "4!",
+"t": 4
+},
+{
+"off": 1464655,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1464693,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1464747,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1464785,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1464839,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1464931,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1465137,
+"s": "d-",
+"t": 3
+},
+{
+"off": 1465141,
+"s": "T,",
+"t": 3
+},
+{
+"off": 1465145,
+"s": "4+",
+"t": 3
+},
+{
+"off": 1465465,
+"s": "d,",
+"t": 3
+},
+{
+"off": 1465469,
+"s": "T+",
+"t": 3
+},
+{
+"off": 1465473,
+"s": "4*",
+"t": 3
+},
+{
+"off": 1465841,
+"s": "d,",
+"t": 3
+},
+{
+"off": 1465845,
+"s": "4+",
+"t": 3
+},
+{
+"off": 1465963,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1466025,
+"s": "d1",
+"t": 3
+},
+{
+"off": 1466177,
+"s": "4\"",
+"t": 3
+},
+{
+"off": 1466216,
+"s": "!t0",
+"t": 4
+},
+{
+"off": 1466220,
+"s": "!d/",
+"t": 4
+},
+{
+"off": 1466224,
+"s": "!4.",
+"t": 4
+},
+{
+"off": 1466291,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1466437,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1466609,
+"s": "t(",
+"t": 3
+},
+{
+"off": 1466641,
+"s": "6\t",
+"t": 3
+},
+{
+"off": 1466668,
+"s": "@!",
+"t": 4
+},
+{
+"off": 1466681,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1466691,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1467125,
+"s": "t.",
+"t": 3
+},
+{
+"off": 1467269,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1467289,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1467299,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1467351,
+"s": "p!",
+"t": 3
+},
+{
+"off": 1467573,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1467733,
+"s": "4L",
+"t": 3
+},
+{
+"off": 1467776,
+"s": "@ ",
+"t": 4
+},
+{
+"off": 1467948,
+"s": "?4",
+"t": 4
+},
+{
+"off": 1467969,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1467997,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1468359,
+"s": "p!",
+"t": 3
+},
+{
+"off": 1468553,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1468589,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1468657,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1468691,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1468744,
+"s": " x6",
+"t": 4
+},
+{
+"off": 1468749,
+"s": "h7",
+"t": 3
+},
+{
+"off": 1468757,
+"s": "dv",
+"t": 3
+},
+{
+"off": 1468801,
+"s": "x(",
+"t": 3
+},
+{
+"off": 1468805,
+"s": "h)",
+"t": 3
+},
+{
+"off": 1468849,
+"s": "x.",
+"t": 3
+},
+{
+"off": 1468853,
+"s": "h/",
+"t": 3
+},
+{
+"off": 1468857,
+"s": "dd",
+"t": 3
+},
+{
+"off": 1468861,
+"s": "4c",
+"t": 3
+},
+{
+"off": 1468948,
+"s": "CT\t",
+"t": 4
+},
+{
+"off": 1469027,
+"s": "`!",
+"t": 3
+},
+{
+"off": 1469217,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1469227,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1469419,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1469445,
+"s": "tC",
+"t": 3
+},
+{
+"off": 1469449,
+"s": "dI",
+"t": 3
+},
+{
+"off": 1469453,
+"s": "4H",
+"t": 3
+},
+{
+"off": 1469613,
+"s": "xO",
+"t": 3
+},
+{
+"off": 1469633,
+"s": "hP",
+"t": 3
+},
+{
+"off": 1469865,
+"s": "0\t",
+"t": 3
+},
+{
+"off": 1469957,
+"s": "d1",
+"t": 3
+},
+{
+"off": 1470041,
+"s": "tv",
+"t": 3
+},
+{
+"off": 1470065,
+"s": "tv",
+"t": 3
+},
+{
+"off": 1470165,
+"s": "tV",
+"t": 3
+},
+{
+"off": 1470185,
+"s": "tV",
+"t": 3
+},
+{
+"off": 1470189,
+"s": "d_",
+"t": 3
+},
+{
+"off": 1470289,
+"s": "h(",
+"t": 3
+},
+{
+"off": 1470313,
+"s": "tS",
+"t": 3
+},
+{
+"off": 1470317,
+"s": "d]",
+"t": 3
+},
+{
+"off": 1470397,
+"s": "t*",
+"t": 3
+},
+{
+"off": 1470493,
+"s": "h*",
+"t": 3
+},
+{
+"off": 1470509,
+"s": "tY",
+"t": 3
+},
+{
+"off": 1470513,
+"s": "d`",
+"t": 3
+},
+{
+"off": 1470637,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1470681,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1470717,
+"s": "d\t",
+"t": 4
+},
+{
+"off": 1470829,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1470849,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1470869,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1470891,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1471137,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1471189,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1471241,
+"s": "xK",
+"t": 3
+},
+{
+"off": 1471245,
+"s": "hL",
+"t": 3
+},
+{
+"off": 1471307,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1471379,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1471445,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1471467,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1471717,
+"s": "[\t",
+"t": 3
+},
+{
+"off": 1471720,
+"s": "+\\\t",
+"t": 4
+},
+{
+"off": 1471737,
+"s": "[\t",
+"t": 3
+},
+{
+"off": 1471740,
+"s": "+\\\t",
+"t": 4
+},
+{
+"off": 1471868,
+"s": "#x:",
+"t": 4
+},
+{
+"off": 1471873,
+"s": "h;",
+"t": 3
+},
+{
+"off": 1471941,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1472011,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1472053,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1472712,
+"s": "P#",
+"t": 4
+},
+{
+"off": 1473053,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1473063,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1473124,
+"s": "  ",
+"t": 4
+},
+{
+"off": 1473665,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1473739,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1473799,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1473891,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1474009,
+"s": "4,",
+"t": 3
+},
+{
+"off": 1474555,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1474669,
+"s": "t-",
+"t": 3
+},
+{
+"off": 1474689,
+"s": "t-",
+"t": 3
+},
+{
+"off": 1474705,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1474795,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1475043,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1475113,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1475347,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1475449,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1475479,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1475568,
+"s": "P\t",
+"t": 4
+},
+{
+"off": 1475672,
+"s": "P\t",
+"t": 4
+},
+{
+"off": 1475727,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1475825,
+"s": "d#",
+"t": 3
+},
+{
+"off": 1476255,
+"s": "0!",
+"t": 3
+},
+{
+"off": 1476373,
+"s": "x\t",
+"t": 4
+},
+{
+"off": 1476453,
+"s": "x\t",
+"t": 4
+},
+{
+"off": 1476489,
+"s": "x\t",
+"t": 3
+},
+{
+"off": 1476907,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1477099,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1477453,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1477577,
+"s": "4*",
+"t": 3
+},
+{
+"off": 1477609,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1477973,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1478065,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1478075,
+"s": "p!",
+"t": 3
+},
+{
+"off": 1478693,
+"s": "4 ",
+"t": 3
+},
+{
+"off": 1478843,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1478904,
+"s": " \t",
+"t": 4
+},
+{
+"off": 1479021,
+"s": "4)",
+"t": 3
+},
+{
+"off": 1479041,
+"s": "4)",
+"t": 3
+},
+{
+"off": 1479065,
+"s": "t#",
+"t": 3
+},
+{
+"off": 1479069,
+"s": "d*",
+"t": 3
+},
+{
+"off": 1479177,
+"s": "4T",
+"t": 3
+},
+{
+"off": 1479339,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1479421,
+"s": "44",
+"t": 3
+},
+{
+"off": 1479597,
+"s": "5\t",
+"t": 3
+},
+{
+"off": 1479881,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1479909,
+"s": "t\t",
+"t": 4
+},
+{
+"off": 1479943,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1480065,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1480128,
+"s": "Pn\t",
+"t": 4
+},
+{
+"off": 1480133,
+"s": "n\t",
+"t": 3
+},
+{
+"off": 1480144,
+"s": "Pn\t",
+"t": 4
+},
+{
+"off": 1480149,
+"s": "n\t",
+"t": 3
+},
+{
+"off": 1480161,
+"s": "n\t",
+"t": 3
+},
+{
+"off": 1480165,
+"s": "o\t",
+"t": 4
+},
+{
+"off": 1480181,
+"s": "n\t",
+"t": 3
+},
+{
+"off": 1480185,
+"s": "o\t",
+"t": 4
+},
+{
+"off": 1480200,
+"s": "Pn\t",
+"t": 4
+},
+{
+"off": 1480205,
+"s": "n\t",
+"t": 3
+},
+{
+"off": 1480241,
+"s": "4'",
+"t": 3
+},
+{
+"off": 1480419,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1480619,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1480661,
+"s": "46",
+"t": 3
+},
+{
+"off": 1481077,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1481112,
+"s": "@ ",
+"t": 4
+},
+{
+"off": 1481591,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1481844,
+"s": "P%",
+"t": 4
+},
+{
+"off": 1481885,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1481995,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1482165,
+"s": "+\t",
+"t": 3
+},
+{
+"off": 1482316,
+"s": "P0",
+"t": 4
+},
+{
+"off": 1482631,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1482695,
+"s": "0!",
+"t": 6
+},
+{
+"off": 1483152,
+"s": "pI",
+"t": 4
+},
+{
+"off": 1483177,
+"s": "T9",
+"t": 3
+},
+{
+"off": 1483241,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1483245,
+"s": "TW",
+"t": 3
+},
+{
+"off": 1483249,
+"s": "4V",
+"t": 3
+},
+{
+"off": 1483499,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1483639,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1483687,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1483733,
+"s": "4C",
+"t": 3
+},
+{
+"off": 1484260,
+"s": " H",
+"t": 4
+},
+{
+"off": 1484437,
+"s": "t3",
+"t": 3
+},
+{
+"off": 1484441,
+"s": "d2",
+"t": 3
+},
+{
+"off": 1484445,
+"s": "T1",
+"t": 3
+},
+{
+"off": 1484449,
+"s": "40",
+"t": 3
+},
+{
+"off": 1484521,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1484527,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1484623,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1484735,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1484927,
+"s": "`!",
+"t": 3
+},
+{
+"off": 1485511,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1485591,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1485757,
+"s": "(\t",
+"t": 3
+},
+{
+"off": 1485836,
+"s": ".d\t",
+"t": 4
+},
+{
+"off": 1485851,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1485873,
+"s": "t+",
+"t": 3
+},
+{
+"off": 1485893,
+"s": "4-",
+"t": 3
+},
+{
+"off": 1486261,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1486431,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1486573,
+"s": "d'",
+"t": 3
+},
+{
+"off": 1486577,
+"s": "T0",
+"t": 3
+},
+{
+"off": 1486629,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1486721,
+"s": "x\t",
+"t": 3
+},
+{
+"off": 1486725,
+"s": "x\t",
+"t": 3
+},
+{
+"off": 1486781,
+"s": "x\t",
+"t": 3
+},
+{
+"off": 1486785,
+"s": "x\t",
+"t": 3
+},
+{
+"off": 1486820,
+"s": "@t\t",
+"t": 4
+},
+{
+"off": 1486824,
+"s": "qt\t",
+"t": 4
+},
+{
+"off": 1486888,
+"s": "@t\t",
+"t": 4
+},
+{
+"off": 1486892,
+"s": "qt\t",
+"t": 4
+},
+{
+"off": 1486929,
+"s": "r\t",
+"t": 3
+},
+{
+"off": 1486932,
+"s": "@s\t",
+"t": 4
+},
+{
+"off": 1486949,
+"s": "r\t",
+"t": 3
+},
+{
+"off": 1486952,
+"s": "@s\t",
+"t": 4
+},
+{
+"off": 1487109,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1487425,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1487481,
+"s": "+\t",
+"t": 3
+},
+{
+"off": 1487629,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1487649,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1488019,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1488213,
+"s": "dY",
+"t": 3
+},
+{
+"off": 1488237,
+"s": "dY",
+"t": 3
+},
+{
+"off": 1488253,
+"s": "-\t",
+"t": 3
+},
+{
+"off": 1488257,
+"s": "4[",
+"t": 3
+},
+{
+"off": 1488289,
+"s": "4!",
+"t": 3
+},
+{
+"off": 1488341,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1488739,
+"s": "p!",
+"t": 6
+},
+{
+"off": 1488865,
+"s": "$\t",
+"t": 3
+},
+{
+"off": 1488901,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1489011,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1489322,
+"s": "\" ",
+"t": 3
+},
+{
+"off": 1489428,
+"s": "`'",
+"t": 4
+},
+{
+"off": 1489448,
+"s": "`'",
+"t": 4
+},
+{
+"off": 1489513,
+"s": "*\t",
+"t": 3
+},
+{
+"off": 1489540,
+"s": "0R",
+"t": 4
+},
+{
+"off": 1489857,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1489863,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1489929,
+"s": "'\t",
+"t": 3
+},
+{
+"off": 1490029,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1490105,
+"s": "hG",
+"t": 3
+},
+{
+"off": 1490189,
+"s": "hG",
+"t": 3
+},
+{
+"off": 1490245,
+"s": "xF",
+"t": 3
+},
+{
+"off": 1490325,
+"s": "^\t",
+"t": 3
+},
+{
+"off": 1490328,
+"s": "L_\t",
+"t": 4
+},
+{
+"off": 1490345,
+"s": "^\t",
+"t": 3
+},
+{
+"off": 1490348,
+"s": "L_\t",
+"t": 4
+},
+{
+"off": 1490372,
+"s": "-T\t",
+"t": 4
+},
+{
+"off": 1490389,
+"s": "\\\t",
+"t": 3
+},
+{
+"off": 1490392,
+"s": "t]\t",
+"t": 4
+},
+{
+"off": 1490409,
+"s": "\\\t",
+"t": 3
+},
+{
+"off": 1490412,
+"s": "t]\t",
+"t": 4
+},
+{
+"off": 1490429,
+"s": "\\\t",
+"t": 3
+},
+{
+"off": 1490432,
+"s": "t]\t",
+"t": 4
+},
+{
+"off": 1490452,
+"s": "@L\t",
+"t": 4
+},
+{
+"off": 1490457,
+"s": "L\t",
+"t": 3
+},
+{
+"off": 1490476,
+"s": "@L\t",
+"t": 4
+},
+{
+"off": 1490481,
+"s": "L\t",
+"t": 3
+},
+{
+"off": 1490540,
+"s": " %",
+"t": 4
+},
+{
+"off": 1491341,
+"s": "3\t",
+"t": 3
+},
+{
+"off": 1491609,
+"s": "4\t",
+"t": 3
+},
+{
+"off": 1491679,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1491705,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1491729,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1491789,
+"s": "h$",
+"t": 3
+},
+{
+"off": 1491809,
+"s": "tO",
+"t": 3
+},
+{
+"off": 1491829,
+"s": "4P",
+"t": 3
+},
+{
+"off": 1491873,
+"s": "h$",
+"t": 3
+},
+{
+"off": 1491893,
+"s": "tO",
+"t": 4
+},
+{
+"off": 1491913,
+"s": "t+",
+"t": 3
+},
+{
+"off": 1491917,
+"s": "d*",
+"t": 3
+},
+{
+"off": 1491921,
+"s": "T)",
+"t": 3
+},
+{
+"off": 1491925,
+"s": "4(",
+"t": 3
+},
+{
+"off": 1492003,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1492133,
+"s": "d$",
+"t": 3
+},
+{
+"off": 1492137,
+"s": "4#",
+"t": 3
+},
+{
+"off": 1492389,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1492505,
+"s": "$\t",
+"t": 3
+},
+{
+"off": 1492735,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1492781,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1492787,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1493053,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1493129,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1493139,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1493213,
+"s": "!\t",
+"t": 3
+},
+{
+"off": 1493339,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1493543,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1493715,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1493925,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1493935,
+"s": "p!",
+"t": 6
+},
+{
+"off": 1493957,
+"s": "x(",
+"t": 3
+},
+{
+"off": 1494025,
+"s": "h)",
+"t": 3
+},
+{
+"off": 1494108,
+"s": "%x'",
+"t": 4
+},
+{
+"off": 1494112,
+"s": "!h(",
+"t": 4
+},
+{
+"off": 1494149,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1494163,
+"s": "p!",
+"t": 3
+},
+{
+"off": 1494487,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1494747,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1494821,
+"s": "+\t",
+"t": 3
+},
+{
+"off": 1495213,
+"s": "4\"",
+"t": 3
+},
+{
+"off": 1495405,
+"s": "t ",
+"t": 4
+},
+{
+"off": 1495409,
+"s": "4!",
+"t": 4
+},
+{
+"off": 1495413,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1495416,
+"s": "Fd\t",
+"t": 4
+},
+{
+"off": 1495437,
+"s": "t ",
+"t": 4
+},
+{
+"off": 1495441,
+"s": "4!",
+"t": 4
+},
+{
+"off": 1495445,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1495448,
+"s": "Fd\t",
+"t": 4
+},
+{
+"off": 1495461,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1495464,
+"s": "Fd\t",
+"t": 4
+},
+{
+"off": 1495476,
+"s": "Fd\t",
+"t": 4
+},
+{
+"off": 1495481,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1495496,
+"s": "Fd\t",
+"t": 4
+},
+{
+"off": 1495501,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1495512,
+"s": ":4!",
+"t": 4
+},
+{
+"off": 1495521,
+"s": "t ",
+"t": 4
+},
+{
+"off": 1495525,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1495528,
+"s": "Fd\t",
+"t": 4
+},
+{
+"off": 1495568,
+"s": "`W\t",
+"t": 4
+},
+{
+"off": 1495573,
+"s": "W\t",
+"t": 3
+},
+{
+"off": 1495588,
+"s": "`W\t",
+"t": 4
+},
+{
+"off": 1495593,
+"s": "W\t",
+"t": 3
+},
+{
+"off": 1495605,
+"s": "t\t",
+"t": 3
+},
+{
+"off": 1495695,
+"s": "`!",
+"t": 5
+},
+{
+"off": 1496007,
+"s": "p!",
+"t": 6
+},
+{
+"off": 1496113,
+"s": "d\t",
+"t": 3
+},
+{
+"off": 1496123,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1496489,
+"s": ")\t",
+"t": 3
+},
+{
+"off": 1496527,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1496629,
+"s": "d ",
+"t": 3
+},
+{
+"off": 1496685,
+"s": "2\t",
+"t": 3
+},
+{
+"off": 1496755,
+"s": "p!",
+"t": 3
+},
+{
+"off": 1497211,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1497373,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1497445,
+"s": "T\t",
+"t": 3
+},
+{
+"off": 1497597,
+"s": ")\t",
+"t": 3
+},
+{
+"off": 1497649,
+"s": "4!",
+"t": 3
+},
+{
+"off": 1497665,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1497697,
+"s": "e!",
+"t": 3
+},
+{
+"off": 1497732,
+"s": ".x\"",
+"t": 4
+},
+{
+"off": 1497736,
+"s": "*h#",
+"t": 4
+},
+{
+"off": 1497740,
+"s": "&tQ",
+"t": 4
+},
+{
+"off": 1497744,
+"s": "&dP",
+"t": 4
+},
+{
+"off": 1497748,
+"s": "&4O",
+"t": 4
+},
+{
+"off": 1497781,
+"s": "T%",
+"t": 3
+},
+{
+"off": 1497857,
+"s": "x#",
+"t": 4
+},
+{
+"off": 1497861,
+"s": "h$",
+"t": 3
+},
+{
+"off": 1497885,
+"s": "x#",
+"t": 3
+},
+{
+"off": 1497889,
+"s": "h$",
+"t": 3
+},
+{
+"off": 1497973,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1498052,
+"s": ";t\t",
+"t": 4
+},
+{
+"off": 1498067,
+"s": "0!",
+"t": 5
+},
+{
+"off": 1498275,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1498337,
+"s": "t*",
+"t": 3
+},
+{
+"off": 1498357,
+"s": "T1",
+"t": 3
+},
+{
+"off": 1498377,
+"s": "40",
+"t": 3
+},
+{
+"off": 1498477,
+"s": "d,",
+"t": 3
+},
+{
+"off": 1498497,
+"s": "t+",
+"t": 3
+},
+{
+"off": 1498517,
+"s": "42",
+"t": 3
+},
+{
+"off": 1498840,
+"s": "(xY",
+"t": 4
+},
+{
+"off": 1498844,
+"s": "$hZ",
+"t": 4
+},
+{
+"off": 1498881,
+"s": "&\t",
+"t": 3
+},
+{
+"off": 1498885,
+"s": "4)",
+"t": 3
+},
+{
+"off": 1498913,
+"s": "+\t",
+"t": 3
+},
+{
+"off": 1498995,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1499136,
+"s": "V4P",
+"t": 4
+},
+{
+"off": 1499221,
+"s": "Te",
+"t": 3
+},
+{
+"off": 1499225,
+"s": "4n",
+"t": 3
+},
+{
+"off": 1499284,
+"s": "'td",
+"t": 4
+},
+{
+"off": 1499288,
+"s": "'dc",
+"t": 4
+},
+{
+"off": 1499292,
+"s": "'4b",
+"t": 4
+},
+{
+"off": 1499403,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1499409,
+"s": "t ",
+"t": 3
+},
+{
+"off": 1499429,
+"s": "t ",
+"t": 4
+},
+{
+"off": 1499433,
+"s": "4(",
+"t": 3
+},
+{
+"off": 1499485,
+"s": "4(",
+"t": 3
+},
+{
+"off": 1499505,
+"s": "t ",
+"t": 3
+},
+{
+"off": 1499657,
+"s": "tL",
+"t": 3
+},
+{
+"off": 1499661,
+"s": "dT",
+"t": 3
+},
+{
+"off": 1500104,
+"s": "'t=",
+"t": 4
+},
+{
+"off": 1500108,
+"s": "'d<",
+"t": 4
+},
+{
+"off": 1500112,
+"s": "'4;",
+"t": 4
+},
+{
+"off": 1500291,
+"s": "P!",
+"t": 3
+},
+{
+"off": 1500379,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1500655,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1500807,
+"s": "P!",
+"t": 5
+},
+{
+"off": 1500944,
+"s": "&tB",
+"t": 4
+},
+{
+"off": 1500948,
+"s": "&dA",
+"t": 4
+},
+{
+"off": 1500952,
+"s": "&4@",
+"t": 4
+},
+{
+"off": 1501053,
+"s": "dM",
+"t": 3
+},
+{
+"off": 1501057,
+"s": "4L",
+"t": 3
+},
+{
+"off": 1501261,
+"s": "dG",
+"t": 3
+},
+{
+"off": 1501337,
+"s": "dG",
+"t": 3
+},
+{
+"off": 1501485,
+"s": "48",
+"t": 3
+},
+{
+"off": 1501581,
+"s": "%\t",
+"t": 3
+},
+{
+"off": 1501585,
+"s": "4-",
+"t": 3
+},
+{
+"off": 1501719,
+"s": "p!",
+"t": 5
+},
+{
+"off": 1501869,
+"s": ",\t",
+"t": 3
+},
+{
+"off": 1501873,
+"s": "4_",
+"t": 3
+},
+{
+"off": 1501997,
+"s": ",\t",
+"t": 3
+},
+{
+"off": 1502001,
+"s": "4d",
+"t": 3
+},
+{
+"off": 1502029,
+"s": ".\t",
+"t": 3
+},
+{
+"off": 1502033,
+"s": "dc",
+"t": 3
+},
+{
+"off": 1502037,
+"s": "4b",
+"t": 3
+},
+{
+"off": 1502117,
+"s": "+\t",
+"t": 3
+},
+{
+"off": 1502949,
+"s": "h\t",
+"t": 3
+},
+{
+"off": 1506706,
+"s": "timeEndPeriod",
+"t": 14
+},
+{
+"off": 1506722,
+"s": "timeBeginPeriod",
+"t": 16
+},
+{
+"off": 1506740,
+"s": "waveInStart",
+"t": 12
+},
+{
+"off": 1506754,
+"s": "waveInStop",
+"t": 12
+},
+{
+"off": 1506768,
+"s": "waveOutGetErrorTextA",
+"t": 22
+},
+{
+"off": 1506792,
+"s": "waveOutPrepareHeader",
+"t": 22
+},
+{
+"off": 1506816,
+"s": "waveOutGetNumDevs",
+"t": 18
+},
+{
+"off": 1506836,
+"s": "waveInGetErrorTextA",
+"t": 20
+},
+{
+"off": 1506858,
+"s": "waveOutOpen",
+"t": 12
+},
+{
+"off": 1506872,
+"s": "waveInUnprepareHeader",
+"t": 22
+},
+{
+"off": 1506896,
+"s": "waveOutUnprepareHeader",
+"t": 24
+},
+{
+"off": 1506922,
+"s": "waveInGetNumDevs",
+"t": 18
+},
+{
+"off": 1506942,
+"s": "waveInReset",
+"t": 12
+},
+{
+"off": 1506956,
+"s": "waveInAddBuffer",
+"t": 16
+},
+{
+"off": 1506974,
+"s": "waveInOpen",
+"t": 12
+},
+{
+"off": 1506988,
+"s": "waveInPrepareHeader",
+"t": 20
+},
+{
+"off": 1507010,
+"s": "waveOutReset",
+"t": 14
+},
+{
+"off": 1507026,
+"s": "waveOutRestart",
+"t": 16
+},
+{
+"off": 1507044,
+"s": "waveOutPause",
+"t": 14
+},
+{
+"off": 1507060,
+"s": "waveInGetDevCapsW",
+"t": 18
+},
+{
+"off": 1507080,
+"s": "waveOutWrite",
+"t": 14
+},
+{
+"off": 1507096,
+"s": "waveInClose",
+"t": 12
+},
+{
+"off": 1507110,
+"s": "waveOutGetDevCapsW",
+"t": 20
+},
+{
+"off": 1507132,
+"s": "waveOutClose",
+"t": 14
+},
+{
+"off": 1507148,
+"s": "midiInUnprepareHeader",
+"t": 22
+},
+{
+"off": 1507172,
+"s": "midiInGetNumDevs",
+"t": 18
+},
+{
+"off": 1507192,
+"s": "midiOutUnprepareHeader",
+"t": 24
+},
+{
+"off": 1507218,
+"s": "midiOutPrepareHeader",
+"t": 22
+},
+{
+"off": 1507242,
+"s": "midiOutGetErrorTextA",
+"t": 22
+},
+{
+"off": 1507266,
+"s": "midiOutReset",
+"t": 14
+},
+{
+"off": 1507282,
+"s": "midiOutOpen",
+"t": 12
+},
+{
+"off": 1507296,
+"s": "midiOutShortMsg",
+"t": 16
+},
+{
+"off": 1507314,
+"s": "midiOutClose",
+"t": 14
+},
+{
+"off": 1507330,
+"s": "midiInOpen",
+"t": 12
+},
+{
+"off": 1507344,
+"s": "midiInAddBuffer",
+"t": 16
+},
+{
+"off": 1507362,
+"s": "midiOutLongMsg",
+"t": 16
+},
+{
+"off": 1507380,
+"s": "midiInStart",
+"t": 12
+},
+{
+"off": 1507394,
+"s": "midiInPrepareHeader",
+"t": 20
+},
+{
+"off": 1507416,
+"s": "midiInReset",
+"t": 12
+},
+{
+"off": 1507430,
+"s": "midiInGetDevCapsW",
+"t": 18
+},
+{
+"off": 1507450,
+"s": "midiInClose",
+"t": 12
+},
+{
+"off": 1507464,
+"s": "midiOutGetNumDevs",
+"t": 18
+},
+{
+"off": 1507484,
+"s": "midiOutGetDevCapsW",
+"t": 20
+},
+{
+"off": 1507506,
+"s": "midiInGetErrorTextA",
+"t": 20
+},
+{
+"off": 1507526,
+"s": "WINMM.dll",
+"t": 10
+},
+{
+"off": 1507538,
+"s": "SetupDiGetClassDevsA",
+"t": 22
+},
+{
+"off": 1507562,
+"s": "SetupDiDestroyDeviceInfoList",
+"t": 30
+},
+{
+"off": 1507594,
+"s": "SetupDiGetDeviceRegistryPropertyA",
+"t": 34
+},
+{
+"off": 1507630,
+"s": "SetupDiGetDeviceInterfaceDetailA",
+"t": 34
+},
+{
+"off": 1507666,
+"s": "SetupDiEnumDeviceInterfaces",
+"t": 28
+},
+{
+"off": 1507696,
+"s": "SetupDiOpenDeviceInterfaceRegKey",
+"t": 34
+},
+{
+"off": 1507732,
+"s": "SetupDiGetDeviceRegistryPropertyW",
+"t": 34
+},
+{
+"off": 1507768,
+"s": "SetupDiGetDeviceInterfaceAlias",
+"t": 32
+},
+{
+"off": 1507802,
+"s": "SetupDiGetDeviceInterfaceDetailW",
+"t": 34
+},
+{
+"off": 1507836,
+"s": "SETUPAPI.dll",
+"t": 14
+},
+{
+"off": 1507850,
+"s": "WS2_32.dll",
+"t": 12
+},
+{
+"off": 1507864,
+"s": "GetFileVersionInfoW",
+"t": 20
+},
+{
+"off": 1507886,
+"s": "VerQueryValueW",
+"t": 16
+},
+{
+"off": 1507904,
+"s": "GetFileVersionInfoSizeW",
+"t": 24
+},
+{
+"off": 1507928,
+"s": "VERSION.dll",
+"t": 12
+},
+{
+"off": 1507942,
+"s": "InternetConnectA",
+"t": 18
+},
+{
+"off": 1507962,
+"s": "InternetReadFile",
+"t": 18
+},
+{
+"off": 1507982,
+"s": "HttpOpenRequestA",
+"t": 18
+},
+{
+"off": 1508002,
+"s": "HttpSendRequestA",
+"t": 18
+},
+{
+"off": 1508022,
+"s": "InternetOpenA",
+"t": 14
+},
+{
+"off": 1508038,
+"s": "InternetCloseHandle",
+"t": 20
+},
+{
+"off": 1508058,
+"s": "WININET.dll",
+"t": 12
+},
+{
+"off": 1508072,
+"s": "SetEndOfFile",
+"t": 14
+},
+{
+"off": 1508088,
+"s": "FlushFileBuffers",
+"t": 18
+},
+{
+"off": 1508108,
+"s": "OpenFile",
+"t": 10
+},
+{
+"off": 1508120,
+"s": "WideCharToMultiByte",
+"t": 20
+},
+{
+"off": 1508142,
+"s": "MultiByteToWideChar",
+"t": 20
+},
+{
+"off": 1508164,
+"s": "GlobalLock",
+"t": 12
+},
+{
+"off": 1508178,
+"s": "GlobalAlloc",
+"t": 12
+},
+{
+"off": 1508192,
+"s": "GlobalUnlock",
+"t": 14
+},
+{
+"off": 1508208,
+"s": "GlobalFree",
+"t": 12
+},
+{
+"off": 1508222,
+"s": "GetCurrentProcess",
+"t": 18
+},
+{
+"off": 1508242,
+"s": "Sleep",
+"t": 6
+},
+{
+"off": 1508250,
+"s": "GetLastError",
+"t": 14
+},
+{
+"off": 1508266,
+"s": "CreateFileA",
+"t": 12
+},
+{
+"off": 1508280,
+"s": "GetFileSize",
+"t": 12
+},
+{
+"off": 1508294,
+"s": "SetFilePointer",
+"t": 16
+},
+{
+"off": 1508312,
+"s": "CreateDirectoryW",
+"t": 18
+},
+{
+"off": 1508332,
+"s": "WriteFile",
+"t": 10
+},
+{
+"off": 1508344,
+"s": "ReadFile",
+"t": 10
+},
+{
+"off": 1508356,
+"s": "CreateFileW",
+"t": 12
+},
+{
+"off": 1508370,
+"s": "CreateDirectoryA",
+"t": 18
+},
+{
+"off": 1508390,
+"s": "CloseHandle",
+"t": 12
+},
+{
+"off": 1508404,
+"s": "GetSystemTime",
+"t": 14
+},
+{
+"off": 1508420,
+"s": "DeleteFileA",
+"t": 12
+},
+{
+"off": 1508434,
+"s": "FreeLibrary",
+"t": 12
+},
+{
+"off": 1508448,
+"s": "GetWindowsDirectoryA",
+"t": 22
+},
+{
+"off": 1508472,
+"s": "GetProcAddress",
+"t": 16
+},
+{
+"off": 1508490,
+"s": "GetLocalTime",
+"t": 14
+},
+{
+"off": 1508506,
+"s": "LoadLibraryA",
+"t": 14
+},
+{
+"off": 1508522,
+"s": "GetModuleFileNameA",
+"t": 20
+},
+{
+"off": 1508544,
+"s": "GetModuleHandleA",
+"t": 18
+},
+{
+"off": 1508564,
+"s": "GetCurrentDirectoryA",
+"t": 22
+},
+{
+"off": 1508588,
+"s": "GetVersionExA",
+"t": 14
+},
+{
+"off": 1508604,
+"s": "GetTickCount",
+"t": 14
+},
+{
+"off": 1508620,
+"s": "QueryPerformanceCounter",
+"t": 24
+},
+{
+"off": 1508646,
+"s": "InitializeCriticalSection",
+"t": 26
+},
+{
+"off": 1508674,
+"s": "LeaveCriticalSection",
+"t": 22
+},
+{
+"off": 1508698,
+"s": "EnterCriticalSection",
+"t": 22
+},
+{
+"off": 1508722,
+"s": "QueryPerformanceFrequency",
+"t": 26
+},
+{
+"off": 1508750,
+"s": "DeleteCriticalSection",
+"t": 22
+},
+{
+"off": 1508774,
+"s": "WaitForSingleObject",
+"t": 20
+},
+{
+"off": 1508796,
+"s": "GetCurrentThread",
+"t": 18
+},
+{
+"off": 1508816,
+"s": "SetThreadPriority",
+"t": 18
+},
+{
+"off": 1508836,
+"s": "CreateThread",
+"t": 14
+},
+{
+"off": 1508852,
+"s": "GetComputerNameA",
+"t": 18
+},
+{
+"off": 1508872,
+"s": "GetSystemDirectoryA",
+"t": 20
+},
+{
+"off": 1508894,
+"s": "CopyFileA",
+"t": 10
+},
+{
+"off": 1508906,
+"s": "IsProcessorFeaturePresent",
+"t": 26
+},
+{
+"off": 1508934,
+"s": "GetSystemInfo",
+"t": 14
+},
+{
+"off": 1508950,
+"s": "GetProcessAffinityMask",
+"t": 24
+},
+{
+"off": 1508976,
+"s": "FindResourceA",
+"t": 14
+},
+{
+"off": 1508992,
+"s": "FreeResource",
+"t": 14
+},
+{
+"off": 1509008,
+"s": "LoadResource",
+"t": 14
+},
+{
+"off": 1509024,
+"s": "SizeofResource",
+"t": 16
+},
+{
+"off": 1509042,
+"s": "LockResource",
+"t": 14
+},
+{
+"off": 1509058,
+"s": "QueryDosDeviceA",
+"t": 16
+},
+{
+"off": 1509076,
+"s": "GetDriveTypeA",
+"t": 14
+},
+{
+"off": 1509092,
+"s": "GetVolumeInformationA",
+"t": 22
+},
+{
+"off": 1509116,
+"s": "DeviceIoControl",
+"t": 16
+},
+{
+"off": 1509134,
+"s": "GetDiskFreeSpaceExA",
+"t": 20
+},
+{
+"off": 1509156,
+"s": "FileTimeToSystemTime",
+"t": 22
+},
+{
+"off": 1509180,
+"s": "GetThreadPriority",
+"t": 18
+},
+{
+"off": 1509200,
+"s": "SetEvent",
+"t": 10
+},
+{
+"off": 1509212,
+"s": "IsBadReadPtr",
+"t": 14
+},
+{
+"off": 1509228,
+"s": "OpenProcess",
+"t": 12
+},
+{
+"off": 1509242,
+"s": "CreateEventA",
+"t": 14
+},
+{
+"off": 1509258,
+"s": "MulDiv",
+"t": 8
+},
+{
+"off": 1509268,
+"s": "ResetEvent",
+"t": 12
+},
+{
+"off": 1509282,
+"s": "WaitForMultipleObjects",
+"t": 24
+},
+{
+"off": 1509308,
+"s": "MapViewOfFile",
+"t": 14
+},
+{
+"off": 1509324,
+"s": "UnmapViewOfFile",
+"t": 16
+},
+{
+"off": 1509342,
+"s": "CreateFileMappingA",
+"t": 20
+},
+{
+"off": 1509364,
+"s": "OpenFileMappingA",
+"t": 18
+},
+{
+"off": 1509384,
+"s": "GetDiskFreeSpaceExW",
+"t": 20
+},
+{
+"off": 1509406,
+"s": "CopyFileW",
+"t": 10
+},
+{
+"off": 1509418,
+"s": "GetExitCodeProcess",
+"t": 20
+},
+{
+"off": 1509440,
+"s": "CreateProcessA",
+"t": 16
+},
+{
+"off": 1509458,
+"s": "CreateMutexA",
+"t": 14
+},
+{
+"off": 1509474,
+"s": "GetFileTime",
+"t": 12
+},
+{
+"off": 1509488,
+"s": "ReleaseMutex",
+"t": 14
+},
+{
+"off": 1509504,
+"s": "DeleteFileW",
+"t": 12
+},
+{
+"off": 1509518,
+"s": "GetCurrentProcessId",
+"t": 20
+},
+{
+"off": 1509538,
+"s": "KERNEL32.dll",
+"t": 14
+},
+{
+"off": 1509554,
+"s": "CharLowerBuffA",
+"t": 16
+},
+{
+"off": 1509572,
+"s": "CallWindowProcW",
+"t": 16
+},
+{
+"off": 1509590,
+"s": "SetWindowTextW",
+"t": 16
+},
+{
+"off": 1509608,
+"s": "SetWindowTextA",
+"t": 16
+},
+{
+"off": 1509626,
+"s": "CreateWindowExW",
+"t": 16
+},
+{
+"off": 1509644,
+"s": "PostMessageA",
+"t": 14
+},
+{
+"off": 1509660,
+"s": "SetWindowPos",
+"t": 14
+},
+{
+"off": 1509676,
+"s": "CreateWindowExA",
+"t": 16
+},
+{
+"off": 1509694,
+"s": "CreateDialogIndirectParamA",
+"t": 28
+},
+{
+"off": 1509724,
+"s": "BeginPaint",
+"t": 12
+},
+{
+"off": 1509738,
+"s": "SendMessageA",
+"t": 14
+},
+{
+"off": 1509754,
+"s": "SetFocus",
+"t": 10
+},
+{
+"off": 1509766,
+"s": "KillTimer",
+"t": 10
+},
+{
+"off": 1509778,
+"s": "GetWindowLongPtrA",
+"t": 18
+},
+{
+"off": 1509798,
+"s": "SetTimer",
+"t": 10
+},
+{
+"off": 1509810,
+"s": "DestroyWindow",
+"t": 14
+},
+{
+"off": 1509826,
+"s": "EndPaint",
+"t": 10
+},
+{
+"off": 1509838,
+"s": "ReleaseDC",
+"t": 10
+},
+{
+"off": 1509850,
+"s": "BringWindowToTop",
+"t": 18
+},
+{
+"off": 1509870,
+"s": "GetDC",
+"t": 6
+},
+{
+"off": 1509878,
+"s": "GetClientRect",
+"t": 14
+},
+{
+"off": 1509894,
+"s": "DrawTextA",
+"t": 10
+},
+{
+"off": 1509906,
+"s": "DestroyIcon",
+"t": 12
+},
+{
+"off": 1509920,
+"s": "CopyIcon",
+"t": 10
+},
+{
+"off": 1509932,
+"s": "GetCursorInfo",
+"t": 14
+},
+{
+"off": 1509948,
+"s": "GetIconInfo",
+"t": 12
+},
+{
+"off": 1509962,
+"s": "DrawIconEx",
+"t": 12
+},
+{
+"off": 1509976,
+"s": "GetWindowDC",
+"t": 12
+},
+{
+"off": 1509990,
+"s": "SendInput",
+"t": 10
+},
+{
+"off": 1510002,
+"s": "GetWindowRect",
+"t": 14
+},
+{
+"off": 1510018,
+"s": "ClientToScreen",
+"t": 16
+},
+{
+"off": 1510036,
+"s": "RegisterClassA",
+"t": 16
+},
+{
+"off": 1510054,
+"s": "LoadCursorA",
+"t": 12
+},
+{
+"off": 1510068,
+"s": "UpdateWindow",
+"t": 14
+},
+{
+"off": 1510084,
+"s": "ReleaseCapture",
+"t": 16
+},
+{
+"off": 1510102,
+"s": "ShowWindow",
+"t": 12
+},
+{
+"off": 1510116,
+"s": "DefWindowProcA",
+"t": 16
+},
+{
+"off": 1510134,
+"s": "ScrollWindow",
+"t": 14
+},
+{
+"off": 1510150,
+"s": "SetScrollPos",
+"t": 14
+},
+{
+"off": 1510166,
+"s": "GetWindowLongA",
+"t": 16
+},
+{
+"off": 1510184,
+"s": "UnregisterClassA",
+"t": 18
+},
+{
+"off": 1510204,
+"s": "InvalidateRect",
+"t": 16
+},
+{
+"off": 1510222,
+"s": "SetScrollRange",
+"t": 16
+},
+{
+"off": 1510240,
+"s": "SetCapture",
+"t": 12
+},
+{
+"off": 1510254,
+"s": "CheckMenuItem",
+"t": 14
+},
+{
+"off": 1510270,
+"s": "DestroyMenu",
+"t": 12
+},
+{
+"off": 1510284,
+"s": "DialogBoxIndirectParamA",
+"t": 24
+},
+{
+"off": 1510310,
+"s": "AppendMenuA",
+"t": 12
+},
+{
+"off": 1510324,
+"s": "CreatePopupMenu",
+"t": 16
+},
+{
+"off": 1510342,
+"s": "EndDialog",
+"t": 10
+},
+{
+"off": 1510354,
+"s": "EnableMenuItem",
+"t": 16
+},
+{
+"off": 1510372,
+"s": "MessageBoxA",
+"t": 12
+},
+{
+"off": 1510386,
+"s": "GetWindowTextA",
+"t": 16
+},
+{
+"off": 1510404,
+"s": "TrackPopupMenu",
+"t": 16
+},
+{
+"off": 1510422,
+"s": "SetCursor",
+"t": 10
+},
+{
+"off": 1510434,
+"s": "GetWindow",
+"t": 10
+},
+{
+"off": 1510446,
+"s": "CallWindowProcA",
+"t": 16
+},
+{
+"off": 1510464,
+"s": "GetSystemMetrics",
+"t": 18
+},
+{
+"off": 1510484,
+"s": "GetDlgItem",
+"t": 12
+},
+{
+"off": 1510498,
+"s": "SetWindowLongA",
+"t": 16
+},
+{
+"off": 1510516,
+"s": "GetWindowPlacement",
+"t": 20
+},
+{
+"off": 1510538,
+"s": "DrawFocusRect",
+"t": 14
+},
+{
+"off": 1510554,
+"s": "PtInRect",
+"t": 10
+},
+{
+"off": 1510566,
+"s": "CreateIconFromResourceEx",
+"t": 26
+},
+{
+"off": 1510594,
+"s": "LoadIconA",
+"t": 10
+},
+{
+"off": 1510606,
+"s": "GetParent",
+"t": 10
+},
+{
+"off": 1510618,
+"s": "LoadBitmapA",
+"t": 12
+},
+{
+"off": 1510632,
+"s": "GetFocus",
+"t": 10
+},
+{
+"off": 1510644,
+"s": "SetForegroundWindow",
+"t": 20
+},
+{
+"off": 1510666,
+"s": "GetKeyState",
+"t": 12
+},
+{
+"off": 1510680,
+"s": "RegisterClassExA",
+"t": 18
+},
+{
+"off": 1510700,
+"s": "SetWindowRgn",
+"t": 14
+},
+{
+"off": 1510716,
+"s": "InvertRect",
+"t": 12
+},
+{
+"off": 1510730,
+"s": "SetClipboardData",
+"t": 18
+},
+{
+"off": 1510750,
+"s": "IsWindowVisible",
+"t": 16
+},
+{
+"off": 1510768,
+"s": "SystemParametersInfoA",
+"t": 22
+},
+{
+"off": 1510792,
+"s": "OpenClipboard",
+"t": 14
+},
+{
+"off": 1510808,
+"s": "SetWindowLongPtrA",
+"t": 18
+},
+{
+"off": 1510828,
+"s": "EmptyClipboard",
+"t": 16
+},
+{
+"off": 1510846,
+"s": "GetClassLongPtrA",
+"t": 18
+},
+{
+"off": 1510866,
+"s": "SetClassLongPtrA",
+"t": 18
+},
+{
+"off": 1510886,
+"s": "CloseClipboard",
+"t": 16
+},
+{
+"off": 1510904,
+"s": "GetAsyncKeyState",
+"t": 18
+},
+{
+"off": 1510924,
+"s": "DrawTextW",
+"t": 10
+},
+{
+"off": 1510936,
+"s": "LoadImageW",
+"t": 12
+},
+{
+"off": 1510950,
+"s": "ScreenToClient",
+"t": 16
+},
+{
+"off": 1510968,
+"s": "GetWindowThreadProcessId",
+"t": 26
+},
+{
+"off": 1510996,
+"s": "EnumWindows",
+"t": 12
+},
+{
+"off": 1511010,
+"s": "InternalGetWindowText",
+"t": 22
+},
+{
+"off": 1511034,
+"s": "SetWindowPlacement",
+"t": 20
+},
+{
+"off": 1511056,
+"s": "GetSystemMenu",
+"t": 14
+},
+{
+"off": 1511072,
+"s": "RegisterHotKey",
+"t": 16
+},
+{
+"off": 1511090,
+"s": "UnregisterHotKey",
+"t": 18
+},
+{
+"off": 1511110,
+"s": "DispatchMessageA",
+"t": 18
+},
+{
+"off": 1511130,
+"s": "GetCursorPos",
+"t": 14
+},
+{
+"off": 1511146,
+"s": "AppendMenuW",
+"t": 12
+},
+{
+"off": 1511160,
+"s": "TranslateMessage",
+"t": 18
+},
+{
+"off": 1511180,
+"s": "RegisterWindowMessageA",
+"t": 24
+},
+{
+"off": 1511206,
+"s": "ModifyMenuW",
+"t": 12
+},
+{
+"off": 1511220,
+"s": "WindowFromPoint",
+"t": 16
+},
+{
+"off": 1511238,
+"s": "SetMenuItemBitmaps",
+"t": 20
+},
+{
+"off": 1511260,
+"s": "PostQuitMessage",
+"t": 16
+},
+{
+"off": 1511278,
+"s": "GetClassNameA",
+"t": 14
+},
+{
+"off": 1511294,
+"s": "GetMessageA",
+"t": 12
+},
+{
+"off": 1511306,
+"s": "USER32.dll",
+"t": 12
+},
+{
+"off": 1511320,
+"s": "GetStockObject",
+"t": 16
+},
+{
+"off": 1511338,
+"s": "DeleteObject",
+"t": 14
+},
+{
+"off": 1511354,
+"s": "CreateFontIndirectA",
+"t": 20
+},
+{
+"off": 1511376,
+"s": "TextOutA",
+"t": 10
+},
+{
+"off": 1511388,
+"s": "RoundRect",
+"t": 10
+},
+{
+"off": 1511400,
+"s": "SetPixelV",
+"t": 10
+},
+{
+"off": 1511412,
+"s": "Rectangle",
+"t": 10
+},
+{
+"off": 1511424,
+"s": "SelectObject",
+"t": 14
+},
+{
+"off": 1511440,
+"s": "SetBkMode",
+"t": 10
+},
+{
+"off": 1511452,
+"s": "SetTextColor",
+"t": 14
+},
+{
+"off": 1511468,
+"s": "LineTo",
+"t": 8
+},
+{
+"off": 1511478,
+"s": "MoveToEx",
+"t": 10
+},
+{
+"off": 1511490,
+"s": "GetObjectA",
+"t": 12
+},
+{
+"off": 1511504,
+"s": "GetPixel",
+"t": 10
+},
+{
+"off": 1511516,
+"s": "SetStretchBltMode",
+"t": 18
+},
+{
+"off": 1511536,
+"s": "CreateCompatibleBitmap",
+"t": 24
+},
+{
+"off": 1511562,
+"s": "CreateCompatibleDC",
+"t": 20
+},
+{
+"off": 1511584,
+"s": "GetDIBits",
+"t": 10
+},
+{
+"off": 1511596,
+"s": "DeleteDC",
+"t": 10
+},
+{
+"off": 1511608,
+"s": "BitBlt",
+"t": 8
+},
+{
+"off": 1511618,
+"s": "SetViewportExtEx",
+"t": 18
+},
+{
+"off": 1511638,
+"s": "SetMapMode",
+"t": 12
+},
+{
+"off": 1511652,
+"s": "SetWindowExtEx",
+"t": 16
+},
+{
+"off": 1511670,
+"s": "SetViewportOrgEx",
+"t": 18
+},
+{
+"off": 1511690,
+"s": "SetWindowOrgEx",
+"t": 16
+},
+{
+"off": 1511708,
+"s": "SetBkColor",
+"t": 12
+},
+{
+"off": 1511722,
+"s": "SetROP2",
+"t": 8
+},
+{
+"off": 1511732,
+"s": "CreatePen",
+"t": 10
+},
+{
+"off": 1511744,
+"s": "CreatePatternBrush",
+"t": 20
+},
+{
+"off": 1511766,
+"s": "GetNearestColor",
+"t": 16
+},
+{
+"off": 1511784,
+"s": "CreateRectRgn",
+"t": 14
+},
+{
+"off": 1511800,
+"s": "Ellipse",
+"t": 8
+},
+{
+"off": 1511810,
+"s": "CreateBrushIndirect",
+"t": 20
+},
+{
+"off": 1511832,
+"s": "CombineRgn",
+"t": 12
+},
+{
+"off": 1511846,
+"s": "SelectClipRgn",
+"t": 14
+},
+{
+"off": 1511862,
+"s": "Polygon",
+"t": 8
+},
+{
+"off": 1511872,
+"s": "Pie",
+"t": 4
+},
+{
+"off": 1511878,
+"s": "PatBlt",
+"t": 8
+},
+{
+"off": 1511888,
+"s": "GetTextExtentPoint32A",
+"t": 22
+},
+{
+"off": 1511912,
+"s": "GetTextExtentPoint32W",
+"t": 22
+},
+{
+"off": 1511936,
+"s": "PolyBezier",
+"t": 12
+},
+{
+"off": 1511950,
+"s": "SetPixel",
+"t": 10
+},
+{
+"off": 1511962,
+"s": "CreateDIBSection",
+"t": 18
+},
+{
+"off": 1511980,
+"s": "GDI32.dll",
+"t": 10
+},
+{
+"off": 1511992,
+"s": "GetOpenFileNameW",
+"t": 18
+},
+{
+"off": 1512012,
+"s": "GetSaveFileNameW",
+"t": 20
+},
+{
+"off": 1512032,
+"s": "ChooseColorA",
+"t": 14
+},
+{
+"off": 1512046,
+"s": "COMDLG32.dll",
+"t": 14
+},
+{
+"off": 1512062,
+"s": "RegQueryValueExA",
+"t": 18
+},
+{
+"off": 1512082,
+"s": "RegOpenKeyExA",
+"t": 14
+},
+{
+"off": 1512098,
+"s": "RegOpenKeyExW",
+"t": 14
+},
+{
+"off": 1512114,
+"s": "RegOpenKeyA",
+"t": 12
+},
+{
+"off": 1512128,
+"s": "RegEnumKeyA",
+"t": 12
+},
+{
+"off": 1512142,
+"s": "RegCloseKey",
+"t": 12
+},
+{
+"off": 1512156,
+"s": "RegCreateKeyW",
+"t": 14
+},
+{
+"off": 1512172,
+"s": "RegSetValueExA",
+"t": 16
+},
+{
+"off": 1512190,
+"s": "RegQueryValueExW",
+"t": 18
+},
+{
+"off": 1512210,
+"s": "RegOpenKeyW",
+"t": 12
+},
+{
+"off": 1512224,
+"s": "RegCreateKeyA",
+"t": 14
+},
+{
+"off": 1512240,
+"s": "RegSetValueExW",
+"t": 16
+},
+{
+"off": 1512258,
+"s": "GetUserNameA",
+"t": 14
+},
+{
+"off": 1512274,
+"s": "RegEnumKeyW",
+"t": 12
+},
+{
+"off": 1512286,
+"s": "ADVAPI32.dll",
+"t": 14
+},
+{
+"off": 1512302,
+"s": "ShellExecuteA",
+"t": 14
+},
+{
+"off": 1512318,
+"s": "ExtractIconW",
+"t": 14
+},
+{
+"off": 1512334,
+"s": "ExtractAssociatedIconW",
+"t": 24
+},
+{
+"off": 1512360,
+"s": "SHBrowseForFolderW",
+"t": 20
+},
+{
+"off": 1512382,
+"s": "SHGetPathFromIDListW",
+"t": 22
+},
+{
+"off": 1512404,
+"s": "SHELL32.dll",
+"t": 12
+},
+{
+"off": 1512418,
+"s": "CLSIDFromString",
+"t": 16
+},
+{
+"off": 1512436,
+"s": "CoCreateInstance",
+"t": 18
+},
+{
+"off": 1512456,
+"s": "CoUninitialize",
+"t": 16
+},
+{
+"off": 1512474,
+"s": "CoInitialize",
+"t": 14
+},
+{
+"off": 1512490,
+"s": "CreateStreamOnHGlobal",
+"t": 22
+},
+{
+"off": 1512514,
+"s": "GetHGlobalFromStream",
+"t": 22
+},
+{
+"off": 1512538,
+"s": "PropVariantClear",
+"t": 18
+},
+{
+"off": 1512558,
+"s": "CoTaskMemFree",
+"t": 14
+},
+{
+"off": 1512572,
+"s": "ole32.dll",
+"t": 10
+},
+{
+"off": 1512584,
+"s": "acmStreamUnprepareHeader",
+"t": 26
+},
+{
+"off": 1512612,
+"s": "acmStreamSize",
+"t": 14
+},
+{
+"off": 1512628,
+"s": "acmStreamClose",
+"t": 16
+},
+{
+"off": 1512646,
+"s": "acmStreamPrepareHeader",
+"t": 24
+},
+{
+"off": 1512672,
+"s": "acmStreamConvert",
+"t": 18
+},
+{
+"off": 1512692,
+"s": "acmStreamOpen",
+"t": 14
+},
+{
+"off": 1512706,
+"s": "MSACM32.dll",
+"t": 12
+},
+{
+"off": 1512720,
+"s": "HeapFree",
+"t": 10
+},
+{
+"off": 1512732,
+"s": "HeapAlloc",
+"t": 10
+},
+{
+"off": 1512744,
+"s": "HeapReAlloc",
+"t": 12
+},
+{
+"off": 1512758,
+"s": "GetCommandLineA",
+"t": 16
+},
+{
+"off": 1512776,
+"s": "GetStartupInfoW",
+"t": 16
+},
+{
+"off": 1512794,
+"s": "TerminateProcess",
+"t": 18
+},
+{
+"off": 1512814,
+"s": "UnhandledExceptionFilter",
+"t": 26
+},
+{
+"off": 1512842,
+"s": "SetUnhandledExceptionFilter",
+"t": 28
+},
+{
+"off": 1512872,
+"s": "IsDebuggerPresent",
+"t": 18
+},
+{
+"off": 1512892,
+"s": "RtlVirtualUnwind",
+"t": 18
+},
+{
+"off": 1512912,
+"s": "RtlLookupFunctionEntry",
+"t": 24
+},
+{
+"off": 1512938,
+"s": "RtlCaptureContext",
+"t": 18
+},
+{
+"off": 1512958,
+"s": "DecodePointer",
+"t": 14
+},
+{
+"off": 1512974,
+"s": "EncodePointer",
+"t": 14
+},
+{
+"off": 1512990,
+"s": "RtlUnwindEx",
+"t": 12
+},
+{
+"off": 1513004,
+"s": "InitializeCriticalSectionAndSpinCount",
+"t": 38
+},
+{
+"off": 1513044,
+"s": "SetHandleCount",
+"t": 16
+},
+{
+"off": 1513062,
+"s": "GetStdHandle",
+"t": 14
+},
+{
+"off": 1513078,
+"s": "GetFileType",
+"t": 12
+},
+{
+"off": 1513092,
+"s": "RaiseException",
+"t": 16
+},
+{
+"off": 1513110,
+"s": "HeapSetInformation",
+"t": 20
+},
+{
+"off": 1513132,
+"s": "GetVersion",
+"t": 12
+},
+{
+"off": 1513146,
+"s": "HeapCreate",
+"t": 12
+},
+{
+"off": 1513160,
+"s": "GetModuleHandleW",
+"t": 18
+},
+{
+"off": 1513180,
+"s": "ExitProcess",
+"t": 12
+},
+{
+"off": 1513194,
+"s": "GetModuleFileNameW",
+"t": 20
+},
+{
+"off": 1513216,
+"s": "GetCPInfo",
+"t": 10
+},
+{
+"off": 1513228,
+"s": "GetACP",
+"t": 8
+},
+{
+"off": 1513238,
+"s": "GetOEMCP",
+"t": 10
+},
+{
+"off": 1513250,
+"s": "IsValidCodePage",
+"t": 16
+},
+{
+"off": 1513268,
+"s": "FlsGetValue",
+"t": 12
+},
+{
+"off": 1513282,
+"s": "FlsSetValue",
+"t": 12
+},
+{
+"off": 1513296,
+"s": "FlsFree",
+"t": 8
+},
+{
+"off": 1513306,
+"s": "SetLastError",
+"t": 14
+},
+{
+"off": 1513322,
+"s": "GetCurrentThreadId",
+"t": 20
+},
+{
+"off": 1513344,
+"s": "FlsAlloc",
+"t": 10
+},
+{
+"off": 1513356,
+"s": "FreeEnvironmentStringsW",
+"t": 24
+},
+{
+"off": 1513382,
+"s": "GetEnvironmentStringsW",
+"t": 24
+},
+{
+"off": 1513408,
+"s": "GetSystemTimeAsFileTime",
+"t": 24
+},
+{
+"off": 1513434,
+"s": "GetConsoleCP",
+"t": 14
+},
+{
+"off": 1513450,
+"s": "GetConsoleMode",
+"t": 16
+},
+{
+"off": 1513468,
+"s": "SetStdHandle",
+"t": 14
+},
+{
+"off": 1513484,
+"s": "LoadLibraryW",
+"t": 14
+},
+{
+"off": 1513500,
+"s": "LCMapStringW",
+"t": 14
+},
+{
+"off": 1513516,
+"s": "GetStringTypeW",
+"t": 16
+},
+{
+"off": 1513534,
+"s": "WriteConsoleW",
+"t": 14
+},
+{
+"off": 1513550,
+"s": "GetProcessHeap",
+"t": 16
+},
+{
+"off": 1513568,
+"s": "HeapSize",
+"t": 416
+},
+{
+"off": 1516110,
+"s": "                          ",
+"t": 224
+},
+{
+"off": 1516334,
+"s": "abcdefghijklmnopqrstuvwxyz",
+"t": 32
+},
+{
+"off": 1516366,
+"s": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+"t": 228
+},
+{
+"off": 1516626,
+"s": "                          ",
+"t": 239
+},
+{
+"off": 1516865,
+"s": "abcdefghijklmnopqrstuvwxyz",
+"t": 32
+},
+{
+"off": 1516897,
+"s": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+"t": 159
+},
+{
+"off": 1519466,
+"s": "4@",
+"t": 5
+},
+{
+"off": 1519706,
+"s": "%u",
+"t": 6
+},
+{
+"off": 1520344,
+"s": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+"t": 52
+}
+]

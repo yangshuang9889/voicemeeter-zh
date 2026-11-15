@@ -1,0 +1,222 @@
+[
+ {
+  "offset": "0x158200",
+  "en": "Show Control Panel...",
+  "cn": "显示控制面板..."
+ },
+ {
+  "offset": "0x158218",
+  "en": "Restart Audio Engine",
+  "cn": "重启音频引擎"
+ },
+ {
+  "offset": "0x158230",
+  "en": "Show Voicemeeter",
+  "cn": "显示 Voicemeeter"
+ },
+ {
+  "offset": "0x158248",
+  "en": "Show Voicemeeter (default position)",
+  "cn": "显示 Voicemeeter (默认位置)"
+ },
+ {
+  "offset": "0x158270",
+  "en": "Hide Voicemeeter",
+  "cn": "隐藏 Voicemeeter"
+ },
+ {
+  "offset": "0x158288",
+  "en": "Shut Down Voicemeeter",
+  "cn": "关闭 Voicemeeter"
+ },
+ {
+  "offset": "0x1582a0",
+  "en": "Restart Audio Engine\t[CTL+R]",
+  "cn": "重启音频引擎\t[CTL+R]"
+ },
+ {
+  "offset": "0x1582c0",
+  "en": "Auto Restart Audio Engine (A1 Device)",
+  "cn": "自动重启音频引擎 (A1 设备)"
+ },
+ {
+  "offset": "0x1582e8",
+  "en": "Auto Restart Audio Engine (All Device)",
+  "cn": "自动重启音频引擎 (所有设备)"
+ },
+ {
+  "offset": "0x158310",
+  "en": "Eject Cassette (release audio file)",
+  "cn": "弹出磁带 (释放音频文件)"
+ },
+ {
+  "offset": "0x158338",
+  "en": "Load Settings...",
+  "cn": "加载设置..."
+ },
+ {
+  "offset": "0x158350",
+  "en": "Load Settings on Startup:",
+  "cn": "启动时加载设置:"
+ },
+ {
+  "offset": "0x158370",
+  "en": "Save Settings...",
+  "cn": "保存设置..."
+ },
+ {
+  "offset": "0x158388",
+  "en": "Reset Settings (Re-Initialization)",
+  "cn": "重置设置 (重新初始化)"
+ },
+ {
+  "offset": "0x1583b0",
+  "en": "System Tray",
+  "cn": "系统托盘"
+ },
+ {
+  "offset": "0x1583c0",
+  "en": "Run on Windows Startup",
+  "cn": "开机自动运行"
+ },
+ {
+  "offset": "0x1583d8",
+  "en": "Show App On Startup",
+  "cn": "开机时显示程序"
+ },
+ {
+  "offset": "0x1583f0",
+  "en": "Set as Always Visible",
+  "cn": "设为始终可见"
+ },
+ {
+  "offset": "0x158408",
+  "en": "Lock Graphic User Interface",
+  "cn": "锁定图形界面"
+ },
+ {
+  "offset": "0x158428",
+  "en": "Run MacroButtons on Voicemeeter start",
+  "cn": "启动时运行 MacroButtons"
+ },
+ {
+  "offset": "0x158450",
+  "en": "Run Streamer View on Voicemeeter start",
+  "cn": "启动时运行 Streamer View"
+ },
+ {
+  "offset": "0x158478",
+  "en": "Run 8x8 Gain Matrix A.P.A...",
+  "cn": "运行 8x8 增益矩阵 A.P.A..."
+ },
+ {
+  "offset": "0x158498",
+  "en": "Run 15 Bands Graphic EQ A.P.A...",
+  "cn": "运行 15 段图示均衡器 A.P.A..."
+ },
+ {
+  "offset": "0x1584c0",
+  "en": "Run MIDI-VBAN Converter...",
+  "cn": "运行 MIDI-VBAN 转换器..."
+ },
+ {
+  "offset": "0x1584e0",
+  "en": "Run other Voicemeeter tools...",
+  "cn": "运行其他 Voicemeeter 工具..."
+ },
+ {
+  "offset": "0x158500",
+  "en": "Hook Volume Keys (For Level Output A1)",
+  "cn": "挂接音量键 (A1 输出电平)"
+ },
+ {
+  "offset": "0x158528",
+  "en": "Hook Volume Keys (For Level Output A2)",
+  "cn": "挂接音量键 (A2 输出电平)"
+ },
+ {
+  "offset": "0x158550",
+  "en": "Hook Volume Keys (For Level Input #1)",
+  "cn": "挂接音量键 (#1 输入电平)"
+ },
+ {
+  "offset": "0x158578",
+  "en": "Hook Ctrl+F10,F11,F12 (For Level Output A1)",
+  "cn": "挂接 Ctrl+F10,F11,F12 (A1 输出电平)"
+ },
+ {
+  "offset": "0x1585a8",
+  "en": "Hook Ctrl+F10,F11,F12 (For Level Output A2)",
+  "cn": "挂接 Ctrl+F10,F11,F12 (A2 输出电平)"
+ },
+ {
+  "offset": "0x1585d8",
+  "en": "Hook Ctrl+F10,F11,F12 (For Level Input #1)",
+  "cn": "挂接 Ctrl+F10,F11,F12 (#1 输入电平)"
+ },
+ {
+  "offset": "0x158608",
+  "en": "Hook F5,F6 and F8 (For PLAY, STOP and REC)",
+  "cn": "挂接 F5,F6,F8 (播放/停止/录音)"
+ },
+ {
+  "offset": "0x158638",
+  "en": "Shortcut Key (Hook)...",
+  "cn": "快捷键 (挂接)..."
+ },
+ {
+  "offset": "0x158650",
+  "en": "Limit Remote Gain to 0 dBfs",
+  "cn": "限制远程增益 0 dBfs"
+ },
+ {
+  "offset": "0x158670",
+  "en": "Show Contextual Help In Caption",
+  "cn": "在标题栏显示帮助提示"
+ },
+ {
+  "offset": "0x158690",
+  "en": "Show Preset Scene On Startup",
+  "cn": "启动时显示预设场景"
+ },
+ {
+  "offset": "0x1587b8",
+  "en": "Windows Audio Settings...",
+  "cn": "Windows 音频设置..."
+ },
+ {
+  "offset": "0x1587d8",
+  "en": "About Box / License...",
+  "cn": "关于 / 许可证..."
+ },
+ {
+  "offset": "0x1587f0",
+  "en": "VAIO Extension License...",
+  "cn": "VAIO 扩展许可证..."
+ },
+ {
+  "offset": "0x158810",
+  "en": "Online Help / Support...",
+  "cn": "在线帮助 / 技术支持..."
+ },
+ {
+  "offset": "0x158830",
+  "en": "Check Driver Installation...",
+  "cn": "检查驱动安装..."
+ },
+ {
+  "offset": "0x1588e0",
+  "en": "Windows Audio Map (around %s)",
+  "cn": "Windows 音频映射 (范围 %s)"
+ },
+ {
+  "offset": "0x158900",
+  "en": "Audio Engine is Starting...",
+  "cn": "音频引擎启动中..."
+ },
+ {
+  "offset": "0x158920",
+  "en": "Please Wait for audio engine start.",
+  "cn": "请等待音频引擎启动。"
+ }
+]
