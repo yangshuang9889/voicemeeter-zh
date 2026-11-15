@@ -1,5 +1,9 @@
 # Voicemeeter Potato 中文启动器（VM8CN）
 
+[![Release](https://img.shields.io/github/v/release/yangshuang9889/voicemeeter-zh?label=release)](https://github.com/yangshuang9889/voicemeeter-zh/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue.svg)](#)
+
 给 VB-Audio Voicemeeter Potato 做界面汉化的 Windows 启动器：**不改磁盘文件，只在进程内存里替换字符串**。
 双击启动器 → Voicemeeter 以中文界面启动；退出后原程序仍是英文，程序本体零改动。
 
@@ -17,6 +21,17 @@
 | 打开激活日志目录 | 直达「我的文档\Voicemeeter」并选中日志文件 | V1.1 |
 | 打开配置目录 | 一键打开 `%APPDATA%` 并选中 `VoiceMeeterPotatoDefault.xml` | V1.2 |
 | 命令行 | `--license` 直接开帮助面板，不启动 Voicemeeter | V1.1 |
+
+## 下载与安装
+
+普通用户无需改代码，直接取打包好的分享包即可：
+
+- 最新版下载页：[Releases](https://github.com/yangshuang9889/voicemeeter-zh/releases/latest)
+- 资产：`Voicemeeter中文启动器_V1.2_分享包.zip`（约 125 KB），解压后包含
+  `Voicemeeter8中文启动器.exe`、`使用说明.txt`、`分享介绍.md`、`启动界面预览.png`
+
+> 仓库内**不包含** VB-Audio 原版程序，也不包含修改后的 exe；请先从
+> [VB-Audio 官网](https://vb-audio.com/Voicemeeter/potato.htm) 自行安装原版 Voicemeeter Potato。
 
 ## 使用
 
