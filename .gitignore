@@ -45,3 +45,7 @@ venv/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# V1.3 归档与中间产物
+src/launcher/_archive/
+src/patch/patch_blob_b64.txt

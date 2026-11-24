@@ -1,5 +1,44 @@
 # 变更记录
 
+## V1.3 — 2026-11-24（启动器 v9）
+
+### 新增
+- **设置窗口 `SettingsForm`**（620×476）：三块设置集中管理
+  - ① 汉化目标程序：6 个版本下拉选择，实时显示「已在本机检测到 / 未检测到」与该版本汉化条目数；
+  - ② 启动画面等待秒数：`NumericUpDown` 0–15 秒，0 = 不显示启动画面；
+  - ③ 开机自动启动：勾选后写入 `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`，
+    值名 `VoicemeeterZHLauncher`，值内容 `"<启动器路径>" --autostart`；取消勾选并保存即删除该值；
+  - 底部按钮：打开设置文件目录 / 保存并应用 / 取消；保存前若目标版本本机未安装会二次确认；
+- **多版本汉化**：目标程序从 Potato 64 位扩展为 6 个版本
+  | 目标键 | 程序文件 | 条目数 |
+  | --- | --- | --- |
+  | `potato_x64` | `voicemeeter8x64.exe` | 1043 |
+  | `potato_x86` | `voicemeeter8.exe` | 983 |
+  | `banana_x64` | `voicemeeterpro_x64.exe` | 674 |
+  | `banana_x86` | `voicemeeterpro.exe` | 671 |
+  | `vm_x64` | `voicemeeter_x64.exe` | 492 |
+  | `vm_x86` | `voicemeeter.exe` | 490 |
+- 启动画面新增「设置」按钮（三按钮布局：设置 / 打开配置目录 / 授权与激活帮助），
+  副标题与「适用版本」「汉化条目数」按所选目标动态显示；设置里改秒数后按新值继续倒计时；
+- 命令行新增 `--settings`（直接开设置窗口，不启动 Voicemeeter）与 `--autostart`
+  （供开机自启使用，跳过启动画面）；
+- 设置持久化：`%APPDATA%\VoicemeeterZH\settings.ini`，键 `Target` / `SplashSeconds` / `AutoStart`；
+- `ConfigInfo` 按目标前缀定位 `VoiceMeeterPotatoDefault.xml` / `VoiceMeeterBananaDefault.xml` /
+  `VoiceMeeterDefault.xml`；
+- 新增 `gen_v9.py`（生成 6 套 gzip+base64 blob 与设置窗口源码）、`deploy_v9.py`（14 项校验 + 部署）、
+  `pack_v9.py`（打分享包 zip）、`src\patch\gen_blob_multi.py`（多版本 blob 生成）。
+
+### 变更
+- 交付主程序更名：`Voicemeeter8中文启动器.exe` → `Voicemeeter中文启动器.exe`（Old 版本备份进
+  `src\launcher\_archive\`）；
+- blob 由单份 base64 改为「6 份 gzip 压缩后 base64」，启动器体积 91 KB → 157 KB；
+- `SplashForm.ShowSplash()` 改为接收 `(毫秒, TargetInfo)`，标题与信息区随目标版本变化。
+
+### 已知限制
+- Banana 与 Voicemeeter 版本词条覆盖率低于 Potato，`INTELLIPAN` / `VIRTUAL INPUTS` / `VBAN`
+  等核心标签仍为英文（词条未覆盖，非乱码）；
+- 开机自启仍会弹 UAC，需要用户点「是」才能写入汉化。
+
 ## V1.2 — 2026-11-16（启动器 v8）
 
 ### 新增

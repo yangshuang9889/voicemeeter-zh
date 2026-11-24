@@ -1,13 +1,15 @@
-# Voicemeeter Potato 中文启动器（VM8CN）
+# Voicemeeter 中文启动器（VM8CN）
 
 [![Release](https://img.shields.io/github/v/release/yangshuang9889/voicemeeter-zh?label=release)](https://github.com/yangshuang9889/voicemeeter-zh/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue.svg)](#)
 
-给 VB-Audio Voicemeeter Potato 做界面汉化的 Windows 启动器：**不改磁盘文件，只在进程内存里替换字符串**。
+给 VB-Audio Voicemeeter 系列做界面汉化的 Windows 启动器：**不改磁盘文件，只在进程内存里替换字符串**。
 双击启动器 → Voicemeeter 以中文界面启动；退出后原程序仍是英文，程序本体零改动。
 
-- 当前版本：**V1.2**（启动器 v8）｜补丁规模 1043 条字符串｜目标程序 Voicemeeter Potato 3.1.3.0 x64
+- 当前版本：**V1.3**（启动器 v9）
+- 支持目标：Potato / Banana / Voicemeeter，各 64 位与 32 位（共 6 个）
+- 补丁规模：Potato 64 位 **1043** 条｜Potato 32 位 983 条｜Banana 674 / 671 条｜Voicemeeter 492 / 490 条
 - 技术细节 / 构建步骤 / 排错表：[docs/开发手册.md](docs/开发手册.md)
 - 版本变更：[CHANGELOG.md](CHANGELOG.md)
 
@@ -15,32 +17,57 @@
 
 | 功能 | 说明 | 起始版本 |
 | --- | --- | --- |
-| 界面汉化 | 启动时挂起目标进程 → 按 PE 节表算 RVA 写入中文 → 恢复线程，共 1043 条字符串 | V1.0 |
-| 启动画面 | 600×520 自绘无边框画面，5 秒淡出，点一下立即跳过 | V1.0 |
+| 界面汉化 | 启动时挂起目标进程 → 按 PE 节表算 RVA 写入中文 → 恢复线程 | V1.0 |
+| 多版本支持 | Potato / Banana / Voicemeeter 各 64 位与 32 位，启动器内自动识别并应用对应补丁 | V1.3 |
+| 设置窗口 | 三块设置：汉化目标版本、启动画面等待秒数（0-15）、开机自动启动 | V1.3 |
+| 启动画面 | 600×520 自绘无边框画面，秒数可配置，点一下立即跳过 | V1.0 |
 | 授权与激活帮助 | 6 页离线面板：挑战码 / 足迹 / REGEN / 异常排查 / 免责 | V1.1 |
 | 打开激活日志目录 | 直达「我的文档\Voicemeeter」并选中日志文件 | V1.1 |
-| 打开配置目录 | 一键打开 `%APPDATA%` 并选中 `VoiceMeeterPotatoDefault.xml` | V1.2 |
-| 命令行 | `--license` 直接开帮助面板，不启动 Voicemeeter | V1.1 |
+| 打开配置目录 | 一键打开 `%APPDATA%` 并选中当前版本的默认 XML | V1.2 |
+| 开机自启 | 写入 `HKCU\...\Run`（值名 `VoicemeeterZHLauncher`），自启跳过启动画面 | V1.3 |
+| 命令行 | `--settings` / `--license` / `--autostart`，一键直达 | V1.1 / V1.3 |
+
+### 目标程序与汉化条目
+
+| 版本 | 程序文件 | 汉化条目 |
+| --- | --- | --- |
+| Voicemeeter Potato（64 位） | `voicemeeter8x64.exe` | 1043 |
+| Voicemeeter Potato（32 位） | `voicemeeter8.exe` | 983 |
+| Voicemeeter Banana（64 位） | `voicemeeterpro_x64.exe` | 674 |
+| Voicemeeter Banana（32 位） | `voicemeeterpro.exe` | 671 |
+| Voicemeeter（64 位） | `voicemeeter_x64.exe` | 492 |
+| Voicemeeter（32 位） | `voicemeeter.exe` | 490 |
 
 ## 下载与安装
 
 普通用户无需改代码，直接取打包好的分享包即可：
 
 - 最新版下载页：[Releases](https://github.com/yangshuang9889/voicemeeter-zh/releases/latest)
-- 资产：`Voicemeeter中文启动器_V1.2_分享包.zip`（约 125 KB），解压后包含
-  `Voicemeeter8中文启动器.exe`、`使用说明.txt`、`分享介绍.md`、`启动界面预览.png`
+- 资产：`Voicemeeter中文启动器_V1.3_分享包.zip`，解压后包含
+  `Voicemeeter中文启动器.exe`、`使用说明.txt`、`分享介绍.md`、`启动界面预览.png`
 
 > 仓库内**不包含** VB-Audio 原版程序，也不包含修改后的 exe；请先从
-> [VB-Audio 官网](https://vb-audio.com/Voicemeeter/potato.htm) 自行安装原版 Voicemeeter Potato。
+> [VB-Audio 官网](https://vb-audio.com/Voicemeeter/) 自行安装对应版本的 Voicemeeter。
 
 ## 使用
 
-1. 本机已安装 Voicemeeter Potato 8.x 64 位（默认安装目录 `C:\Program Files (x86)\VB\Voicemeeter\`）；
-2. 运行 `Voicemeeter8中文启动器.exe`，UAC 提权点「是」（内存写入需要管理员权限）；
-3. 关闭 Voicemeeter 后即回到原版英文。
+1. 本机已安装至少一个版本的 Voicemeeter（默认安装目录 `C:\Program Files (x86)\VB\Voicemeeter\`）；
+2. 运行 `Voicemeeter中文启动器.exe`，UAC 提权点「是」（内存写入需要管理员权限）；
+3. 版本不对就点启动画面的「设置」，在「汉化目标程序」里换成已装版本；
+4. 关闭 Voicemeeter 后即回到原版英文。
 
 > 杀软可能误报：启动器会 `CreateProcess` 挂起 + `WriteProcessMemory`，行为特征与注入类工具相同，
-> 属正常现象，请加信任。本工具不联网、不写注册表、不在程序目录留文件。
+> 属正常现象，请加信任。本工具不联网、只在用户主动开启时写一条 Run 注册表项、不在程序目录留文件。
+
+## 设置与配置文件
+
+设置保存在 `%APPDATA%\VoicemeeterZH\settings.ini`：
+
+| 键 | 默认值 | 说明 |
+| --- | --- | --- |
+| `Target` | `potato_x64` | 汉化目标版本键，可选 `potato_x64` / `potato_x86` / `banana_x64` / `banana_x86` / `vm_x64` / `vm_x86` |
+| `SplashSeconds` | `5` | 启动画面等待秒数，0 = 不显示画面 |
+| `AutoStart` | `0` | 1 = 开机自启（同步到 Run 注册表项 `VoicemeeterZHLauncher`） |
 
 ## 从源码构建
 
@@ -48,11 +75,10 @@
 `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe`）、Python 3.8+。
 
 ```powershell
-python src\patch\gen_blob4.py            # 1) 翻译表 -> base64 blob（需原始 exe 基准，见下）
-python src\launcher\gen_v8.py            # 2) Launcher_v7.cs -> Launcher_v8.cs（嵌入 blob 与文案）
-python src\launcher\deploy_v8.py         # 3) 编译 + 校验 + 部署 dist + 刷预览图
-python src\launcher\update_docs_v8.py    # 4) 交付文档升版
-python src\launcher\pack_v8.py           # 5) 打分享包 zip 并校验
+python src\patch\gen_blob_multi.py     # 1) 六套翻译表 -> 多版本 blob（需原始 exe 基准，见下）
+python src\launcher\gen_v9.py           # 2) Launcher_v8.cs -> Launcher_v9.cs（嵌入 6 套 blob 与文案）
+python src\launcher\deploy_v9.py        # 3) 编译 + 14 项校验 + 部署 dist
+python src\launcher\pack_v9.py          # 4) 打分享包 zip 并校验
 ```
 
 单独编译启动器：
@@ -60,21 +86,21 @@ python src\launcher\pack_v8.py           # 5) 打分享包 zip 并校验
 ```powershell
 csc.exe /nologo /target:winexe /platform:x64 /optimize+ /win32manifest:app.manifest `
         /r:System.dll /r:System.Drawing.dll /r:System.Windows.Forms.dll `
-        /out:Voicemeeter8中文启动器.exe Launcher_v8.cs
+        /out:Voicemeeter中文启动器.exe Launcher_v9.cs
 ```
 
-> 重新生成 blob 需要一份 **VB-Audio 原版 `voicemeeter8x64.exe`** 作补丁基准
-> （`src\patch\gen_blob4.py` 的 `ORIG` 常量）。该文件版权归 VB-Audio，**不随仓库分发**，
+> 重新生成 blob 需要一份 **VB-Audio 原版 exe** 作补丁基准
+> （`src\patch\gen_blob_multi.py` 里的 `ORIG` 映射）。这些文件版权归 VB-Audio，**不随仓库分发**，
 > 请自行从官网安装取得。仓库只包含翻译数据与生成脚本。
 
 ## 目录结构
 
 | 路径 | 内容 |
 | --- | --- |
-| `src\launcher\` | 现役构建链：`app.manifest`、`Launcher_v7.cs`（v8 输入）、`Launcher_v8.cs`、`gen_v8.py`、`deploy_v8.py`、`pack_v8.py`、`update_docs_v8.py` |
-| `src\patch\` | 翻译数据（`patch_table.json`、`extra_zh*.py`、`utf16_zh.py`）与 blob 生成链（`gen_blob*.py`） |
+| `src\launcher\` | 现役构建链：`app.manifest`、`Launcher_v8.cs`（v9 输入）、`Launcher_v9.cs`、`gen_v9.py`、`deploy_v9.py`、`pack_v9.py` |
+| `src\patch\` | 翻译数据（`patch_table*.json`、`patch_blobs_multi.json`、`extra_zh*.py`、`utf16_zh.py`）与 blob 生成链（`gen_blob*.py`） |
 | `src\analysis\` | 静态扫描、资源枚举、偏移定位脚本与扫描数据 |
-| `src\test\` | 窗口截图 / 按钮点击验证脚本（`shot_v8.ps1`、`click_v8.ps1`） |
+| `src\test\` | 窗口截图 / 按钮点击验证脚本 |
 | `docs\` | 开发手册（架构、PE 内存补丁原理、排错、版本记录） |
 | `dist\` | 交付物：启动器 exe、使用说明、分享介绍、预览图、分享包 zip（产物不入库） |
 | `legacy\` | 历史版本：早期启动器源码脚本、旧版二进制、已废弃的「直接改 exe」方案 |
@@ -82,11 +108,11 @@ csc.exe /nologo /target:winexe /platform:x64 /optimize+ /win32manifest:app.manif
 
 ## 硬约束（改代码前必读）
 
-1. 磁盘上的 `voicemeeter8x64.exe` **一个字节都不能改** —— 直接改盘约 10 秒后崩溃（`0xC0000005` / `0xC000041D`），
+1. 磁盘上的目标 exe **一个字节都不能改** —— 直接改盘约 10 秒后崩溃（`0xC0000005` / `0xC000041D`），
    必须走「挂起创建进程 → 按 RVA 写内存 → `ResumeThread`」；
 2. `RVA = 文件偏移 - 节原始大小偏移 + 节虚拟地址`，写内存前必须先解析 PE 节表；
 3. 中文编码后长度不得超过原字符串容量，**超长条目跳过而非截断**（截断会破坏相邻字符串）；
-4. 生成脚本的 `ORIG` 常量指向 `...\VB\Voicemeeter\voicemeeter8x64.exe1`（官方安装后自带备份），换版本必须同步改；
+4. 生成脚本的 `ORIG` 映射按版本分别指向对应的 `*.exe1` 备份，换版本必须同步改；
 5. 主界面混音台与插件面板的图形文字在 RCDATA 100–104 加密资源里，字符串层补丁覆盖不到；
 6. 自绘 UI 验证一律用 `PrintWindow(hWnd, hdc, 2)` 按窗口句柄截图，不要靠肉眼盯全屏截图。
 
@@ -102,4 +128,4 @@ csc.exe /nologo /target:winexe /platform:x64 /optimize+ /win32manifest:app.manif
 本项目源码采用 [MIT License](LICENSE)。
 Voicemeeter 及其相关商标、程序版权归 VB-Audio Software 所有，本项目与 VB-Audio 无任何隶属关系。
 
-制作：杨爽工作室 ｜ 制作工具：Marvis ｜ 实测环境：Windows 11 Build 26200 + Voicemeeter Potato 3.1.3 x64
+制作：杨爽工作室 ｜ 制作工具：Marvis ｜ 实测环境：Windows 11 Build 26200 + Voicemeeter Potato 3.1.3 x64 / Banana / Voicemeeter 1.x
